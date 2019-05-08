@@ -1,0 +1,553 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/09 Customer Order Entry/Customer Order Entry.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="09-01 Taking Orders &amp; Making Sales">
+    <TocEntry
+      Title="Fulfilling Customer Orders Overview"
+      Link="/Content/09 Customer Order Entry/09-01 Taking Orders &amp; Making Sales/Fulfilling Customer Orders Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Order/Sale Comparison Overview"
+      Link="/Content/09 Customer Order Entry/09-01 Taking Orders &amp; Making Sales/Order Sale Comparison Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="09-02 Quick Order">
+    <TocEntry
+      Title="Quick Order Overview"
+      Link="/Content/09 Customer Order Entry/09-02 Quick Order/Quick Order Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Update Quick Order Procedure"
+      Link="/Content/09 Customer Order Entry/09-02 Quick Order/Update Quick Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="09-03 Customer Order Entry (COE)">
+    <TocEntry
+      Title="Add COE Order Procedure"
+      Link="/Content/09 Customer Order Entry/09-03 Customer Order Entry (COE)/Add COE Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Cancel or Delete COE Order Procedure"
+      Link="/Content/09 Customer Order Entry/09-03 Customer Order Entry (COE)/Cancel or Delete COE Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="COE Customer Service Help"
+      Link="/Content/09 Customer Order Entry/09-03 Customer Order Entry (COE)/COE Customer Service Help.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="COE Order Status Overview"
+      Link="/Content/09 Customer Order Entry/09-03 Customer Order Entry (COE)/COE Order Status Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Customer Order Entry (COE) Overview"
+      Link="/Content/09 Customer Order Entry/09-03 Customer Order Entry (COE)/Customer Order Entry (COE) Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Customer Order Entry Accuracy Policy"
+      Link="/Content/09 Customer Order Entry/09-03 Customer Order Entry (COE)/Customer Order Entry Accuracy Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Customer Order Entry Delivery Overview"
+      Link="/Content/09 Customer Order Entry/09-03 Customer Order Entry (COE)/Customer Order Entry Delivery Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Customer Order Entry Inventory Status Overview"
+      Link="/Content/09 Customer Order Entry/09-03 Customer Order Entry (COE)/Customer Order Entry Inventory Status Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Customer Order Entry Reminders Overview"
+      Link="/Content/09 Customer Order Entry/09-03 Customer Order Entry (COE)/Customer Order Entry Reminders Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Customer Order Entry Reports Procedure"
+      Link="/Content/09 Customer Order Entry/09-03 Customer Order Entry (COE)/Customer Order Entry Reports Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Customer Order Entry Status Box Procedure"
+      Link="/Content/09 Customer Order Entry/09-03 Customer Order Entry (COE)/Customer Order Entry Status Box Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Link Customer Order to Correction Transaction Procedure"
+      Link="/Content/09 Customer Order Entry/09-03 Customer Order Entry (COE)/Link Customer Order to Correction Transaction Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Link Customer Orders to One Transaction Procedure"
+      Link="/Content/09 Customer Order Entry/09-03 Customer Order Entry (COE)/Link Customer Orders to One Transaction Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Print COE Operation or E-Commerce Order Procedure"
+      Link="/Content/09 Customer Order Entry/09-03 Customer Order Entry (COE)/Print COE Operation or E-Commerce Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Print Picking Ticket Procedure"
+      Link="/Content/09 Customer Order Entry/09-03 Customer Order Entry (COE)/Print Picking Ticket Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Process COE Order Procedure"
+      Link="/Content/09 Customer Order Entry/09-03 Customer Order Entry (COE)/Process COE Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Update COE Order Procedure"
+      Link="/Content/09 Customer Order Entry/09-03 Customer Order Entry (COE)/Update COE Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="09-03A E-Commerce">
+    <TocEntry
+      Title="COE E-Commerce Orders Policy"
+      Link="/Content/09 Customer Order Entry/09-03A E-Commerce/COE E-Commerce Orders Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="COE E-Commerce Orders Procedure"
+      Link="/Content/09 Customer Order Entry/09-03A E-Commerce/COE E-Commerce Orders Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="E-Commerce Customer Business Rules Overview"
+      Link="/Content/09 Customer Order Entry/09-03A E-Commerce/E-Commerce Customer Business Rules Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="E-Commerce Overview"
+      Link="/Content/09 Customer Order Entry/09-03A E-Commerce/E-Commerce Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="E-Commerce Vendors Overview"
+      Link="/Content/09 Customer Order Entry/09-03A E-Commerce/E-Commerce Vendors Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="EDI Transaction Type Procedure"
+      Link="/Content/09 Customer Order Entry/09-03A E-Commerce/EDI Transaction Type Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="New EDI Customer Procedure"
+      Link="/Content/09 Customer Order Entry/09-03A E-Commerce/New EDI Customer Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Process E-Commerce Orders Procedure"
+      Link="/Content/09 Customer Order Entry/09-03A E-Commerce/Process E-Commerce Orders Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="09-03B E-Commerce - Customer Benefits">
+    <TocEntry
+      Title="Customer Website &amp; Electronic Invoice Overview"
+      Link="/Content/09 Customer Order Entry/09-03B E-Commerce - Customer Benefits/Customer Website &amp; Electronic Invoice Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Electronic Funds Transfer (EFT) and Automated Clearing House (ACH) Payments Overview"
+      Link="/Content/09 Customer Order Entry/09-03B E-Commerce - Customer Benefits/Electronic Funds Transfer (EFT) and Automated Clearing House (ACH) Payments Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Electronic Order Submission Overview"
+      Link="/Content/09 Customer Order Entry/09-03B E-Commerce - Customer Benefits/Electronic Order Submission Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Ordering Via MySW Overview"
+      Link="/Content/09 Customer Order Entry/09-03B E-Commerce - Customer Benefits/Ordering Via MySW Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Receiving E-Commerce Orders Overview"
+      Link="/Content/09 Customer Order Entry/09-03B E-Commerce - Customer Benefits/Receiving E-Commerce Orders Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="09-03C E-Commerce - PunchOut">
+    <TocEntry
+      Title="Create Customer PunchOut Order Procedure"
+      Link="/Content/09 Customer Order Entry/09-03C E-Commerce - PunchOut/Create Customer PunchOut Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="New PunchOut Customers Procedure"
+      Link="/Content/09 Customer Order Entry/09-03C E-Commerce - PunchOut/New PunchOut Customers Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="PunchOut Company Benefits Overview"
+      Link="/Content/09 Customer Order Entry/09-03C E-Commerce - PunchOut/PunchOut Company Benefits Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="PunchOut Customer Benefits Overview"
+      Link="/Content/09 Customer Order Entry/09-03C E-Commerce - PunchOut/PunchOut Customer Benefits Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="PunchOut Customer Resources Help"
+      Link="/Content/09 Customer Order Entry/09-03C E-Commerce - PunchOut/PunchOut Customer Resources Help.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="PunchOut Overview"
+      Link="/Content/09 Customer Order Entry/09-03C E-Commerce - PunchOut/PunchOut Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="09-03D E-Commerce - Buy Online Pick Up in Store">
+    <TocEntry
+      Title="Buy Online - Pick Up in Store Company Benefits Overview"
+      Link="/Content/09 Customer Order Entry/09-03D E-Commerce - Buy Online Pick Up in Store/Buy Online - Pick Up in Store Company Benefits Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Buy Online - Pick Up in Store Customer Benefits Overview"
+      Link="/Content/09 Customer Order Entry/09-03D E-Commerce - Buy Online Pick Up in Store/Buy Online - Pick Up in Store Customer Benefits Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Buy Online - Pick Up in Store Help"
+      Link="/Content/09 Customer Order Entry/09-03D E-Commerce - Buy Online Pick Up in Store/Buy Online - Pick Up in Store Help.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Buy Online - Pick Up in Store Overview"
+      Link="/Content/09 Customer Order Entry/09-03D E-Commerce - Buy Online Pick Up in Store/Buy Online - Pick Up in Store Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Buy Online - Pick Up in Store Policy"
+      Link="/Content/09 Customer Order Entry/09-03D E-Commerce - Buy Online Pick Up in Store/Buy Online - Pick Up in Store Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="COE Buy Online - Pick Up in Store Sale Procedure"
+      Link="/Content/09 Customer Order Entry/09-03D E-Commerce - Buy Online Pick Up in Store/COE Buy Online - Pick Up in Store Sale Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="POS Buy Online - Pick Up in Store Sale Procedure"
+      Link="/Content/09 Customer Order Entry/09-03D E-Commerce - Buy Online Pick Up in Store/POS Buy Online - Pick Up in Store Sale Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Process Order Forfeiture  Procedure"
+      Link="/Content/09 Customer Order Entry/09-03D E-Commerce - Buy Online Pick Up in Store/Process Order Forfeiture Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="09-04 COE Scorecard">
+    <TocEntry
+      Title="COE Scorecard Overview"
+      Link="/Content/09 Customer Order Entry/09-04 COE Scorecard/COE Scorecard Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="09-05 Pottery Barn Orders">
+    <TocEntry
+      Title="IBAR 4 for Pottery Barn Procedure"
+      Link="/Content/09 Customer Order Entry/09-05 Pottery Barn Orders/IBAR 4 for Pottery Barn Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Pottery Barn Order Disposition Procedure"
+      Link="/Content/09 Customer Order Entry/09-05 Pottery Barn Orders/Pottery Barn Order Disposition Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Pottery Barn Orders Overview"
+      Link="/Content/09 Customer Order Entry/09-05 Pottery Barn Orders/Pottery Barn Orders Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="09-06 Sher-Color">
+    <TocEntry
+      Title="Attach Label Printer Procedure"
+      Link="/Content/09 Customer Order Entry/09-06 Sher-Color/Attach Label Printer Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Color Menu Overview"
+      Link="/Content/09 Customer Order Entry/09-06 Sher-Color/Color Menu Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Color Training Overview"
+      Link="/Content/09 Customer Order Entry/09-06 Sher-Color/Color Training Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Colorant Characterization Overview"
+      Link="/Content/09 Customer Order Entry/09-06 Sher-Color/Colorant Characterization Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Colorant Inventory Procedure"
+      Link="/Content/09 Customer Order Entry/09-06 Sher-Color/Colorant Inventory Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Competitive Color Procedure"
+      Link="/Content/09 Customer Order Entry/09-06 Sher-Color/Competitive Color Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Configure Color Station Procedure"
+      Link="/Content/09 Customer Order Entry/09-06 Sher-Color/Configure Color Station Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Configure Formula Printing Procedure"
+      Link="/Content/09 Customer Order Entry/09-06 Sher-Color/Configure Formula Printing Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Copy Color Overview"
+      Link="/Content/09 Customer Order Entry/09-06 Sher-Color/Copy Color Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Create Color Eye Match Procedure"
+      Link="/Content/09 Customer Order Entry/09-06 Sher-Color/Create Color Eye Match Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Custom Color Procedure"
+      Link="/Content/09 Customer Order Entry/09-06 Sher-Color/Custom Color Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Custom Formula Maintenance Procedure"
+      Link="/Content/09 Customer Order Entry/09-06 Sher-Color/Custom Formula Maintenance Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Sher-Color Overview"
+      Link="/Content/09 Customer Order Entry/09-06 Sher-Color/Sher-Color Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Sher-Color Procedure"
+      Link="/Content/09 Customer Order Entry/09-06 Sher-Color/Sher-Color Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Sherwin-Williams Color Formulas Procedure"
+      Link="/Content/09 Customer Order Entry/09-06 Sher-Color/Sherwin-Williams Color Formulas Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="09-07 Mistints">
+    <TocEntry
+      Title="Mistints - After Sold Procedure"
+      Link="/Content/09 Customer Order Entry/09-07 Mistints/Mistints - After Sold Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Mistints - Before Sold Procedure"
+      Link="/Content/09 Customer Order Entry/09-07 Mistints/Mistints - Before Sold Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Mistints Policy"
+      Link="/Content/09 Customer Order Entry/09-07 Mistints/Mistints Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Expense for Mistints Procedure"
+      Link="/Content/09 Customer Order Entry/09-07 Mistints/Store Expense for Mistints Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="09-08 Color Maintenance of Sold Paint">
+    <TocEntry
+      Title="Adjust Tinted Color Procedure"
+      Link="/Content/09 Customer Order Entry/09-08 Color Maintenance of Sold Paint/Adjust Tinted Color Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Color Maintenance of Sold Paint Overview"
+      Link="/Content/09 Customer Order Entry/09-08 Color Maintenance of Sold Paint/Color Maintenance of Sold Paint Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Color Maintenance of Sold Paint Policy"
+      Link="/Content/09 Customer Order Entry/09-08 Color Maintenance of Sold Paint/Color Maintenance of Sold Paint Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Recall Previously Tinted Order Procedure"
+      Link="/Content/09 Customer Order Entry/09-08 Color Maintenance of Sold Paint/Recall Previously Tinted Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Record Color Maintenance Product Procedure"
+      Link="/Content/09 Customer Order Entry/09-08 Color Maintenance of Sold Paint/Record Color Maintenance Product Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="09-09 Paint Transfer Orders">
+    <TocEntry
+      Title="Backorder/Short Fill Overview"
+      Link="/Content/09 Customer Order Entry/09-09 Paint Transfer Orders/Backorder Short Fill Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Cancel Paint Transfer Order Procedure"
+      Link="/Content/09 Customer Order Entry/09-09 Paint Transfer Orders/Cancel Paint Transfer Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="ISR Transfer Receipt Policy"
+      Link="/Content/09 Customer Order Entry/09-09 Paint Transfer Orders/ISR Transfer Receipt Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="IST Transfer Fulfill Policy"
+      Link="/Content/09 Customer Order Entry/09-09 Paint Transfer Orders/IST Transfer Fulfill Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="IST Transfer Procedure"
+      Link="/Content/09 Customer Order Entry/09-09 Paint Transfer Orders/IST Transfer Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Paint Transfer Order Overview"
+      Link="/Content/09 Customer Order Entry/09-09 Paint Transfer Orders/Paint Transfer Order Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Paint Transfer Order  Policy"
+      Link="/Content/09 Customer Order Entry/09-09 Paint Transfer Orders/Paint Transfer Order Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Receive ISR Transfer Procedure"
+      Link="/Content/09 Customer Order Entry/09-09 Paint Transfer Orders/Receive ISR Transfer Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Retint Transfer Order Procedure"
+      Link="/Content/09 Customer Order Entry/09-09 Paint Transfer Orders/Retint Transfer Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Return Transfer to SDC Procedure"
+      Link="/Content/09 Customer Order Entry/09-09 Paint Transfer Orders/Return Transfer to SDC Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="SDC Transfer Order Return Policy"
+      Link="/Content/09 Customer Order Entry/09-09 Paint Transfer Orders/SDC Transfer Order Return Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Transfer Order Help"
+      Link="/Content/09 Customer Order Entry/09-09 Paint Transfer Orders/Transfer Order Help.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Transfer Order to Another Location Procedure"
+      Link="/Content/09 Customer Order Entry/09-09 Paint Transfer Orders/Transfer Order to Another Location Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Transfer Store Maintenance Procedure"
+      Link="/Content/09 Customer Order Entry/09-09 Paint Transfer Orders/Transfer Store Maintenance Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="09-10 Service Center Transfer">
+    <TocEntry
+      Title="Adjust Customer Order SDC Procedure"
+      Link="/Content/09 Customer Order Entry/09-10 Service Center Transfer/Adjust Customer Order SDC Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Retint Transfer Order Procedure"
+      Link="/Content/09 Customer Order Entry/09-10 Service Center Transfer/Retint Transfer Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="SDC Hotseat Request Procedure"
+      Link="/Content/09 Customer Order Entry/09-10 Service Center Transfer/SDC Hotseat Request Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="SDC Return Transferred Order Procedure"
+      Link="/Content/09 Customer Order Entry/09-10 Service Center Transfer/SDC Return Transferred Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Service Center Transfer Order Policy"
+      Link="/Content/09 Customer Order Entry/09-10 Service Center Transfer/Service Center Transfer Order Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Transfer IST Order Back to Store Procedure"
+      Link="/Content/09 Customer Order Entry/09-10 Service Center Transfer/Transfer IST Order Back to Store Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Transferred Order Overview"
+      Link="/Content/09 Customer Order Entry/09-10 Service Center Transfer/Transferred Order Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Transferred Order Procedure"
+      Link="/Content/09 Customer Order Entry/09-10 Service Center Transfer/Transferred Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Transferred Order Return Policy"
+      Link="/Content/09 Customer Order Entry/09-10 Service Center Transfer/Transferred Order Return Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="09-11 Automotive Customer Backorder">
+    <TocEntry
+      Title="Automotive Customer Backorder  Overview"
+      Link="/Content/09 Customer Order Entry/09-11 Automotive Customer Backorder/Automotive Customer Backorder Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Automotive Customer Backorder Policy"
+      Link="/Content/09 Customer Order Entry/09-11 Automotive Customer Backorder/Automotive Customer Backorder Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Cancel COE Delivery Procedure"
+      Link="/Content/09 Customer Order Entry/09-11 Automotive Customer Backorder/Cancel COE Delivery Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Customer Order with Backorder Procedure"
+      Link="/Content/09 Customer Order Entry/09-11 Automotive Customer Backorder/Customer Order with Backorder Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Daily Customer Service Report Overview"
+      Link="/Content/09 Customer Order Entry/09-11 Automotive Customer Backorder/Daily Customer Service Report Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Fulfill Backordered Products  Procedure"
+      Link="/Content/09 Customer Order Entry/09-11 Automotive Customer Backorder/Fulfill Backordered Products Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Update Confirmation of Delivery Price Printing Procedure"
+      Link="/Content/09 Customer Order Entry/09-11 Automotive Customer Backorder/Update Confirmation of Delivery Price Printing Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="09-13 Deposit Processing">
+    <TocEntry
+      Title="Customer Pick-up with Deposit Procedure"
+      Link="/Content/09 Customer Order Entry/09-13 Deposit Processing/Customer Pick-up with Deposit Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Deposit Processing  Overview"
+      Link="/Content/09 Customer Order Entry/09-13 Deposit Processing/Deposit Processing Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Deposits &amp; Customer Information Policy"
+      Link="/Content/09 Customer Order Entry/09-13 Deposit Processing/Deposits &amp; Customer Information Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Process Deposits  Procedure"
+      Link="/Content/09 Customer Order Entry/09-13 Deposit Processing/Process Deposits Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Refund Deposit Procedure"
+      Link="/Content/09 Customer Order Entry/09-13 Deposit Processing/Refund Deposit Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="09-14 Customer Samples">
+    <TocEntry
+      Title="Customer Order for Demonstration Procedure"
+      Link="/Content/09 Customer Order Entry/09-14 Customer Samples/Customer Order for Demonstration Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Customer Samples Overview"
+      Link="/Content/09 Customer Order Entry/09-14 Customer Samples/Customer Samples Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Demonstration Fund Overview"
+      Link="/Content/09 Customer Order Entry/09-14 Customer Samples/Demonstration Fund Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Demonstration Fund Policy"
+      Link="/Content/09 Customer Order Entry/09-14 Customer Samples/Demonstration Fund Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Sales Representative Samples Policy"
+      Link="/Content/09 Customer Order Entry/09-14 Customer Samples/Sales Representative Samples Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Test Drive Discount Procedure"
+      Link="/Content/09 Customer Order Entry/09-14 Customer Samples/Test Drive Discount Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Test Drive Overview"
+      Link="/Content/09 Customer Order Entry/09-14 Customer Samples/Test Drive Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Test Drive Policy"
+      Link="/Content/09 Customer Order Entry/09-14 Customer Samples/Test Drive Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="09-14A Regional Demo Trailers">
+    <TocEntry
+      Title="Inventory eExpense Procedure"
+      Link="/Content/09 Customer Order Entry/09-14A Regional Demo Trailers/Inventory eExpense Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Regional Demo Trailers Overview"
+      Link="/Content/09 Customer Order Entry/09-14A Regional Demo Trailers/Regional Demo Trailers Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Regional Demo Trailers Policy"
+      Link="/Content/09 Customer Order Entry/09-14A Regional Demo Trailers/Regional Demo Trailers Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Storage &amp; Trailer Maintenance Policy"
+      Link="/Content/09 Customer Order Entry/09-14A Regional Demo Trailers/Storage &amp; Trailer Maintenance Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

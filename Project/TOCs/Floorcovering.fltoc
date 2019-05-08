@@ -1,0 +1,478 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/14 Floorcovering/Floorcovering.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="14-04 Floorcovering Customer Orders">
+    <TocEntry
+      Title="Credit Balance Lookup Procedure"
+      Link="/Content/14 Floorcovering/14-04 Floorcovering Customer Orders/Credit Balance Lookup Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Floorcovering Complaint &amp; Credit a Customer to Create a New Invoice Procedure"
+      Link="/Content/14 Floorcovering/14-04 Floorcovering Customer Orders/Floorcovering Complaint &amp; Credit a Customer to Create a New Invoice Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Floorcovering Complaint &amp; Customer Not Billed  Procedure"
+      Link="/Content/14 Floorcovering/14-04 Floorcovering Customer Orders/Floorcovering Complaint &amp; Customer Not Billed Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Floorcovering Complaint &amp; Customer Pays Original Invoice Procedure"
+      Link="/Content/14 Floorcovering/14-04 Floorcovering Customer Orders/Floorcovering Complaint &amp; Customer Pays Original Invoice Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Floorcovering Complaint Policy"
+      Link="/Content/14 Floorcovering/14-04 Floorcovering Customer Orders/Floorcovering Complaint Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Floorcovering Complaint Procedure"
+      Link="/Content/14 Floorcovering/14-04 Floorcovering Customer Orders/Floorcovering Complaint Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Floorcovering Customer Orders Policy"
+      Link="/Content/14 Floorcovering/14-04 Floorcovering Customer Orders/Floorcovering Customer Orders Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Installation Orders Overview"
+      Link="/Content/14 Floorcovering/14-04 Floorcovering Customer Orders/Installation Orders Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Set Up Installer  Procedure"
+      Link="/Content/14 Floorcovering/14-04 Floorcovering Customer Orders/Set Up Installer Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Update Order Details &amp; Apply Use Tax for Installed Floorcovering Procedure"
+      Link="/Content/14 Floorcovering/14-04 Floorcovering Customer Orders/Update Order Details &amp; Apply Use Tax for Installed Floorcovering Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="14-06 Work Orders">
+    <TocEntry
+      Title="Cancel Work Order Cut  Procedure"
+      Link="/Content/14 Floorcovering/14-06 Work Orders/Cancel Work Order Cut Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Clear Locked Work Order  Procedure"
+      Link="/Content/14 Floorcovering/14-06 Work Orders/Clear Locked Work Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Re-Work Work Order Procedure"
+      Link="/Content/14 Floorcovering/14-06 Work Orders/Re-Work Work Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Reconcile All Line Items Procedure"
+      Link="/Content/14 Floorcovering/14-06 Work Orders/Reconcile All Line Items Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Work Order Disposition Procedure"
+      Link="/Content/14 Floorcovering/14-06 Work Orders/Work Order Disposition Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Work Order Reconciliation Overview"
+      Link="/Content/14 Floorcovering/14-06 Work Orders/Work Order Reconciliation Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Work Order Reconciliation Policy"
+      Link="/Content/14 Floorcovering/14-06 Work Orders/Work Order Reconciliation Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Work Order Reconciliation Procedure"
+      Link="/Content/14 Floorcovering/14-06 Work Orders/Work Order Reconciliation Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Work Order System Procedure"
+      Link="/Content/14 Floorcovering/14-06 Work Orders/Work Order System Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Work Orders Overview"
+      Link="/Content/14 Floorcovering/14-06 Work Orders/Work Orders Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Work Orders Policy"
+      Link="/Content/14 Floorcovering/14-06 Work Orders/Work Orders Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="14-06A Installer Scheduler">
+    <TocEntry
+      Title="Installer Crew Maintenance  Procedure"
+      Link="/Content/14 Floorcovering/14-06A Installer Scheduler/Installer Crew Maintenance Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Installer Scheduler Overview"
+      Link="/Content/14 Floorcovering/14-06A Installer Scheduler/Installer Scheduler Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Installer Scheduler Procedure"
+      Link="/Content/14 Floorcovering/14-06A Installer Scheduler/Installer Scheduler Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="14-07 Cut Zone">
+    <TocEntry
+      Title="Cut Options Overview"
+      Link="/Content/14 Floorcovering/14-07 Cut Zone/Cut Options Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Cut Rolled Goods Policy"
+      Link="/Content/14 Floorcovering/14-07 Cut Zone/Cut Rolled Goods Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Cut Rolls for Order Procedure"
+      Link="/Content/14 Floorcovering/14-07 Cut Zone/Cut Rolls for Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Cut Zone Access Procedure"
+      Link="/Content/14 Floorcovering/14-07 Cut Zone/Cut Zone Access Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Cut Zone Overview"
+      Link="/Content/14 Floorcovering/14-07 Cut Zone/Cut Zone Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Roll Balance Threshold Procedure"
+      Link="/Content/14 Floorcovering/14-07 Cut Zone/Roll Balance Threshold Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Split the Width of a Roll Procedure"
+      Link="/Content/14 Floorcovering/14-07 Cut Zone/Split the Width of a Roll Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="14-08 Floorcovering Billing &amp; Payments">
+    <TocEntry
+      Title="Adjust Labor Breakdown on Floorcovering Order Procedure"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Adjust Labor Breakdown on Floorcovering Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Contract Jobs Overview"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Contract Jobs Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Contract Jobs Policy"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Contract Jobs Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Contract Jobs Procedure"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Contract Jobs Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Customer Will Not Be Billed Installer Payment Procedure"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="DIY Cash on Completion Policy"
+      Link="/Content/05 Credit/05-03 DIY Credit/DIY Cash on Completion Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="DIY Cash on Completion Transaction Procedure"
+      Link="/Content/05 Credit/05-03 DIY Credit/DIY Cash on Completion Transaction Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Floorcovering Expense Overview"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Floorcovering Expense Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Floorcovering Expense Policy"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Floorcovering Expense Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Floorcovering Expense Procedure"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Floorcovering Expense Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Floorcovering Sales Overview"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Floorcovering Sales Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Floorcovering Sales Policy"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Floorcovering Sales Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Installer Complaint Against Retainage Amount  Procedure"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Installer Retainage Complaint Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Installer Garnishment Overview"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Installer Garnishment Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Installer Garnishment Policy"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Installer Garnishment Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Installer Garnishment Procedure"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Installer Garnishment Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Installer Not Paid Procedure"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Installer Not Paid Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Installer Payment Advance Policy"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Installer Payment Advance Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Installer Payment Advance Procedure"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Installer Payment Advance Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Installer Payment by Draft Policy"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Installer Payment by Draft Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Installer Payment by Draft Procedure"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Installer Payment by Draft Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Installer Payment Policy"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Installer Payment Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Installer Retainage Overview"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Installer Retainage Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Installer Retainage Procedure"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Installer Retainage Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Installer Retainage Refund Overview"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Installer Retainage Refund Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Installer Retainage Refund Policy"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Installer Retainage Refund Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Installer Retainage Refund Procedure"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Installer Retainage Refund Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Installer Warranty for Repairs and Reinstalls Procedure"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Installer Warranty for Repairs and Reinstalls Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="IPA Paperwork Procedure"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/IPA Paperwork Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Link Installer Payment to Transaction Procedure"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Installer Payment Linked to Transaction Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Multiple Installers or Single Payment Procedure"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Multiple Installers or Single Payment Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Prior To Billing Customer Installer Payment  Procedure"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Single Installer or Full Payment Procedure"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Single Installer or Full Payment Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Single Installer or Partial Payment Procedure"
+      Link="/Content/14 Floorcovering/14-08 Floorcovering Billing &amp; Payments/Single Installer or Partial Payment Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="14-08A Billing Extension Requests">
+    <TocEntry
+      Title="Billing Extension Request Overview"
+      Link="/Content/14 Floorcovering/14-08A Billing Extension Requests/Billing Extension Request Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Billing Extension Request Policy"
+      Link="/Content/14 Floorcovering/14-08A Billing Extension Requests/Billing Extension Request Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Billing Extension Request Procedure"
+      Link="/Content/14 Floorcovering/14-08A Billing Extension Requests/Billing Extension Request Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="14-09 Manage Rolled Inventory">
+    <TocEntry
+      Title="Asset Value Merchandise Overview"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/Asset Value Merchandise Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Asset Value Merchandise Policy"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/Asset Value Merchandise Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Asset Value Merchandise Procedure"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/Asset Value Merchandise Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="CanWest Inventory Management Overview"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/CanWest Inventory Management Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="CanWest Inventory Management Policy"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/CanWest Inventory Management Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Cove Base Overview"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/Cove Base Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Cove Base Procedure"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/Cove Base Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Floorcovering Bin Locations Overview"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/Floorcovering Bin Locations Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Floorcovering Purchase Order Receipt Overview"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/Floorcovering Purchase Order Receipt Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Floorcovering Purchase Order Receipt Policy"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/Floorcovering Purchase Order Receipt Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Floorcovering Sales Numbers Policy"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/Floorcovering Sales Numbers Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Floorcovering Shrink Overview"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/Floorcovering Shrink Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Isolate Damaged Material,  Material Shortages, or Process No Inventory Procedure"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/Isolate Damaged Material, Material Shortages, or Process No Inventory Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Measurement Conversion Overview"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/Measurement Conversion Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="New Rolled Goods Procedure"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/New Rolled Goods Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Obsolete Floorcovering Overview"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/Obsolete Floorcovering Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Order ID Labels Overview"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/Order ID Labels Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Order ID Labels Procedure"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/Order ID Labels Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Remnant Handling Policy"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/Remnant Handling Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Roll Chargebacks Policy"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/Roll Chargebacks Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Roll Color Change Overview"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/Roll Color Change Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Roll Color Change Procedure"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/Roll Color Change Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Roll Stock Tag Overview"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/Roll Stock Tag Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Roll Tag ID Overview"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/Roll Tag ID Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Roll Tag Policy"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/Roll Tag Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Rolled Inventory Overview"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/Rolled Inventory Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Sell Obsolete Floorcovering Procedure"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/Sell Obsolete Floorcovering Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Set Up Floorcovering Bin Locations Procedure"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/Set Up Floorcovering Bin Locations Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Stock Tags During Inventory Receipt and Inventory Update Procedure"
+      Link="/Content/14 Floorcovering/14-09 Manage Rolled Inventory/Stock Tags During Inventory Receipt and Inventory Update Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="14-10 Floorcovering Scorecard &amp; Reports">
+    <TocEntry
+      Title="CanWest Reports Overview"
+      Link="/Content/14 Floorcovering/14-10 Floorcovering Scorecard &amp; Reports/CanWest Reports Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Floorcovering Scorecard Overview"
+      Link="/Content/14 Floorcovering/14-10 Floorcovering Scorecard &amp; Reports/Floorcovering Scorecard Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Floorcovering Scorecard Policy"
+      Link="/Content/14 Floorcovering/14-10 Floorcovering Scorecard &amp; Reports/Floorcovering Scorecard Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Floorcovering Scorecard Procedure"
+      Link="/Content/14 Floorcovering/14-10 Floorcovering Scorecard &amp; Reports/Floorcovering Scorecard Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Floorcovering System Reports Overview"
+      Link="/Content/14 Floorcovering/14-10 Floorcovering Scorecard &amp; Reports/Floorcovering System Reports Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="14-11 Floorcovering Material Procurement">
+    <TocEntry
+      Title="Floorcovering Draft Payment Procedure"
+      Link="/Content/14 Floorcovering/14-11 Floorcovering Material Procurement/Floorcovering Draft Payment Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Floorcovering  Material Procurement Policy"
+      Link="/Content/14 Floorcovering/14-11 Floorcovering Material Procurement/Floorcovering Material Procurement Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Vendor Purchase Payment Procedure"
+      Link="/Content/14 Floorcovering/14-11 Floorcovering Material Procurement/Vendor Purchase Payment Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="14-12 Installer Payment Account (IPA) Information Updates">
+    <TocEntry
+      Title="Installer Payment Account (IPA) Information Updates Application Overview"
+      Link="/Content/14 Floorcovering/14-12 Installer Payment Account (IPA) Information Updates/Installer Payment Account (IPA) Information Updates Application Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="IPA Information Updates Application Help"
+      Link="/Content/14 Floorcovering/14-12 Installer Payment Account (IPA) Information Updates/IPA Information Updates Application Help.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="IPA Information Updates Application Policy"
+      Link="/Content/14 Floorcovering/14-12 Installer Payment Account (IPA) Information Updates/IPA Information Updates Application Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="IPA Information Updates Application Procedure"
+      Link="/Content/14 Floorcovering/14-12 Installer Payment Account (IPA) Information Updates/IPA Information Updates Application Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="14-13 Automotive Floor Coating">
+    <TocEntry
+      Title="Automotive Floor Coating Policy"
+      Link="/Content/14 Floorcovering/14-13 Automotive Floor Coating/Automotive Floor Coating.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

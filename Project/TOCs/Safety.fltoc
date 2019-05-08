@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/10 Safety/Safety.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="10-01 Safety &amp; Environmental">
+    <TocEntry
+      Title="Chemical &amp; Controlled Substance Policy"
+      Link="/Content/10 Safety/10-01 Safety &amp; Environmental/Chemical &amp; Controlled Substance Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Chemical &amp; Controlled Substance Procedure"
+      Link="/Content/10 Safety/10-01 Safety &amp; Environmental/Chemical &amp; Controlled Substance Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Encapsulating Coating Policy"
+      Link="/Content/10 Safety/10-01 Safety &amp; Environmental/Encapsulating Coating Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Merchandise Handling Policy"
+      Link="/Content/10 Safety/10-01 Safety &amp; Environmental/Merchandise Handling Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Paint Additive Policy"
+      Link="/Content/10 Safety/10-01 Safety &amp; Environmental/Paint Additive Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Safety &amp; Environmental Policy"
+      Link="/Content/10 Safety/10-01 Safety &amp; Environmental/Safety &amp; Environmental Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="10-02 OSHA">
+    <TocEntry
+      Title="OSHA Overview"
+      Link="/Content/10 Safety/10-02 OSHA/OSHA Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="OSHA Policy"
+      Link="/Content/10 Safety/10-02 OSHA/OSHA Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="10-03 Required Posters">
+    <TocEntry
+      Title="Required Posters Overview"
+      Link="/Content/10 Safety/10-03 Required Posters/Required Posters Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Required Posters Policy"
+      Link="/Content/10 Safety/10-03 Required Posters/Required Posters Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Required Posters Procedure"
+      Link="/Content/10 Safety/10-03 Required Posters/Required Posters Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPageShippingDelivery.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>Create Carrier Record Procedure</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th><strong class="Strong">Step</strong>
+                    </th>
+                    <th><strong class="Strong">Action</strong>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <p>From <b>POS desktop</b>, select <b>Store</b> -&gt; <strong class="Strong"> Manager Functions </strong>-&gt;<strong class="Strong"> File Maintenance </strong>-&gt;<strong class="Strong"> Carriers </strong>-&gt;<strong class="Strong"> Add</strong>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>2</p>
+                    </td>
+                    <td>
+                        <p>Enter the 4 position alphanumeric <strong class="Strong">SCAC</strong> and <strong class="Strong">Carrier Description</strong>:</p>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th><strong class="Strong">If</strong>
+                                    </th>
+                                    <th><strong class="Strong">Then</strong>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <p>Setting up the <strong class="Strong">Store Truck</strong> (employee transport)</p>
+                                    </td>
+                                    <td>
+                                        <p>Create one <strong class="Strong">Carrier Record </strong>regardless of the number of store trucks.&#160; The <strong class="Strong">SCAC Code</strong> should be <strong class="Strong">XXXX </strong>and the<strong class="Strong"> Description</strong> should be <strong class="Strong">Store Truck.</strong></p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>Setting up the <strong class="Strong">Will Call</strong> record</p>
+                                    </td>
+                                    <td>
+                                        <p>The<strong class="Strong"> SCAC Code </strong>should be<strong class="Strong"> WCAL</strong> and the <strong class="Strong">Description</strong> should be <strong class="Strong">Will Call</strong>.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>Setting a record for a new 3<sup>rd</sup> party carrier (not preloaded into the system)</p>
+                                    </td>
+                                    <td>
+                                        <p>Ask the carrier for their <strong class="Strong">SCAC Code.</strong></p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>3</p>
+                    </td>
+                    <td>
+                        <p>Change the <strong class="Strong">Status:</strong> <strong class="Strong">Active</strong> value to <strong class="Strong">YES</strong>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>4</p>
+                    </td>
+                    <td>
+                        <p>Select a <strong class="Strong">Carrier Type</strong>. </p>
+                        <p>Note: This will let employees know the type of carrier selected.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>5</p>
+                    </td>
+                    <td>
+                        <p>Enter a <strong class="Strong">Preferred Status</strong> of <strong class="Strong">YES</strong>.</p>
+                        <p>Note: Completing this field will cause this carrier to display at the top of the search list, which will make selecting the appropriate carrier easier.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>6</p>
+                    </td>
+                    <td>
+                        <p>Complete the <strong class="Strong">Shipping Terms Field</strong>. This defaults the <strong class="Strong">Shipping Terms </strong>when this carrier is selected for a <strong class="Strong">BOL</strong>.&#160; If necessary, the <strong class="Strong">Shipping Terms</strong> can be edited within <strong class="Strong">BOLDOC</strong>.&#160; Select <strong class="Strong">Prepaid</strong> for the <strong class="Strong">Store Truck</strong> and <strong class="Strong">Will Call.</strong></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>7</p>
+                    </td>
+                    <td>
+                        <p>Press <strong class="Strong">ACCEPT</strong> [<strong class="Strong">F1</strong>] to save the new record.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

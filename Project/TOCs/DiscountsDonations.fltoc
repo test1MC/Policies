@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/22 Discounts &amp; Donations/Discounts &amp; Donations.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="22-01 Coupons &amp; Discount">
+    <TocEntry
+      Title="Coupon &amp; Discount Policy"
+      Link="/Content/22 Discounts &amp; Donations/22-01 Coupons &amp; Discount/Coupon &amp; Discount Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Coupon Printing Overview"
+      Link="/Content/22 Discounts &amp; Donations/22-01 Coupons &amp; Discount/Coupon Printing Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Coupon Processing &amp; Tax Procedure"
+      Link="/Content/22 Discounts &amp; Donations/22-01 Coupons &amp; Discount/Coupon Processing &amp; Tax Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Coupon Usage Report Procedure"
+      Link="/Content/22 Discounts &amp; Donations/22-01 Coupons &amp; Discount/Coupon Usage Report Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Coupons Overview"
+      Link="/Content/22 Discounts &amp; Donations/22-01 Coupons &amp; Discount/Coupons Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Discount Key &amp; Overrides Overview"
+      Link="/Content/22 Discounts &amp; Donations/22-01 Coupons &amp; Discount/Discount Key &amp; Overrides Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="22-02 Community Discount Program">
+    <TocEntry
+      Title="Community Discount Postcards Procedure"
+      Link="/Content/22 Discounts &amp; Donations/22-02 Community Discount Program/Community Discount Postcards Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Community Discount Program Overview"
+      Link="/Content/22 Discounts &amp; Donations/22-02 Community Discount Program/Community Discount Program Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Community Discount Program Policy"
+      Link="/Content/22 Discounts &amp; Donations/22-02 Community Discount Program/Community Discount Program Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="22-03 Employee &amp; Company Discount">
+    <TocEntry
+      Title="Automotive Employee Account Override Procedure"
+      Link="/Content/22 Discounts &amp; Donations/22-03 Employee &amp; Company Discount/Automotive Employee Account Override Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Automotive Employee Account Overview"
+      Link="/Content/22 Discounts &amp; Donations/22-03 Employee &amp; Company Discount/Automotive Employee Account Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Convert  Employee Accounts to Preferred Customer Accounts Procedure"
+      Link="/Content/22 Discounts &amp; Donations/22-03 Employee &amp; Company Discount/Convert Employee Accounts to Preferred Customer Accounts Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Employee &amp; Company Discount Overview"
+      Link="/Content/22 Discounts &amp; Donations/22-03 Employee &amp; Company Discount/Employee &amp; Company Discount Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Employee &amp; Company Discount Policy"
+      Link="/Content/22 Discounts &amp; Donations/22-03 Employee &amp; Company Discount/Employee &amp; Company Discount Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Employee &amp; Company Discount Procedure"
+      Link="/Content/22 Discounts &amp; Donations/22-03 Employee &amp; Company Discount/Employee &amp; Company Discount Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="22-04 Groupon Discount Processing">
+    <TocEntry
+      Title="Groupon Discount Processing Help"
+      Link="/Content/22 Discounts &amp; Donations/22-04 Groupon Discount Processing/Groupon Discount Processing Help.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Groupon Discount Processing Procedure"
+      Link="/Content/22 Discounts &amp; Donations/22-04 Groupon Discount Processing/Groupon Discount Processing Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="22-05 Military Discount">
+    <TocEntry
+      Title="Military Discount Overview"
+      Link="/Content/22 Discounts &amp; Donations/22-05 Military Discount/Military Discount Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Military Discount Policy"
+      Link="/Content/22 Discounts &amp; Donations/22-05 Military Discount/Military Discount Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Military Discount Procedure"
+      Link="/Content/22 Discounts &amp; Donations/22-05 Military Discount/Military Discount Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="22-07 Donations &amp; Charitable Contributions">
+    <TocEntry
+      Title="Charitable Contribution Policy"
+      Link="/Content/22 Discounts &amp; Donations/22-07 Donations &amp; Charitable Contributions/Charitable Contribution Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Customer Donations Policy"
+      Link="/Content/22 Discounts &amp; Donations/22-07 Donations &amp; Charitable Contributions/Customer Donations Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Customer Donations Procedure"
+      Link="/Content/22 Discounts &amp; Donations/22-07 Donations &amp; Charitable Contributions/Customer Donations Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Homes for Our Troops Contribution Procedure"
+      Link="/Content/22 Discounts &amp; Donations/22-07 Donations &amp; Charitable Contributions/Homes for Our Troops Contribution Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Homes for Our Troops Overview"
+      Link="/Content/22 Discounts &amp; Donations/22-07 Donations &amp; Charitable Contributions/Homes for Our Troops Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Homes for Our Troops Policy"
+      Link="/Content/22 Discounts &amp; Donations/22-07 Donations &amp; Charitable Contributions/Homes for Our Troops Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="United Way Contribution Procedure"
+      Link="/Content/22 Discounts &amp; Donations/22-07 Donations &amp; Charitable Contributions/United Way Contribution Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPagePOSTransactions.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>Declined Credit Card Transaction Procedure</h1>
+        <table>
+            <thead>
+                <tr>
+                    <td><strong>Step</strong>
+                    </td>
+                    <td><strong>Action</strong>
+                    </td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <p>The following messages may return if a credit card sale is declined:</p>
+                        <ul>
+                            <li>"Credit Card Sale is DECLINED. Ask the customer for another form of payment or see <b>OPTION</b> below."</li>
+                            <li>"Credit Card Sale is DECLINED because of an expired card. Ask the customer for another form of payment or see <b>OPTION</b> below."</li>
+                            <li>"Credit Card Sale is DECLINED because of an invalid card type. Are you sure this is a <b>MasterCard, Visa, Discover, or American Express</b>? If not, ask the customer for another form of payment or see <b>OPTION</b> below."</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>2</p>
+                    </td>
+                    <td>
+                        <p>Below is the <b>OPTION</b> that returns:</p>
+                        <p>If another form of payment is not available, then tell the customer that you must call in for approval (company specific instructions in Step 3). Make an imprint of the customer’s credit card using the imprinter and credit card slip. The customer must sign the credit card slip.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>3</p>
+                    </td>
+                    <td>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <td><strong>If</strong>
+                                    </td>
+                                    <td><strong>Then</strong>
+                                    </td>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td style="font-weight: bold;">
+                                        <p>Discover Card</p>
+                                    </td>
+                                    <td>
+                                        <p>On a touch tone phone, call 1-800-347-1111. Enter the dollar amount, store merchant I.D. number (located on the credit card imprinter), card number, and expiration date.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="font-weight: bold;">
+                                        <p>MasterCard or Visa</p>
+                                    </td>
+                                    <td>
+                                        <p>On a touch tone phone, call 1-800-884-1167. Enter the dollar amount, store merchant I.D. number, card number, and expiration date. The <b>Paint Stores Merchant ID</b> is 45320. The <b>US Automotive Division Merchant ID</b> is 6745319.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="font-weight: bold;">
+                                        <p>American Express</p>
+                                    </td>
+                                    <td>
+                                        <p>On a touch tone phone, call 1-800-528-2121. Enter the dollar amount, store merchant I.D. number (located on the credit card imprinter), card number, and expiration date. <b>American Express</b> also has the following authorization response besides APPROVED:</p>
+                                        <p style="font-weight: bold;">American Express APPROVED WITH POSITIVE ID </p>
+                                        <p>You are required to ask the customer for valid picture-identification (driver’s license, passport, State ID, Military ID) in order to complete the credit card transaction. The following prompt will appear: "Credit Card transaction is approved with ID verification.” <br />Answer <b>YES</b> if you reviewed the picture identification, answer <b>NO</b> if the customer did not present valid picture identification.</p>
+                                        <table>
+                                            <thead>
+                                                <tr>
+                                                    <td><strong>If</strong>
+                                                    </td>
+                                                    <td><strong>Then</strong>
+                                                    </td>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td>
+                                                        <p>The answer is <b>YES</b></p>
+                                                    </td>
+                                                    <td>
+                                                        <p>The transaction is approved.</p>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <p>The answer is <b>NO</b></p>
+                                                    </td>
+                                                    <td>
+                                                        <p>Request another card.</p>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                        <p>Do not accept any <b>American Express phone orders</b> when you are prompted for additional authorization unless you are able to verify the picture ID.</p>
+                                        <p>The reasons for this authorization response could be, but are not limited to, the cardholder requesting this of all purchases made with this card, the request being a random check on behalf of <b>American Express</b>, or the account having problems associated with it.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="font-weight: bold;">
+                                        <p>Canadian American Express</p>
+                                    </td>
+                                    <td>
+                                        <p>For voice authorization, call 1-800-268-9824.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="font-weight: bold;">
+                                        <p>Canadian MasterCard or Visa</p>
+                                    </td>
+                                    <td>
+                                        <p>Use the following phone numbers for each specific query:</p>
+                                        <table>
+                                            <thead>
+                                                <tr>
+                                                    <td><strong>If</strong>
+                                                    </td>
+                                                    <td><strong>Then</strong>
+                                                    </td>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td>
+                                                        <p>Voice authorization</p>
+                                                    </td>
+                                                    <td>
+                                                        <p>Call 1-800-370-0466</p>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <p>Code 10 (suspected fraud) </p>
+                                                    </td>
+                                                    <td>
+                                                        <p>Call 1-888-263-1938</p>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <p>Customer service (for all other inquiries)</p>
+                                                    </td>
+                                                    <td>
+                                                        <p>Call 1-888-263-1938</p>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                        <p>Be prepared to provide the <b>Merchant ID Number</b>.</p>
+                                        <table>
+                                            <thead>
+                                                <tr>
+                                                    <td><strong>If</strong>
+                                                    </td>
+                                                    <td><strong>Then</strong>
+                                                    </td>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td>
+                                                        <p>Approval is given</p>
+                                                    </td>
+                                                    <td>
+                                                        <p>Press <b>ENTER</b> on the <b>POS</b> and input the approval number. Continue processing the transaction.</p>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <p>Approval is not given</p>
+                                                    </td>
+                                                    <td>
+                                                        <p>The call will be forwarded to a customer service representative. Follow the representative’s instructions. However, if the representative asks you to keep the customer’s card, do not keep the card. Return the card to the customer and ask for another form of payment.</p>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

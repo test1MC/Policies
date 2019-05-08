@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin Version="3" SkinType="Component" Comment="HTML5 Search Results skin" ComponentType="SearchResults">
+    <Stylesheet>
+        <Styles>
+            <Style Name="Search Heading">
+                <Properties>
+                    <Property Name="Color">inherit</Property>
+                </Properties>
+            </Style>
+            <Style Name="Search Result Link">
+                <Properties>
+                    <Property Name="Color">#2ba6cb</Property>
+                </Properties>
+            </Style>
+            <Style Name="Search Suggestion Link">
+                <Properties>
+                    <Property Name="Color">#00497e</Property>
+                </Properties>
+            </Style>
+            <Style Name="Search Result Link (active)">
+                <Properties>
+                    <Property Name="Color">#00497e</Property>
+                </Properties>
+            </Style>
+            <Style Name="Search Result Link (focus)">
+                <Properties>
+                    <Property Name="Color">#00497e</Property>
+                </Properties>
+            </Style>
+            <Style Name="Search Result Link (hover)">
+                <Properties>
+                    <Property Name="Color">#222222</Property>
+                </Properties>
+            </Style>
+            <Style Name="Search Result Link (visited)">
+                <Properties>
+                    <Property Name="Color">#00497e</Property>
+                </Properties>
+            </Style>
+            <Style Name="Search Result Path">
+                <Properties>
+                    <Property Name="Color">#666</Property>
+                </Properties>
+            </Style>
+        </Styles>
+    </Stylesheet>
+    <Strings>
+        <Stylesheet lang="en-us">
+            <Stylesheet>
+                <Styles>
+                    <Style Name="Search Heading">
+                        <Properties>
+                            <Property Name="Color">inherit</Property>
+                        </Properties>
+                    </Style>
+                    <Style Name="Search Result Link">
+                        <Properties>
+                            <Property Name="Color">#2ba6cb</Property>
+                        </Properties>
+                    </Style>
+                    <Style Name="Search Suggestion Link">
+                        <Properties>
+                            <Property Name="Color">#00497e</Property>
+                        </Properties>
+                    </Style>
+                    <Style Name="Search Result Link (active)">
+                        <Properties>
+                            <Property Name="Color">#00497e</Property>
+                        </Properties>
+                    </Style>
+                    <Style Name="Search Result Link (focus)">
+                        <Properties>
+                            <Property Name="Color">#00497e</Property>
+                        </Properties>
+                    </Style>
+                    <Style Name="Search Result Link (hover)">
+                        <Properties>
+                            <Property Name="Color">#222222</Property>
+                        </Properties>
+                    </Style>
+                    <Style Name="Search Result Link (visited)">
+                        <Properties>
+                            <Property Name="Color">#00497e</Property>
+                        </Properties>
+                    </Style>
+                    <Style Name="Search Result Path">
+                        <Properties>
+                            <Property Name="Color">#D6584B</Property>
+                        </Properties>
+                    </Style>
+                </Styles>
+            </Stylesheet>
+        </Stylesheet>
+    </Strings>
+</CatapultSkin>

@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/27 Inventory/Inventory.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="27-01 Inventory Preparation">
+    <TocEntry
+      Title="Control Inventory Counting Overview"
+      Link="/Content/27 Inventory/27-01 Inventory Preparation/Control Inventory Counting Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Inventory Control Stickers Overview"
+      Link="/Content/27 Inventory/27-01 Inventory Preparation/Inventory Control Stickers Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Inventory Counts Policy"
+      Link="/Content/27 Inventory/27-01 Inventory Preparation/Inventory Counts Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Inventory Tags  Overview"
+      Link="/Content/27 Inventory/27-01 Inventory Preparation/Inventory Tags Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Perform Pre-Counts Procedure"
+      Link="/Content/27 Inventory/27-01 Inventory Preparation/Perform Pre-Counts Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Prepare for Inventory Procedure"
+      Link="/Content/27 Inventory/27-01 Inventory Preparation/Prepare for Inventory Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Prepare Inventory Locations – Automotive Procedure"
+      Link="/Content/27 Inventory/27-01 Inventory Preparation/Prepare Inventory Locations - Automotive Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Prepare Inventory Locations – Stores Overview"
+      Link="/Content/27 Inventory/27-01 Inventory Preparation/Prepare Inventory Locations - Stores Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Print Product List Procedure"
+      Link="/Content/27 Inventory/27-01 Inventory Preparation/Print Product List Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Review Inventory Tags Procedure"
+      Link="/Content/27 Inventory/27-01 Inventory Preparation/Review Inventory Tags Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Sign Off Pre-Inventory Checklist  Procedure"
+      Link="/Content/27 Inventory/27-01 Inventory Preparation/Sign Off Pre-Inventory Checklist Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="27-03 Inventory Types">
+    <TocEntry
+      Title="Access Write-In Pages Procedure"
+      Link="/Content/27 Inventory/27-03 Inventory Types/Access Write-In Pages Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Allowable Class Numbers Overview"
+      Link="/Content/27 Inventory/27-03 Inventory Types/Allowable Class Numbers Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Automotive – Pallet Inventory  Procedure"
+      Link="/Content/27 Inventory/27-03 Inventory Types/Automotive – Pallet Inventory Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Automotive – Record Mix Room Inventory Procedure"
+      Link="/Content/27 Inventory/27-03 Inventory Types/Automotive – Record Mix Room Inventory Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Count &amp; Record Inventory Procedure"
+      Link="/Content/27 Inventory/27-03 Inventory Types/Count &amp; Record Inventory Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Floorcovering - Record Obsolete Rolled Goods Procedure"
+      Link="/Content/27 Inventory/27-03 Inventory Types/Floorcovering - Record Obsolete Rolled Goods Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Floorcovering Inventory Policy"
+      Link="/Content/27 Inventory/27-03 Inventory Types/Floorcovering Inventory Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Inventory Downtime Help"
+      Link="/Content/27 Inventory/27-03 Inventory Types/Inventory Downtime Help.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Inventory Types Overview"
+      Link="/Content/27 Inventory/27-03 Inventory Types/Inventory Types Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Paint Inventory Recording Overview"
+      Link="/Content/27 Inventory/27-03 Inventory Types/Paint Inventory Recording Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Record Current Merchandise on Write-In Pages Procedure"
+      Link="/Content/27 Inventory/27-03 Inventory Types/Record Current Merchandise on Write-In Pages Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Record New Obsolete Products Procedure"
+      Link="/Content/27 Inventory/27-03 Inventory Types/Record New Obsolete Products Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Record Non-Paint Inventory  Procedure"
+      Link="/Content/27 Inventory/27-03 Inventory Types/Record Non-Paint Inventory Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Record Obsolete Non-Roll Goods Procedure"
+      Link="/Content/27 Inventory/27-03 Inventory Types/Record Obsolete Non-Roll Goods Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Record Obsolete Roll Goods Procedure"
+      Link="/Content/27 Inventory/27-03 Inventory Types/Record Obsolete Roll Goods Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Record Rental Inventory Procedure"
+      Link="/Content/27 Inventory/27-03 Inventory Types/Record Rental Inventory Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Write In Landed Unit Cost Overview"
+      Link="/Content/27 Inventory/27-03 Inventory Types/Write In Landed Unit Cost Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="27-04 Inventory - Reporting &amp; Closing">
+    <TocEntry
+      Title="Available Inventory Reports Overview"
+      Link="/Content/27 Inventory/27-04 Inventory - Reporting &amp; Closing/Available Inventory Reports Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Close Inventory Early Procedure"
+      Link="/Content/27 Inventory/27-04 Inventory - Reporting &amp; Closing/Close Inventory Early Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Close Inventory  Procedure"
+      Link="/Content/27 Inventory/27-04 Inventory - Reporting &amp; Closing/Close Inventory Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Complete Inventory Adjustments Procedure"
+      Link="/Content/27 Inventory/27-04 Inventory - Reporting &amp; Closing/Complete Inventory Adjustments Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Complete Inventory Reports for Close Procedure"
+      Link="/Content/27 Inventory/27-04 Inventory - Reporting &amp; Closing/Complete Inventory Reports for Close Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Costed Physical Inventory Playback Overview"
+      Link="/Content/27 Inventory/27-04 Inventory - Reporting &amp; Closing/Costed Physical Inventory Playback Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Inventory Reporting &amp; Closing Contacts Help"
+      Link="/Content/27 Inventory/27-04 Inventory - Reporting &amp; Closing/Inventory Reporting &amp; Closing Contacts Help.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Inventory Retention Items Overview"
+      Link="/Content/27 Inventory/27-04 Inventory - Reporting &amp; Closing/Inventory Retention Items Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Physical Inventory Adjustments Overview"
+      Link="/Content/27 Inventory/27-04 Inventory - Reporting &amp; Closing/Physical Inventory Adjustments Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Print Physical Inventory Reports Procedure"
+      Link="/Content/27 Inventory/27-04 Inventory - Reporting &amp; Closing/Print Physical Inventory Reports Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Review the Significant Variance Report Procedure"
+      Link="/Content/27 Inventory/27-04 Inventory - Reporting &amp; Closing/Review the Significant Variance Report Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Significant Variance Report Policy"
+      Link="/Content/27 Inventory/27-04 Inventory - Reporting &amp; Closing/Significant Variance Report Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="27-05 Inventory Closing Reports">
+    <TocEntry
+      Title="Inventory Closing Reports Overview"
+      Link="/Content/27 Inventory/27-05 Inventory Closing Reports/Inventory Closing Reports Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Inventory Closing Reports Policy"
+      Link="/Content/27 Inventory/27-05 Inventory Closing Reports/Inventory Closing Reports Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Review Add Only Closing Reports Procedure"
+      Link="/Content/27 Inventory/27-05 Inventory Closing Reports/Review Add Only Closing Reports Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Review External Closing Reports  Procedure"
+      Link="/Content/27 Inventory/27-05 Inventory Closing Reports/Review External Closing Reports Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Review Internal Closing Reports Procedure"
+      Link="/Content/27 Inventory/27-05 Inventory Closing Reports/Review Internal Closing Reports Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="27-06 Pre-Inventory Closing">
+    <TocEntry
+      Title="Complete Received Not Billed from External Vendor Report Procedure"
+      Link="/Content/27 Inventory/27-06 Pre-Inventory Closing/Complete Received Not Billed from External Vendor Report Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Complete Uncleared IBARS Report Procedure"
+      Link="/Content/27 Inventory/27-06 Pre-Inventory Closing/Complete Uncleared IBARS Report Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Pre-Inventory Closing Report Overview"
+      Link="/Content/27 Inventory/27-06 Pre-Inventory Closing/Pre-Inventory Closing Report Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Pre-Inventory Closing Report Policy"
+      Link="/Content/27 Inventory/27-06 Pre-Inventory Closing/Pre-Inventory Closing Report Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Received Not Billed from External Vendor Report Overview"
+      Link="/Content/27 Inventory/27-06 Pre-Inventory Closing/Received Not Billed from External Vendor Report Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Review Invoice History Report Procedure"
+      Link="/Content/27 Inventory/27-06 Pre-Inventory Closing/Review Invoice History Report Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Uncleared IBARs Report Overview"
+      Link="/Content/27 Inventory/27-06 Pre-Inventory Closing/Uncleared IBARs Report Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

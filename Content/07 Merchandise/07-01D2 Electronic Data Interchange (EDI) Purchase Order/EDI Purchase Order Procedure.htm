@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPageMerch.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>EDI Purchase Order Procedure</h1>
+        <p>Specific business rules have been implemented to ensure that <b>EDI Purchase Orders</b> meet <b>Sherwin-Williams</b>' requirements. <b>EDI Purchase Orders</b> are processed at select store locations.&#160; <b>EDI-capable vendors</b> will review purchase orders electronically to confirm <b>products</b> and the <b>estimated freight charges</b>.&#160; The vendor will send a <b>Purchase Order Acknowledgement</b> to the store.</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p>Step</p>
+                    </th>
+                    <th>
+                        <p>Action</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <p>From the <b>POS Desktop</b>, go to <b>Main Menu</b> -&gt; <b>Merchandise Management</b>-&gt; <b>Add Purchase Order</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>2</p>
+                    </td>
+                    <td>
+                        <p>Press <b>Lookup [F3]</b> to locate the <b>vendor number</b> and enter a portion of the <b>vendor name</b>. Press <b>Enter</b>.</p>
+                        <p>Note: Do not call the order in to the vendor if they are <b>EDI-capable</b>; the order will be sent once the PO is released. </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>3</p>
+                    </td>
+                    <td>
+                        <p>Answer the prompt: <b>Accept partial shipment?</b></p>
+                        <table>
+                            <col style="width: 49px;" />
+                            <col />
+                            <thead>
+                                <tr>
+                                    <th>
+                                        <p>If</p>
+                                    </th>
+                                    <th>
+                                        <p>Then</p>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <p>No</p>
+                                    </td>
+                                    <td>
+                                        <p>The order should be shipped in full or it should be canceled. If the vendor does not have part of the order they have been instructed to cancel the <b>entire order.</b></p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>Yes</p>
+                                    </td>
+                                    <td>
+                                        <p><b>Partial shipments</b> are acceptable. This means: if an item is <b>backordered</b>, you have given the vendor permission to ship a portion of the order instead of waiting until the complete order can be shipped. </p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>4</p>
+                    </td>
+                    <td>
+                        <p>If the order is a <b>Direct or Drop Ship Order</b>, indicate that the order is <b>Special</b> and <b>Direct</b>. Enter the <b>complete address information</b>.&#160; </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>5</p>
+                    </td>
+                    <td>
+                        <p>Release the order once complete:</p>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>
+                                        <p>If</p>
+                                    </th>
+                                    <th>
+                                        <p>Then</p>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <p>The Purchase Order cannot be processed at the time</p>
+                                    </td>
+                                    <td>
+                                        <p>A message will appear with two options:</p>
+                                        <ul style="list-style-type: square;margin-left: 9pt;">
+                                            <li style="list-style-type: disc;"><b>Automatically send PO when EDI is available</b>: the system will return you to the Purchase Order menu. The order will be in <b>RELEASED status</b> and show as an <b>Unacknowledged PO</b> in the <b>Status Reminder Box</b> until the vendor acknowledges the order.</li>
+                                            <li style="list-style-type: disc;"><b>Call vendor to place the order</b>: After making this selection you will be taken to the <b>PO number field</b>. It is critical that you complete a manual "B" prefix purchase order and enter the <b>"B" prefix purchase order number</b>. </li>
+                                        </ul>
+                                        <p>After releasing the <b>"B" prefix Purchase Order</b>, it becomes the <b>EDI Confirmation</b> of your phone order to the vendor. If you <b>EDI</b> an <b>"A" prefix purchase order</b> and phone the <b>"A" prefix purchase order</b> to the vendor you could receive a double shipment. </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>It is processed immediately</p>
+                                    </td>
+                                    <td>
+                                        <p>The procedure is complete.</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p>Note: The bottom of the Purchase Orders contain a message <b>"Order was sent via EDI"</b> when the order was sent to the vendor electronically.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>6</p>
+                    </td>
+                    <td>
+                        <p>Once the vendor receives and verifies the order you will receive a <b>purchase order acknowledgement</b>. The <b>EDI Acknowledgment</b> should contain: <b>Product availability</b> and the <b>difference between the Purchase Order estimated freight and the vendor's actual freight</b>. </p>
+                        <p>Review the <b>EDI Acknowledgement</b>&#160; when available in the <b>EDI Status Reminder Box</b> by pressing <b>Reports [Shift + F4]</b>. An <b>EDI report</b> will also identify Purchase Orders that have been canceled. For more information, see <MadCap:xref href="../../19 Store Computer (POS) Basics/19-01 COE &amp; POS Menu Screen/Status Reminder Box Overview.htm">Status Reminder Box Overview</MadCap:xref>.&#160; </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Revision Details</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="revision-details">
+                    <table class="revision">
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Revision Type</th>
+                                <th>Description</th>
+                                <th>Requester - admin only</th>
+                                <th>Initial - admin only</th>
+                                <th>Misc - admin only</th>
+                                <th>Include in year end - admin only</th>
+                                <th>Doc Title, hidden</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="revdate">07/06</td>
+                                <td class="revtype">Revised</td>
+                                <td class="revdescrip">&#160;</td>
+                                <td class="revrequester">&#160;</td>
+                                <td class="revinitial">&#160;</td>
+                                <td class="revmisc">&#160;</td>
+                                <td class="revyear-end">&#160;</td>
+                                <td class="revdoc-title"><MadCap:variable name="System.Title" />
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

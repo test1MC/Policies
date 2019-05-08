@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPageShippingDelivery.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <div>
+            <h1>Delivery Order Types Overview</h1>
+            <p>In addition to being scheduled at the end of a delivery order, deliveries can also be scheduled by submitting an order from the <b>Customer Order Entry Menu</b>. From <b>POS desktop</b>, select <b>Store</b> -&gt; <b>Customer Order Entry</b> -&gt; <b>Submit Order for Delivery</b> -&gt; <b>Submit Delivery Order Request</b>. Select <b>Order Lines</b> to be delivered. </p>
+            <p>Order lines are fed from various functions and display as <b>Order Types</b>, including:</p>
+        </div>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p>Part</p>
+                    </th>
+                    <th>
+                        <p>Function</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="font-weight: bold;">
+                        <p>Store</p>
+                    </td>
+                    <td>
+                        <p><b>Delivery Order</b> to customer. Lines will only display if they are marked as <b>Ready for Delivery</b> in <b>COE</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-weight: bold;">
+                        <p>IST</p>
+                    </td>
+                    <td>
+                        <p>Product to be delivered to another SW store location.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-weight: bold;">
+                        <p>ISR P/U</p>
+                    </td>
+                    <td>
+                        <p>This is a temporary <b>Order Type</b> that will allow stores using <b>Centralized Delivery</b> to schedule a pick-up of <b>IST goods</b> from another SW location. </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-weight: bold;">
+                        <p>Repair</p>
+                    </td>
+                    <td>
+                        <p>This selection allows you to transfer spray equipment dropped off at one store location to another store location for repair. When returning a repaired unit to an originating store, the repair location must schedule the return from the <b>IST</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-weight: bold;">
+                        <p>Return</p>
+                    </td>
+                    <td>
+                        <p>Pick-up of goods to be returned from a customer site.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-weight: bold;">
+                        <p>Will Call</p>
+                    </td>
+                    <td>
+                        <p>Pick-up of product at <b>DSC</b> for delivery to requesting store or customer. When delivering the <b>Will Call</b> to the customer location, the store must create both a <b>Will Call Purchase Order</b> and a <b>Customer Order</b> for delivery. Both need to be scheduled for delivery.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-weight: bold;">
+                        <p>Vendor P/U</p>
+                    </td>
+                    <td>
+                        <p>Allows you to schedule a pick-up of goods from a vendor based on an <b>External Purchase Order</b>.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div>
+            <p>Once selected for delivery, a line item will disappear from this listing. Lines not scheduled for delivery within seven days will also be removed from the listing. Be sure to select each line.</p>
+            <p>Complete the address for your order based on the <b>Order Type</b> selected:</p>
+        </div>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p>Part</p>
+                    </th>
+                    <th>
+                        <p>Function</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="font-weight: bold;">
+                        <p>Store, IST, Repair</p>
+                    </td>
+                    <td>
+                        <p>The <b>Store, IST, and Repair Order Types</b> will import an address from either the customer order or the store address file. The address may be edited if needed. </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-weight: bold;">
+                        <p>ISR P/U, Return, Vendor P/U</p>
+                    </td>
+                    <td>
+                        <p>The <b>ISR P/U, Return, and Vendor P/U Order Types</b> will all prompt you to enter a <b>Pick-Up Address</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-weight: bold;">
+                        <p>Will Call</p>
+                    </td>
+                    <td>
+                        <p>You will need to select from the <b>DSC/Plant List</b> for pick-up when selecting the <b>Will Call Order Type</b>.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div>
+            <p>If required, <b>geocode</b> the entered address. If the address does not pass <b>GPS validation</b>, you will be required to correct the address before you are able to submit the order to <b>Dispatch</b>. If this occurs:</p>
+        </div>
+        <ul>
+            <li>Choose to enter the address again or manually locate the address on a map. If you select to locate the address on a map:</li>
+            <ul style="list-style-type: circle;">
+                <li>Read the <b>geocoding instructions</b> and press <b>ENTER</b> to launch the browser.</li>
+                <li>The browser will open the map to the general area of the entered zip code. Use the <b>+ and - keys</b> to zoom to the location of the delivery. See <b>Fig A.</b></li>
+            </ul>
+            <p><b>Fig. A</b>
+            </p>
+            <p>
+                <img src="../../Resources/Images/11-02 Store Deliveries/Order Types Overview_1.jpg" alt="map1" />
+            </p>
+            <ul style="list-style-type: circle;">
+                <li>You can then narrow to individual plots of land, and clicking on a plot will retrieve its address. To select a location, select <b>Mark Location</b>. See <b>Fig. B</b>.</li>
+            </ul>
+            <p><b>Fig. B</b>
+            </p>
+            <p>
+                <img src="../../Resources/Images/11-02 Store Deliveries/Order Types Overview_2.jpg" alt="map2" />
+            </p>
+            <ul style="list-style-type: circle;">
+                <li>When you see the message that your location has been successfully marked, close the browser.</li>
+            </ul>
+        </ul>
+    </body>
+</html>

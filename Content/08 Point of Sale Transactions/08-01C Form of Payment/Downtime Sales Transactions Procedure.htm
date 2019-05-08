@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPagePOSTransactions.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>Downtime Sales Transactions Procedure</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p>Step</p>
+                    </th>
+                    <th>
+                        <p>Action</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td colspan="2">
+                        <p><b>Sales Transaction Downtime</b> </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <p>Determine the Downtime error:</p>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>
+                                        <p>If</p>
+                                    </th>
+                                    <th>
+                                        <p>Then </p>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <p>Computer System and PAX are Down</p>
+                                    </td>
+                                    <td>
+                                        <p>Proceed to Step 2.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Computer System is Down</td>
+                                    <td>
+                                        <p>Proceed to Step 2</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>PAX <b>only</b> is Down (for credit card sales)</p>
+                                    </td>
+                                    <td>
+                                        <p>Complete Steps 3-6</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p> &#160;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>2</p>
+                    </td>
+                    <td>
+                        <p>&#160;</p>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>
+                                        <p>If</p>
+                                    </th>
+                                    <th>
+                                        <p>Then</p>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <p>Cash sales paid by cash</p>
+                                    </td>
+                                    <td>
+                                        <ul>
+                                            <li>Capture all customer&#160;and order information on the <b>Manual POST Form</b>. This information will be used later when entering the transaction into the Computer System.</li>
+                                            <li>Proceed to <b>Step 7</b>.</li>
+                                        </ul>
+                                        <p>&#160;</p>
+                                        <p><i>Note:</i> Open and Close cash drawers with the key using the top lock release.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>Cash sales paid by check</p>
+                                    </td>
+                                    <td>
+                                        <ul>
+                                            <li>Capture all customer&#160; and order information on the <b>Manual POST Form.</b> This information will be used later when entering the transaction into the Computer System.</li>
+                                            <li>Write “Paid by Check” on the invoice form.</li>
+                                            <li>Mark the check with the <b>[For Deposit Only]</b> stamp.</li>
+                                            <li>Proceed to <b>Step 7</b>.</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>Cash sales paid by credit card</p>
+                                    </td>
+                                    <td>
+                                        <ul>
+                                            <li>Capture all customer&#160; and order information on the <b>Manual POST Form</b>. This information will be used later when entering the transaction into the Computer System.</li>
+                                            <li>Proceed to <b>Step 3</b>.</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p><i>Note:</i> Use the <b>Manual POST Form</b> for all transactions at the time of sale. List each merchandise item by sales or class number, quantity, and unit price. Under the <b>Description Heading</b>, label the items purchased as “<b>Merchandise</b>.” Manually calculate the total. Capture all information on the <b>Manual POST Form</b>. Don’t forget to include <b>Payment on Accounts</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <p><b>PAX Downtime</b>
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>
+                        <table style="width: 100%;">
+                            <col />
+                            <col />
+                            <thead>
+                                <tr>
+                                    <th>If</th>
+                                    <th>Then</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>POS&#160;is operational</td>
+                                    <td>Select <b>Credit</b> from the <b>Form of Payment Menu</b> -&gt; Follow prompts for <b>Manual Authorization</b>.</td>
+                                </tr>
+                                <tr>
+                                    <td>POS is not operational</td>
+                                    <td>Proceed to <b>Step 4</b>.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>4</p>
+                    </td>
+                    <td>
+                        <p>To receive authorization, call the appropriate number:</p>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>
+                                        <p>If</p>
+                                    </th>
+                                    <th>
+                                        <p>Then</p>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <p>US </p>
+                                    </td>
+                                    <td>
+                                        <p>1-800-430-7161</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>Canada </p>
+                                    </td>
+                                    <td>1-855-457-0423</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>5</p>
+                    </td>
+                    <td>
+                        <p>Provide operator with your <b style="font-style: normal; font-weight: normal;">Merchant ID</b> (<b>Main POS Menu</b> -&gt; <b>Help Desk</b> -&gt; <b>Credit/Gift Card Downtime</b>), cardholder account, card expiration date, and amount of the sale (including tax).</p>
+                        <p><i>Note:</i> If POS is not operational and you do not know your Merchant ID, contact the <b>HelpDesk</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>6</p>
+                    </td>
+                    <td>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>
+                                        <p>If</p>
+                                    </th>
+                                    <th>
+                                        <p>Then</p>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <p><b>POS</b> is operational</p>
+                                    </td>
+                                    <td>
+                                        <p>Follow prompts to complete <b>Manual Authorization</b> -&gt; Complete Sale</p>
+                                        <p><i>Note:</i> Do not enter CVV numbers.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p><b>POS</b> is not operational </p>
+                                    </td>
+                                    <td>
+                                        <p>Proceed to <b>Step 7</b>.</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2"><b>POS&#160;Downtime</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>7</p>
+                    </td>
+                    <td>
+                        <p>Give customer their copy of the <b>Manual POST Form</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>8</p>
+                    </td>
+                    <td>
+                        <p>Retain the store’s copy of the form in a locked filing cabinet or locked store safe until you are ready to batch. All completed <b>Manual Forms</b> must be retained in a locked filling cabinet or locked store safe after batching in a folder title <b>MANUAL POST FORMS – USED</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>9</p>
+                    </td>
+                    <td>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>
+                                        <p>If</p>
+                                    </th>
+                                    <th>
+                                        <p>Then</p>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <p>Hardware is operational before end of day</p>
+                                    </td>
+                                    <td>
+                                        <p>From the <b>POS Desktop</b>, select <b>Store</b> -&gt; <b>Point of Sale</b> -&gt; <b>Enter &amp; Validate a Manual Form.</b></p>
+                                        <p><i>Note:</i> The computer will not call for authorization when a <b>Manual POST Form</b> is used. For more information, see <MadCap:xref href="../08-09 Validate Manual Form/Validate Manual POST Form Procedure.htm">Validate Manual POST Form Procedure</MadCap:xref>. </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>Hardware is not operational before end of day</p>
+                                    </td>
+                                    <td>
+                                        <ul>
+                                            <li>Follow <b>Manual Close </b>Procedures.</li>
+                                            <li>After the Computer System is operable, total each bank deposit and enter the total amount as one <b>Interim Deposit</b> for the current day’s close.</li>
+                                        </ul>
+                                        <p>&#160;</p>
+                                        <p><i>Note:</i> For more information, see <a href="http://sherlink2.sherwin.com/stores/policy/08.0/html_files/08-06.htm#manualclose">Manual Close</a>.</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>10</p>
+                    </td>
+                    <td>
+                        <p>After processing the transaction, enter the customer account number, name, card expiration date, and the authorization number.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Revision Details</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="revision-details">
+                    <table class="revision">
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Revision Type</th>
+                                <th>Description</th>
+                                <th>Requester - admin only</th>
+                                <th>initial - admin only</th>
+                                <th>misc - admin only</th>
+                                <th>include in year end - admin only</th>
+                                <th>Doc Title, hidden</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="revdate">10/18</td>
+                                <td class="revtype">Revised</td>
+                                <td class="revdescrip">Moved this topic from 08-01A Sale/Payment Menu to its current chapter and combined the content (Downtime Processing Procedure) here.</td>
+                                <td class="revrequester">&#160;</td>
+                                <td class="revinitial">MC</td>
+                                <td class="revmisc">&#160;</td>
+                                <td class="revyear-end">&#160;</td>
+                                <td class="revdoc-title"><MadCap:variable name="System.Title" />
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

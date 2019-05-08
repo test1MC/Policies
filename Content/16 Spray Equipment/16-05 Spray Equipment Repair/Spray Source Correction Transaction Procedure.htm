@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPageSprayEquip.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>Spray Source Correction Transaction Procedure</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p>Step</p>
+                    </th>
+                    <th>
+                        <p>Action</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <p> From <b>POS desktop</b>, select <b>Store</b> -&gt; <b>Point of Sale</b> -&gt;Press <b>Page Down</b> to access the <b>Special Menu</b> -&gt; Select <b>Correction</b> -&gt; Select the <b>Customer Order</b> for the repair.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>2</p>
+                    </td>
+                    <td>
+                        <p>Enter <b>99999</b> as both the <b>Terminal Number and Transaction Number</b> of the original deposit.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>3</p>
+                    </td>
+                    <td>
+                        <p>Was the equipment repaired?</p>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>If</th>
+                                    <th>Then</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Yes</td>
+                                    <td>
+                                        <p>Enter&#160;<b>Repair Transaction</b> Details:</p>
+                                        <table>
+                                            <thead>
+                                                <tr>
+                                                    <th>
+                                                        <p>Positive Side</p>
+                                                    </th>
+                                                    <th>
+                                                        <p>Negative Side (Form of Payment)</p>
+                                                    </th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td>
+                                                        <ul>
+                                                            <li>Enter <b>Non Merchandise Code 5</b> for Deposit and the amount of the deposit made at the originating store.&#160; </li>
+                                                        </ul>
+                                                        <p>Note: Remember to select<b> No Tax</b> for the Deposit!</p>
+                                                    </td>
+                                                    <td>
+                                                        <ul>
+                                                            <li>Cash = Customer must come into <b>SpraySource</b> to make payment</li>
+                                                        </ul>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <ul>
+                                                            <li>Reference <b>Deposit Sale Transaction Term / Tran</b> of the originating store in <b>Comments</b>.</li>
+                                                        </ul>
+                                                    </td>
+                                                    <td>
+                                                        <ul>
+                                                            <li>Check = Customer may make payment at <b>SpraySource</b> or check may be picked up from customer when unit is delivered back to customer.</li>
+                                                        </ul>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>&#160;</td>
+                                                    <td>
+                                                        <ul>
+                                                            <li>Credit Card (must be the same card used for the deposit)</li>
+                                                        </ul>
+                                                        <p>Note: Contact the originating store for the credit card information to be used. This information can ONLY be shared over the phone is never to be emailed, faxed, or mailed by post.</p>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>No</td>
+                                    <td>
+                                        <p>Enter <b>No Repair Transaction</b> Details:</p>
+                                        <table>
+                                            <thead>
+                                                <tr>
+                                                    <th>
+                                                        <p>Positive Side</p>
+                                                    </th>
+                                                    <th>
+                                                        <p>Negative Side</p>
+                                                    </th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td>
+                                                        <ul>
+                                                            <li>Enter <b>Non Merchandise Code 5</b> for Deposit and the amount of the deposit made at the originating store (this should equal the <b>Diagnostic Fee</b>).&#160; </li>
+                                                        </ul>
+                                                        <p>Note: Remember to select <b>No Tax</b> for the Deposit!</p>
+                                                    </td>
+                                                    <td>
+                                                        <ul>
+                                                            <li>There should be no refund. The deposit and diagnostic should cancel out.</li>
+                                                        </ul>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <ul>
+                                                            <li>Reference <b>Deposit Sale Transaction Term / Tran</b> of the originating store in <b>Comments</b>.</li>
+                                                        </ul>
+                                                    </td>
+                                                    <td>&#160;</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

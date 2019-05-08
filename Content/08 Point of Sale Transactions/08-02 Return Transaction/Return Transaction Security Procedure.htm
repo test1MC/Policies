@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPagePOSTransactions.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>Return Transaction Security Procedure</h1>
+        <p><b>Return Transaction Security</b> is available if:</p>
+        <ul>
+            <li> The transaction number is not valid.</li>
+            <li>The return amount is greater than the original sale.</li>
+            <li>The original form of payment was a credit card.</li>
+            <li>The return is processed within a 5-day period. </li>
+        </ul>
+        <table>
+            <thead>
+                <tr>
+                    <th colspan="2">
+                        <p>Return Transaction Security Scenarios </p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <p>The employee processing the return is responsible for entering the date and initialing the returned item on the customer’s receipt (after crossing out the entry on the sales invoice). </p>
+                        <p>Note: If customers do not want the original receipt, simply tear it up (show the customer that it has been destroyed).</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>From <b>POS desktop</b>, select <b>Store</b> -&gt; <b>Point of Sale</b> -&gt;  Select <b>Return</b> from the <b>Sale/Payment Menu</b> .</td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>3</p>
+                    </td>
+                    <td>
+                        <p>The customer should have a receipt to return the merchandise. If the customer does not have the original receipt and the <b>Manager</b> has approved the return, press <b>ACCEPT [F1]</b>. Do not enter the terminal number if the transaction number is unknown. </p>
+                        <p>The following error message will return to the screen if the transaction number is not valid: <b>TRANSACTION NOT ON FILE…try again</b></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>4</p>
+                    </td>
+                    <td>
+                        <p>The transaction may not be valid because the terminal/transaction numbers or the date were entered incorrectly.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>5</p>
+                    </td>
+                    <td>
+                        <p>The following error message will return to the screen if the transaction was not for a sale transaction: <b>THIS TRANSACTION WAS NOT A SALE TRANSACTION…try again</b></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>6</p>
+                    </td>
+                    <td>
+                        <p>You will not be permitted to process <b>return transactions</b> to a <b>non-sale/correction transaction</b>. </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>7</p>
+                    </td>
+                    <td>
+                        <p>Customer information (name, address, city, state, zip code, phone, and customer signature) must be complete and accurate (no abbreviations) any time the customer receives cash, credit, or a store draft on a <b>Cash Refund </b>or<b> Cash Correction Transaction</b>. </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>8</p>
+                    </td>
+                    <td>
+                        <p>The amount of the return may not exceed the original sale. This refers to any discounts, markdowns, or sale prices that may have been in effect when the original purchase was made.</p>
+                        <p>The following warning message will return to the screen if the return amount is greater than the original sale: <b>THIS AMOUNT EXCEEDS THE TOTAL FROM THE ORIGINAL SALE…press any key</b></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>9</p>
+                    </td>
+                    <td>
+                        <p>A <b>draft</b> must be used if the cash refund is over $100. It must also be used if there is not enough cash in the drawer to cover the refund and to maintain sufficient operating funds. </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>10</p>
+                    </td>
+                    <td>
+                        <p>If an original sale was made to the customer’s credit card, then the return must be credited to the credit card. Do not give cash back on a credit card return. </p>
+                        <p>The following warning message will return to the screen for a refund transaction in which the original form of payment was a credit card: <b>THIS REFUND SHOULD BE CREDITED TO THE CREDIT CARD USED FOR THE PURCHASE…do you want to continue? Y/N </b></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>11</p>
+                    </td>
+                    <td>
+                        <p>If the original purchase was with check, allow fourteen (14) days for customer check to clear the bank before completing the refund. Some stores have the option to refund check payments as drafts or in <b>SWeep</b>. If customers request a check as the form of refund, inform them that a check will be mailed to them after the fourteen(14) day period. <b>This only applies to stores located in the Continental U.S.</b></p>
+                        <p>The following warning message will return to the screen if a return is processed within the 14-day period: <b>[A CHECK WAS USED FOR THIS PURCHASE WITHIN THE LAST 14 DAYS…do you want to continue? Y/N]</b></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>12</p>
+                    </td>
+                    <td>
+                        <p>If the customer’s check has not cleared the bank (10 days or less from the time of the purchase), process a <b>Correction transaction</b>. Return the merchandise on the <b>[negative]</b> side of the transaction and process it as a deposit on the <b>[positive]</b> side of the transaction. Press <b>COMMENTS [F9]</b> to add a note, “Deposit holding for clearing of customer’s check”. Select <b>Cash</b> as the form of refund. After the ten (10) day waiting period, process a <b>Return transaction</b> for the customer’s deposit holding. This process will allow you to return the merchandise to inventory and mail the check to customers after their check clears the bank.&#160; </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>13</p>
+                    </td>
+                    <td>
+                        <p>You are permitted to return customers’ checks if they request a complete refund the same day the purchase was made. Process a return for the total amount. Make a note in the comments area that you are returning the customer’s check. The form of refund will be cash. You are required to document your <b>cash/check variance</b> during the close process.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Revision Details</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="revision-details">
+                    <table class="revision">
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Revision Type</th>
+                                <th>Description</th>
+                                <th>Requester - admin only</th>
+                                <th>initial - admin only</th>
+                                <th>misc - admin only</th>
+                                <th>include in year end - admin only</th>
+                                <th>Doc Title, hidden</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="revdate">01/14</td>
+                                <td class="revtype">Revised</td>
+                                <td class="revdescrip">&#160;</td>
+                                <td class="revrequester">&#160;</td>
+                                <td class="revinitial">&#160;</td>
+                                <td class="revmisc">&#160;</td>
+                                <td class="revyear-end">&#160;</td>
+                                <td class="revdoc-title"><MadCap:variable name="System.Title" />
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p>&#160;</p>
+    </body>
+</html>

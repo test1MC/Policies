@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPageInventory.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>Close Inventory  Procedure</h1>
+        <ul>
+            <li>You cannot close your inventory if any other terminal (Hand-Held Scanner (PDT), POS station, or Manager’s workstation) is still in the [Record Inventory] process. </li>
+            <li>Before performing the Inventory Close you must generate the <a href="Complete Inventory Reports for Close Procedure.htm#inv_close_report">Inventory Reports for Close</a> and complete the point-of-sale Close Transaction on all point-of-sale terminals. Once all point-of-sale Close Transaction are complete, you can continue with the Inventory Close at the <b>main POS</b>. </li>
+            <li>After completing and closing your inventory the <b>End of Day</b> process will automatically run.</li>
+        </ul>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p>Step</p>
+                    </th>
+                    <th>
+                        <p>Action</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <p>Ensure that the point-of-sale close transaction has been completed on all terminals.&#160; </p>
+                        <p><i>Note:</i> Inventory Close will not automatically begin. Ensure the following message appears before starting: Inventory Counts Have Been Detected for Close.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>2</p>
+                    </td>
+                    <td>
+                        <p>From the <b>POS Desktop</b> -&gt; <b>Main Menu</b> -&gt; <b>Merchandise Management</b> -&gt; Enter <b>Employee Number</b> and <b>Password</b> -&gt; <b>Inventory Control</b> -&gt; <b>Inventory</b> -&gt; <b>Close Inventory</b>.</p>
+                        <p>
+                            <img src="../../Resources/Images/27-04 Inventory - Reporting &amp; Closing/Inventory Close Procedure.png" />
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>3</p>
+                    </td>
+                    <td>
+                        <p>Answer “<b>Y</b>” to all options below when prompted: Have You Completed All Necessary Write-In Pages?</p>
+                        <p>
+                            <img src="../../Resources/Images/27-04 Inventory - Reporting &amp; Closing/Inventory Close Procedure_1.png" />
+                        </p>
+                        <ul>
+                            <li>Current Merchandise [Y/N]</li>
+                            <li>Obsolete Merchandise [Y/N]</li>
+                            <li>Ready-To-Go- Merchandise [Y/N]</li>
+                            <li>Rental Equipment [Y/N]</li>
+                        </ul>
+                        <p><i>Note:</i> You will not be able to perform the Close Inventory until ALL <b>write-in pages</b> are completed. If you do not have any Write-In pages, answer “<b>Y</b>” because a blank write-in page will be sent to Cleveland. </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>4</p>
+                    </td>
+                    <td>
+                        <p>Press <b>ACCEPT [F1]</b> to continue or press any other key to quit after the following message appears: </p>
+                        <p>
+                            <img src="../../Resources/Images/27-04 Inventory - Reporting &amp; Closing/Inventory Close Procedure_2.png" />
+                        </p>
+                        <p><i>Note:</i> This message is alerting you that once you close your inventory the <b>physical counts</b> entered will become your new <b>perpetual inventory balance</b>. For any products you did not count the balance will be 0.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>5</p>
+                    </td>
+                    <td>
+                        <p>Answer “<b>Y</b>” when prompted: Are you sure initial counts are complete? </p>
+                        <p><i>Note:</i> If you answer <b>Y(es)</b> and you have a <b>low number of physical counts</b> completed, you will get the following message - YOU HAVE NO (or a number) PHYSICAL INVENTORY RECORDS (WHICH INCLUDES WRITE-IN PAGES) followed by the message in Step 4.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>6</p>
+                    </td>
+                    <td>
+                        <p>Complete Closing Inventory: </p>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>
+                                        <p>If</p>
+                                    </th>
+                                    <th>
+                                        <p>Then</p>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <p>System detects opened point-of-sale systems</p>
+                                    </td>
+                                    <td>
+                                        <p>The following message will appear:</p>
+                                        <p>Open Point-Of-Sale Systems Have Been Detected.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>System detects that all point-of-sale Close Transactions are processed</p>
+                                    </td>
+                                    <td>
+                                        <p>The following message will appear:</p>
+                                        <p>All Point-Of-Sale Systems Are Closed. Press Any Key to Continue Closing Inventory. </p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p><i>Note:</i> The <b>inventory reports</b> will automatically generate and your <b>Physical Inventory count</b> will automatically update once the close process is complete.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>7</p>
+                    </td>
+                    <td>
+                        <p> Upon completion, the following message will appear: Generating Report For The Reports File. This is your <b>Physical Inventory Report</b> for all products counted.</p>
+                        <p><i>Note:</i> The <b>End-of-Day</b> process will automatically begin once the Inventory Close process is complete.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

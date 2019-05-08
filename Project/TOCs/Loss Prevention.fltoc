@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/25 Loss Prevention/Loss Prevention.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="25-01 Loss Prevention">
+    <TocEntry
+      Title="Complete a Cash or Check Variance LOI Report Procedure"
+      Link="/Content/25 Loss Prevention/25-01 Loss Prevention/Complete a Cash or Check Variance LOI Report Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Complete an LOI Report Procedure"
+      Link="/Content/25 Loss Prevention/25-01 Loss Prevention/Complete an LOI Report Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="seLocate Loss Prevention Policies Overview"
+      Link="/Content/25 Loss Prevention/25-01 Loss Prevention/Locate Loss Prevention Policies Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Loss of Store Funds Policy"
+      Link="/Content/25 Loss Prevention/25-01 Loss Prevention/Loss of Store Funds Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Loss of Store Funds Procedure"
+      Link="/Content/25 Loss Prevention/25-01 Loss Prevention/Loss of Store Funds Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Loss Prevention Overview"
+      Link="/Content/25 Loss Prevention/25-01 Loss Prevention/Loss Prevention Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Loss Prevention Policy"
+      Link="/Content/25 Loss Prevention/25-01 Loss Prevention/Loss Prevention Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Loss, Offense, &amp; Incident Policy"
+      Link="/Content/25 Loss Prevention/25-01 Loss Prevention/Loss, Offense, &amp; Incident Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="25-02A Conflicts of Interest">
+    <TocEntry
+      Title="Conflict of Interest Overview"
+      Link="/Content/25 Loss Prevention/25-02A Conflicts of Interest/Conflict of Interest Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Process Potential Conflict of Interest Procedure"
+      Link="/Content/25 Loss Prevention/25-02A Conflicts of Interest/Process Potential Conflict of Interest Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="25-03 Shrink Action Plan">
+    <TocEntry
+      Title="Prevent Theft Overview"
+      Link="/Content/25 Loss Prevention/25-03 Shrink Action Plan/Prevent Theft Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Shrink Action Plan Overview"
+      Link="/Content/25 Loss Prevention/25-03 Shrink Action Plan/Shrink Action Plan Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Shrink Action Plan Policy"
+      Link="/Content/25 Loss Prevention/25-03 Shrink Action Plan/Shrink Action Plan Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="25-04 Robbery, Burglary, &amp; Employee Dishonesty">
+    <TocEntry
+      Title="Burglary &amp; Criminal Trespass Policy"
+      Link="/Content/25 Loss Prevention/25-04 Robbery, Burglary, &amp; Employee Dishonesty/Burglary &amp; Criminal Trespass Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Con Artists Policy"
+      Link="/Content/25 Loss Prevention/25-04 Robbery, Burglary, &amp; Employee Dishonesty/Con Artists Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Directory Listing Fraud Overview"
+      Link="/Content/25 Loss Prevention/25-04 Robbery, Burglary, &amp; Employee Dishonesty/Directory Listing Fraud Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Directory Listing Fraud Procedure"
+      Link="/Content/25 Loss Prevention/25-04 Robbery, Burglary, &amp; Employee Dishonesty/Directory Listing Fraud Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Employee Dishonesty Policy"
+      Link="/Content/25 Loss Prevention/25-04 Robbery, Burglary, &amp; Employee Dishonesty/Employee Dishonesty Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Identify Theft Procedure"
+      Link="/Content/25 Loss Prevention/25-04 Robbery, Burglary, &amp; Employee Dishonesty/Identify Theft Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Personal Phone Calls Policy"
+      Link="/Content/25 Loss Prevention/25-04 Robbery, Burglary, &amp; Employee Dishonesty/Personal Phone Calls Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Respond to Burglary Procedure"
+      Link="/Content/25 Loss Prevention/25-04 Robbery, Burglary, &amp; Employee Dishonesty/Respond to Burglary Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Robbery Overview"
+      Link="/Content/25 Loss Prevention/25-04 Robbery, Burglary, &amp; Employee Dishonesty/Robbery Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Robbery Policy"
+      Link="/Content/25 Loss Prevention/25-04 Robbery, Burglary, &amp; Employee Dishonesty/Robbery Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Shoplifting Overview"
+      Link="/Content/25 Loss Prevention/25-04 Robbery, Burglary, &amp; Employee Dishonesty/Shoplifting Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Shoplifting Policy"
+      Link="/Content/25 Loss Prevention/25-04 Robbery, Burglary, &amp; Employee Dishonesty/Shoplifting Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="25-06 Physical Security">
+    <TocEntry
+      Title="Bonding &amp; Grounding Overview"
+      Link="/Content/25 Loss Prevention/25-06 Physical Security/Bonding &amp; Grounding Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Door &amp; Window Security Policy"
+      Link="/Content/25 Loss Prevention/25-06 Physical Security/Door &amp; Window Security Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="External Warehousing Policy"
+      Link="/Content/25 Loss Prevention/25-06 Physical Security/External Warehousing Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Internal Warehousing Policy"
+      Link="/Content/25 Loss Prevention/25-06 Physical Security/Internal Warehousing Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Liquid Storage Room Policy"
+      Link="/Content/25 Loss Prevention/25-06 Physical Security/Liquid Storage Room Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Mixing Room - Personal Protection Equipment (PPE) Policy"
+      Link="/Content/25 Loss Prevention/25-06 Physical Security/Mixing Room - Personal Protection Equipment (PPE) Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Open &amp; Close Security Overview"
+      Link="/Content/25 Loss Prevention/25-06 Physical Security/Open &amp; Close Security Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Overhead &amp; Loading Dock &amp; Trash Disposal Policy"
+      Link="/Content/25 Loss Prevention/25-06 Physical Security/Overhead Loading Dock Trash Disposal Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Perimeter Control Policy"
+      Link="/Content/25 Loss Prevention/25-06 Physical Security/Perimeter Control Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Physical Security Overview"
+      Link="/Content/25 Loss Prevention/25-06 Physical Security/Physical Security Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Physical Security Policy"
+      Link="/Content/25 Loss Prevention/25-06 Physical Security/Physical Security Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Physical Security Review Procedure"
+      Link="/Content/25 Loss Prevention/25-06 Physical Security/Physical Security Review Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Product Service Room Policy"
+      Link="/Content/25 Loss Prevention/25-06 Physical Security/Product Service Room Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Safe Policy"
+      Link="/Content/25 Loss Prevention/25-06 Physical Security/Store Safe Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="25-06A Lock &amp; Key Control">
+    <TocEntry
+      Title="Change the Core Procedure"
+      Link="/Content/25 Loss Prevention/25-06A Lock &amp; Key Control/Change the Core Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Lock &amp; Key Control Overview"
+      Link="/Content/25 Loss Prevention/25-06A Lock &amp; Key Control/Lock &amp; Key Control Overview .htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Lock &amp; Key Control Policy"
+      Link="/Content/25 Loss Prevention/25-06A Lock &amp; Key Control/Lock &amp; Key Control Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Lost &amp; Unreturned Keys Procedure"
+      Link="/Content/25 Loss Prevention/25-06A Lock &amp; Key Control/Lost &amp; Unreturned Keys Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Replace Emergency Lock Procedure"
+      Link="/Content/25 Loss Prevention/25-06A Lock &amp; Key Control/Replace Emergency Lock Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Close or Relocation Lock Security Procedure"
+      Link="/Content/25 Loss Prevention/25-06A Lock &amp; Key Control/Store Close or Relocation Lock Security Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="25-06B Keyholder Control">
+    <TocEntry
+      Title="Keyholder Control Overview"
+      Link="/Content/25 Loss Prevention/25-06B Keyholder Control/Keyholder Control Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Keyholder Control Policy"
+      Link="/Content/25 Loss Prevention/25-06B Keyholder Control/Keyholder Control Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Request Additional Keyholder Procedure"
+      Link="/Content/25 Loss Prevention/25-06B Keyholder Control/Request Additional Keyholder Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="25-06C Alarm Systems">
+    <TocEntry
+      Title="Alarm System Overview"
+      Link="/Content/25 Loss Prevention/25-06C Alarm Systems/Alarm System Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Alarm System Policy"
+      Link="/Content/25 Loss Prevention/25-06C Alarm Systems/Alarm System Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Report Alarm Problems Help"
+      Link="/Content/25 Loss Prevention/25-06C Alarm Systems/Report Alarm Problems Help.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Respond to Alarm System Procedure"
+      Link="/Content/25 Loss Prevention/25-06C Alarm Systems/Respond to Alarm System Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Test the Alarm System Procedure"
+      Link="/Content/25 Loss Prevention/25-06C Alarm Systems/Test the Alarm System Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="25-07 Night Deliveries">
+    <TocEntry
+      Title="Night Deliveries Policy"
+      Link="/Content/25 Loss Prevention/25-07 Night Deliveries/Night Deliveries Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="25-08 Insurance &amp; Property Loss">
+    <TocEntry
+      Title="Certificate of Insurance Overview"
+      Link="/Content/25 Loss Prevention/25-08 Insurance &amp; Property Loss/Certificate of Insurance Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Insurance &amp; Property Loss Policy"
+      Link="/Content/25 Loss Prevention/25-08 Insurance &amp; Property Loss/Insurance &amp; Property Loss Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Liability Policy"
+      Link="/Content/25 Loss Prevention/25-08 Insurance &amp; Property Loss/Liability Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="License &amp; Permit Help"
+      Link="/Content/25 Loss Prevention/25-08 Insurance &amp; Property Loss/License &amp; Permit Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Obtain Property Loss Insurance Coverage Procedure"
+      Link="/Content/25 Loss Prevention/25-08 Insurance &amp; Property Loss/Obtain Property Loss Insurance Coverage Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Process Liability Claims Procedure"
+      Link="/Content/25 Loss Prevention/25-08 Insurance &amp; Property Loss/Process Liability Claims Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Report Loss of Store Funds Procedure"
+      Link="/Content/25 Loss Prevention/25-08 Insurance &amp; Property Loss/Report Loss of Store Funds Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Request Evidence of Insurance Overview"
+      Link="/Content/25 Loss Prevention/25-08 Insurance &amp; Property Loss/Request Evidence of Insurance Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Surety Bonds Overview"
+      Link="/Content/25 Loss Prevention/25-08 Insurance &amp; Property Loss/Surety Bonds Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="25-09 Counterfeit Currency">
+    <TocEntry
+      Title="Check for Counterfeit Currency Procedure"
+      Link="/Content/25 Loss Prevention/25-09 Counterfeit Currency/Check for Counterfeit Currency Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Counterfeit Currency Overview"
+      Link="/Content/25 Loss Prevention/25-09 Counterfeit Currency/Counterfeit Currency Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Counterfeit Currency Policy"
+      Link="/Content/25 Loss Prevention/25-09 Counterfeit Currency/Counterfeit Currency Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Reorder Counterfeit Currency Markers Procedure"
+      Link="/Content/25 Loss Prevention/25-09 Counterfeit Currency/Reorder Counterfeit Currency Markers Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="25-10 Internal Audits">
+    <TocEntry
+      Title="Access Audit Infraction Check List &amp; How Do I    Procedure"
+      Link="/Content/25 Loss Prevention/25-10 Internal Audits/Access Audit Infraction Check List &amp; How Do I Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Access Audit Reports on Source Procedure"
+      Link="/Content/25 Loss Prevention/25-10 Internal Audits/Access Audit Reports on Source Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Audit Closing Conference Overview"
+      Link="/Content/25 Loss Prevention/25-10 Internal Audits/Audit Closing Conference Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Audit Closing Conference Procedure"
+      Link="/Content/25 Loss Prevention/25-10 Internal Audits/Audit Closing Conference Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Audit Help Contacts"
+      Link="/Content/25 Loss Prevention/25-10 Internal Audits/Audit Help Contacts.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Audit Regrades Overview"
+      Link="/Content/25 Loss Prevention/25-10 Internal Audits/Audit Regrades Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Audit Responses Overview"
+      Link="/Content/25 Loss Prevention/25-10 Internal Audits/Audit Responses Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Audit Scorecard Report Overview"
+      Link="/Content/25 Loss Prevention/25-10 Internal Audits/Audit Scorecard Report Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Internal Audits Overview"
+      Link="/Content/25 Loss Prevention/25-10 Internal Audits/Internal Audits Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Internal Audits Policy"
+      Link="/Content/25 Loss Prevention/25-10 Internal Audits/Internal Audits Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

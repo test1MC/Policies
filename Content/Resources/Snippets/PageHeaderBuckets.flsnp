@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <div class="header-wrapper page grid-container full">
+            <div class="header grid-x align-middle">
+                <div class="header-left small-3 cell"><a href="../../HomePage.htm" target="_self"> <img src="../Images/logo.png" class="header-image" /></a>
+                </div>
+                <div class="header-center small-4 cell">
+                    <div id="header-search">
+                        <MadCap:searchBarProxy data-mc-skin="/Project/Skins/PageSearch.flskn" />
+                    </div>
+                </div>
+                <div class="header-right small-5  cell">
+                    <ul class="dropdown menu" id="page-dropdown" data-dropdown-menu="">
+                        <li><a href="../../Recent Updates.htm">Recent Updates</a>
+                        </li>
+                        <li class="mega-menu"><a data-toggle="mega-menu" href="#">Browse By Topic</a>
+                            <div class="dropdown-pane grid-container fluid bottom" id="mega-menu" data-dropdown="" data-options="closeOnClick:true; hover: true; hoverPane: true">
+                                <div class="grid-x grid-margin-x grid-margin-y">
+                                    <div class="page overlay cell a small-4"><a href="../../COE &amp; POS.htm"><div class="left"><i class="fas fa-receipt"></i></div><div class="right">COE (09)<br />POS (08)</div></a>
+                                    </div>
+                                    <div class="page overlay cell b small-4"><a href="../../Shipping &amp; Delivery.htm"><div class="left"><i class="fas fa-calendar-alt"></i></div><div class="right">Shipping &amp; Delivery (11)	</div></a>
+                                    </div>
+                                    <div class="page overlay cell c small-4"><a href="../../Tax.htm"><div class="left"><i class="fas fa-thumbtack"></i></div><div class="right">Tax (13)	</div></a>
+                                    </div>
+                                </div>
+                                <div class="grid-x grid-margin-x grid-margin-y">
+                                    <div class="page overlay cell d small-4"><a href="../../KronosHumanResources.htm"><div class="left"><i class="fas fa-user"></i></div><div class="right">Kronos Attendance &amp;&#160;Time (28)<br />Human Resources (06)</div></a>
+                                    </div>
+                                    <div class="page overlay cell e small-4"><a href="../../MerchandiseProduct Returns.htm"><div class="left"><i class="fas fa-tint"></i></div><div class="right">Merchandise (07)<br />Store Return to Vendor or DSC (20)</div></a>
+                                    </div>
+                                    <div class="page overlay cell f small-4"><a href="../../InventoryAdvertisingHardware.htm"><div class="left"><i class="fas fa-shopping-bag"></i></div><div class="right">Inventory (27)<br />Advertising/Visual Merchandising (02)<br />Hardware (03)</div></a>
+                                    </div>
+                                </div>
+                                <div class="grid-x grid-margin-x grid-margin-y">
+                                    <div class="page overlay cell g small-4"><a href="../../PricingCredit.htm"><div class="left"><i class="fas fa-money-bill-alt"></i></div><div class="right">Pricing (21)<br />Credit (05)</div></a>
+                                    </div>
+                                    <div class="page overlay cell h small-4"><a href="../../StoreMaintenanceOrderingStoreSupplies.htm"><div class="left"><i class="fas fa-wrench"></i></div><div class="right">Store Maintenance (12)<br />Online Ordering &amp;&#160;Services (24)</div></a>
+                                    </div>
+                                    <div class="page overlay cell i small-4"><a href="../../LossPreventionExternalComplianceSafety.htm"><div class="left"><i class="fas fa-stethoscope"></i></div><div class="right">Loss Prevention (25)<br />External Compliance (17)<br />Safety (10)</div></a>
+                                    </div>
+                                </div>
+                                <div class="grid-x grid-margin-x grid-margin-y">
+                                    <div class="page overlay cell j small-4"><a href="../../StoreBasicsHardware.htm"><div class="left"><i class="fas fa-desktop"></i></div><div class="right">Store Computer POS Basics (19)<br />Hardware (03)</div></a>
+                                    </div>
+                                    <div class="page overlay cell k small-4"><a href="../../AccountFilingClassNumbersReportPrimeSubNumbers.htm"><div class="left"><i class="fas fa-sort-numeric-up"></i></div><div class="right">Accounting &amp;&#160;Filing (01)<br />Class Numbers &amp;&#160;Prime Sub Numbers (04)<br />Reporting (18)</div></a>
+                                    </div>
+                                    <div class="page overlay cell k small-4"><a href="../../SprayEquipment.htm"><div class="left"><i class="fas fa-shower"></i></div><div class="right">Spray Equipment (16)</div></a>
+                                    </div>
+                                </div>
+                                <div class="grid-x grid-margin-x grid-margin-y">
+                                    <div class="page overlay cell j small-4"><a href="../../AutomotiveITSupport.htm"><div class="left"><i class="fas fa-car"></i></div><div class="right">Automotive IT Support (26)</div></a>
+                                    </div>
+                                    <div class="page overlay cell k small-4"><a href="../../FloorWallcovering.htm"><div class="left"><i class="fas fa-building"></i></div><div class="right">Floorcovering (14)<br />Wallcovering (15)</div></a>
+                                    </div>
+                                    <div class="page overlay cell k small-4"><a href="#"><div class="left"><i class="fas fa-sort-numeric-up"></i></div><div class="right">Empty</div></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="mega-menu"><a data-toggle="mega-menu-2" href="#">Index</a>
+                            <div class="dropdown-pane grid-container fluid bottom" id="mega-menu-2" data-dropdown="" data-options="closeOnClick:true; hover: true; hoverPane: true">
+                                <div class="grid-x align-center">
+                                    <div class="column">
+                                        <ul class="index-menu">
+                                            <li><a href="../../01 Accounting &amp; Filing/Accounting &amp; Filing.htm">01 Accounting, Filing, &amp;&#160;Retention  </a>
+                                            </li>
+                                            <li><a href="../../02 Advertising &amp; Visual Merchandising/Advertising &amp; Visual Merchandising.htm">02 Advertising/Visual Merchandising</a>
+                                            </li>
+                                            <li><a href="../../03 Hardware/Hardware.htm">03 Hardware</a>
+                                            </li>
+                                            <li><a href="../../04 Class Numbers &amp; Prime Sub Numbers/Class Numbers &amp; Prime Sub Numbers.htm">04 Class Numbers &amp;&#160;Prime Sub Numbers </a>
+                                            </li>
+                                            <li><a href="../../05 Credit/Credit.htm">05 Credit</a>
+                                            </li>
+                                            <li><a href="../../06 Human Resources/Human Resources.htm">06 Human Resources</a>
+                                            </li>
+                                            <li><a href="../../07 Merchandise/Merchandise.htm">07 Merchandise Management</a>
+                                            </li>
+                                            <li><a href="../../08 Point of Sale Transactions/Point of Sale Transactions.htm">08 Point of Sale</a>
+                                            </li>
+                                            <li><a href="../../09 Customer Order Entry/Customer Order Entry.htm">09 Customer Order Entry</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="column">
+                                        <ul class="index-menu">
+                                            <li><a href="../../10 Safety/Safety.htm">10 Safety</a>
+                                            </li>
+                                            <li><a href="../../11 Shipping &amp; Delivery/Shipping &amp; Delivery.htm">11 Shipping &amp;&#160;Delivery</a>
+                                            </li>
+                                            <li><a href="../../12 Store Maintenance/Store Maintenance.htm">12 Store Maintenance &amp;&#160;Services</a>
+                                            </li>
+                                            <li><a href="../../13 Tax/Tax.htm">13 Tax</a>
+                                            </li>
+                                            <li><a href="../../14 Floorcovering/Floorcovering.htm">14 Floorcovering </a>
+                                            </li>
+                                            <li><a href="../../15 Wallcovering/Wallcovering.htm">15 Wallcovering </a>
+                                            </li>
+                                            <li><a href="../../16 Spray Equipment/Spray Equipment.htm">16 Spray Equipment &amp;&#160;Tools</a>
+                                            </li>
+                                            <li><a href="../../17 External Compliance/External Compliance.htm">17 External Compliance</a>
+                                            </li>
+                                            <li><a href="../../18 Reporting/Reporting.htm">18 Reporting</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="column">
+                                        <ul class="index-menu">
+                                            <li><a href="../../19 Store Computer (POS) Basics/Store Computer (POS) Basics.htm">19 Store Computer (POS) Basics</a>
+                                            </li>
+                                            <li><a href="../../20 Store Return to Vendor or DSC/Store Return to Vendor or DSC .htm">20 Store Supply Returns</a>
+                                            </li>
+                                            <li><a href="../../21 Pricing/Pricing.htm">21 Pricing</a>
+                                            </li>
+                                            <li><a href="../../24 Online Ordering &amp; Services/Online Ordering &amp; Services.htm">24 Online Ordering &amp; Services</a>
+                                            </li>
+                                            <li><a href="../../25 Loss Prevention/Loss Prevention.htm">25 Loss Prevention</a>
+                                            </li>
+                                            <li><a href="../../26 Automotive IT Support/Automotive IT Support.htm">26 Automotive IT Support </a>
+                                            </li>
+                                            <li><a href="../../27 Inventory/Inventory.htm">27 Inventory</a>
+                                            </li>
+                                            <li><a href="../../28 KRONOS Time &amp; Attendance/Kronos Time &amp; Attendance.htm">28 Kronos(Attendance &amp;&#160;Time)</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

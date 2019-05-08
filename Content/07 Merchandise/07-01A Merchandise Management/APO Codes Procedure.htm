@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPageMerch.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>APO Codes Procedure</h1>
+        <p><b>APO Codes</b> are assigned to each product in the <b>Master Product File</b> and identify the source of a product as internal or external.&#160; Products coded as external may only be ordered on an external purchase orders.&#160; Products available internally (including vendor products stocked at the <b>DSC</b>) may only be ordered on internal purchase order types.&#160; The <b>APO Code</b> also controls which products may be maintained for <b>Min / Max</b> order points.&#160; Products which have been assigned an <b>APO Code</b>, which is allowable for <b>STAR Orders</b>, will also be eligible for <b>Min / Max Maintenance</b>.&#160; If a product’s <b>APO Code</b> assignment does not allow the product to be ordered using <b>STAR Orders</b>, that product is not eligible for <b>Min / Max Maintenance</b>.</p>
+        <p>To review which <b>APO Codes</b> are associated with external purchase orders and those which are associated with internal purchase order types, stores should access the <b>View Allowable Purchase Order (APO) Codes Report</b> in <b>Merchandise Management Reports</b>.&#160; This report will show the same information displayed in the chart below:</p>
+        <p>
+            <img src="../../Resources/Images/07-01A.png" />
+        </p>
+        <p>Stores may review an individual product's <b>APO Code</b> by selecting the <b>INQUIRY [F4]</b> option for <b>Products and Prices</b>.&#160; </p>
+        <p>
+            <img src="../../Resources/Images/07-01A2.png" />
+        </p>
+        <table style="width: 100%;">
+            <col style="width: 69px;" />
+            <col />
+            <thead>
+                <tr>
+                    <th>Step</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td colspan="2">If you receive the error message, "<b>PRODUCT CANNOT BE ENTERED ON THIS TYPE OF ORDER</b>," follow these steps.&#160; </td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>Check the <b>APO Code</b> on the product profile in <b>INQUIRY [F4]</b>&#160; <b>Products and Prices</b>.</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Cross-check this code against that on the <b>Allowable Purchase Order (APO) Codes Report</b> to verify that the product may be placed on the order type being used.&#160;</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Refresh the product information from the HQ database following the <b>Product Refresh Procedure</b>.&#160;</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>Call the <b>SCO Helpdesk</b> at <b>216-566-2740</b> for assistance.</td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Revision Details</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="revision-details">
+                    <table class="revision">
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Revision Type</th>
+                                <th>Description</th>
+                                <th>Requester - admin only</th>
+                                <th>Initial - admin only</th>
+                                <th>Misc - admin only</th>
+                                <th>Include in year end - admin only</th>
+                                <th>Doc Title, hidden</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="revdate">05/18</td>
+                                <td class="revtype">Revised</td>
+                                <td class="revdescrip">The APO Code Chart has been updated.</td>
+                                <td class="revrequester">&#160;</td>
+                                <td class="revinitial">&#160;</td>
+                                <td class="revmisc">&#160;</td>
+                                <td class="revyear-end">&#160;</td>
+                                <td class="revdoc-title"><MadCap:variable name="System.Title" />
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

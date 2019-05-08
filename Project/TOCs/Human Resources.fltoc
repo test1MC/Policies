@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/06 Human Resources/Human Resources.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="06-01 Human Resources">
+    <TocEntry
+      Title="Human Resources Overview"
+      Link="/Content/06 Human Resources/06-01 Human Resources/Human Resources Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Non-Harassment Policy"
+      Link="/Content/06 Human Resources/06-01 Human Resources/Non-Harassment Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="06-01B Minimum Wage Guidelines">
+    <TocEntry
+      Title="Minimum Wage Overview"
+      Link="/Content/06 Human Resources/06-01B Minimum Wage Guidelines/Minimum Wage Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="06-02B Tuition Reimbursement">
+    <TocEntry
+      Title="Qualified Courses for Tuition Reimbursement Overview"
+      Link="/Content/06 Human Resources/06-02B Tuition Reimbursement/Qualified Courses for Tuition Reimbursement Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Tuition Reimbursement Application Procedure"
+      Link="/Content/06 Human Resources/06-02B Tuition Reimbursement/Tuition Reimbursement Application Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Tuition Reimbursement Overview"
+      Link="/Content/06 Human Resources/06-02B Tuition Reimbursement/Tuition Reimbursement Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Tuition Reimbursement Policy"
+      Link="/Content/06 Human Resources/06-02B Tuition Reimbursement/Tuition Reimbursement Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="06-03 Garnishments">
+    <TocEntry
+      Title="Garnishments Overview"
+      Link="/Content/06 Human Resources/06-03 Garnishments/Garnishments Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Garnishments Policy"
+      Link="/Content/06 Human Resources/06-03 Garnishments/Garnishments Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Report Garnishment Procedure"
+      Link="/Content/06 Human Resources/06-03 Garnishments/Report Garnishment Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="06-04 Employment">
+    <TocEntry
+      Title="Employment of Relatives Policy"
+      Link="/Content/06 Human Resources/06-04 Employment/Employment of Relatives Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Employment Policy"
+      Link="/Content/06 Human Resources/06-04 Employment/Employment Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Residential Repaint Sales Specialist  Policy"
+      Link="/Content/06 Human Resources/06-04 Employment/Residential Repaint Sales Specialist  Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Types of Employment Overview"
+      Link="/Content/06 Human Resources/06-04 Employment/Types of Employment Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="06-04A Employee Expectations">
+    <TocEntry
+      Title="Personal Appearance Standards Policy"
+      Link="/Content/06 Human Resources/06-04A Employee Expectations/Personal Appearance Standards Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="06-04B Employee Discipline">
+    <TocEntry
+      Title="Employee Discipline Overview"
+      Link="/Content/06 Human Resources/06-04B Employee Discipline/Employee Discipline Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Employee Discipline Policy"
+      Link="/Content/06 Human Resources/06-04B Employee Discipline/Employee Discipline Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Employee Discipline Procedure"
+      Link="/Content/06 Human Resources/06-04B Employee Discipline/Employee Discipline Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="06-04C Employee Misconduct">
+    <TocEntry
+      Title="Employee Misconduct Overview"
+      Link="/Content/06 Human Resources/06-04C Employee Misconduct/Employee Misconduct Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Gross Misconduct Overview"
+      Link="/Content/06 Human Resources/06-04C Employee Misconduct/Gross Misconduct Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Mala Conducta Grave"
+      Link="/Content/06 Human Resources/06-04C Employee Misconduct/Mala Conducta Grave.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Mala Conducta Progresiva"
+      Link="/Content/06 Human Resources/06-04C Employee Misconduct/Mala Conducta Progresiva.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Progressive Misconduct Overview"
+      Link="/Content/06 Human Resources/06-04C Employee Misconduct/Progressive Misconduct Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="06-04D Employee Problem Resolution">
+    <TocEntry
+      Title="Claim of Discrimination or Termination Procedure"
+      Link="/Content/06 Human Resources/06-04D Employee Problem Resolution/Claim of Discrimination or Termination Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Employee Problem Resolution Overview"
+      Link="/Content/06 Human Resources/06-04D Employee Problem Resolution/Employee Problem Resolution Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Employee Problem Resolution Policy"
+      Link="/Content/06 Human Resources/06-04D Employee Problem Resolution/Employee Problem Resolution Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="General Complaint or Performance Evaluation Procedure"
+      Link="/Content/06 Human Resources/06-04D Employee Problem Resolution/General Complaint or Performance Evaluation Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Mediation &amp; Arbitration Overview"
+      Link="/Content/06 Human Resources/06-04D Employee Problem Resolution/Mediation &amp; Arbitration Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Types of Concerns &amp; Complaints Overview"
+      Link="/Content/06 Human Resources/06-04D Employee Problem Resolution/Types of Concerns &amp; Complaints Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="06-04E Employee Termination">
+    <TocEntry
+      Title="Employee Termination Overview"
+      Link="/Content/06 Human Resources/06-04E Employee Termination/Employee Termination Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Employee Termination Policy"
+      Link="/Content/06 Human Resources/06-04E Employee Termination/Employee Termination Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Employee Termination Procedure"
+      Link="/Content/06 Human Resources/06-04E Employee Termination/Employee Termination Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Involuntary Termination Overview"
+      Link="/Content/06 Human Resources/06-04E Employee Termination/Involuntary Termination Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="06-05B H1N1 Pandemic">
+    <TocEntry
+      Title="H1N1 Pandemic Overview"
+      Link="/Content/06 Human Resources/06-05B H1N1 Pandemic/H1N1 Pandemic Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="H1N1 Pandemic Policy"
+      Link="/Content/06 Human Resources/06-05B H1N1 Pandemic/H1N1 Pandemic Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="06-06 Global Corporate Travel">
+    <TocEntry
+      Title="Access the Global Corporate Travel Policy Procedure"
+      Link="/Content/06 Human Resources/06-06 Global Corporate Travel/Access the Global Corporate Travel Policy Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Travel &amp; Entertainment Expenses Policy"
+      Link="/Content/06 Human Resources/06-06 Global Corporate Travel/Travel &amp; Entertainment Expenses Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="06-07 ACORN">
+    <TocEntry
+      Title="ACORN Overview"
+      Link="/Content/06 Human Resources/06-07 ACORN/ACORN Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="ACORN Procedure"
+      Link="/Content/06 Human Resources/06-07 ACORN/ACORN Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="06-09 Corporate Policies">
+    <TocEntry
+      Title="Corporate Policies Disclaimer Policy"
+      Link="/Content/06 Human Resources/06-09 Corporate Policies/Corporate Policies Disclaimer Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Corporate Policies Policy"
+      Link="/Content/06 Human Resources/06-09 Corporate Policies/Corporate Policies Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Corporate Policies Review Policy"
+      Link="/Content/06 Human Resources/06-09 Corporate Policies/Corporate Policies Review Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Corporate Policy Access Policy"
+      Link="/Content/06 Human Resources/06-09 Corporate Policies/Corporate Policy Access Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="06-10 Employee Profiles">
+    <TocEntry
+      Title="Add Employee Profiles Procedure"
+      Link="/Content/06 Human Resources/06-10 Employee Profiles/Add Employee Profiles Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Borrowed Employee – SOURCE Multi-Store Access Procedure"
+      Link="/Content/06 Human Resources/06-10 Employee Profiles/Borrowed Employee - SOURCE Multi-Store Access Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="06-11 Emergency Response - Performance Coatings">
+    <TocEntry
+      Title="Crisis &amp; Emergency Contacts Help"
+      Link="/Content/06 Human Resources/06-11 Emergency Response - Performance Coatings/Crisis &amp; Emergency Contacts Help.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Crisis &amp; Severe Weather Policy"
+      Link="/Content/06 Human Resources/06-11 Emergency Response - Performance Coatings/Crisis &amp; Severe Weather Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Crisis Management Overview"
+      Link="/Content/06 Human Resources/06-11 Emergency Response - Performance Coatings/Crisis Management Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Emergency Cleanup Policy"
+      Link="/Content/06 Human Resources/06-11 Emergency Response - Performance Coatings/Emergency Cleanup Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Emergency Cleanup Procedure"
+      Link="/Content/06 Human Resources/06-11 Emergency Response - Performance Coatings/Emergency Cleanup Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Emergency Contacts List Help"
+      Link="/Content/06 Human Resources/06-11 Emergency Response - Performance Coatings/Emergency Contacts List Help.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Evacuation or Emergency Shutdown Procedure"
+      Link="/Content/06 Human Resources/06-11 Emergency Response - Performance Coatings/Evacuation or Emergency Shutdown Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Re-enter Store after Hurricane or Flood Procedure"
+      Link="/Content/06 Human Resources/06-11 Emergency Response - Performance Coatings/Re-enter Store after Hurricane or Flood Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Re-open Store after a Shutdown Overview"
+      Link="/Content/06 Human Resources/06-11 Emergency Response - Performance Coatings/Re-open Store after a Shutdown Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="06-12 Code of Conduct">
+    <TocEntry
+      Title="Ask Before Acting Overview"
+      Link="/Content/06 Human Resources/06-12 Code of Conduct/Ask Before Acting Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Code of Conduct Overview"
+      Link="/Content/06 Human Resources/06-12 Code of Conduct/Code of Conduct Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Company Growth Policy"
+      Link="/Content/06 Human Resources/06-12 Code of Conduct/Company Growth Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Company Integrity Policy"
+      Link="/Content/06 Human Resources/06-12 Code of Conduct/Company Integrity Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Compliance with Laws Overview"
+      Link="/Content/06 Human Resources/06-12 Code of Conduct/Compliance with Laws Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Confidential Information &amp; Security of Assets Policy"
+      Link="/Content/06 Human Resources/06-12 Code of Conduct/Confidential Information &amp; Security of Assets Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Employee Conduct Policy"
+      Link="/Content/06 Human Resources/06-12 Code of Conduct/Employee Conduct Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Employee Performance Policy"
+      Link="/Content/06 Human Resources/06-12 Code of Conduct/Employee Performance Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Employee Quality Policy"
+      Link="/Content/06 Human Resources/06-12 Code of Conduct/Employee Quality Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Non-Retaliation Overview"
+      Link="/Content/06 Human Resources/06-12 Code of Conduct/Non-Retaliation Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Quality of Service Policy"
+      Link="/Content/06 Human Resources/06-12 Code of Conduct/Quality of Service Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Raise a Concern Procedure"
+      Link="/Content/06 Human Resources/06-12 Code of Conduct/Raise a Concern Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

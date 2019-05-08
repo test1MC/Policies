@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPageShippingDelivery.flmsp');">
+    <head>
+    </head>
+    <body>
+        <h1>Delivery Order Procedure</h1>
+        <h2>Process or cancel a Delivery Order using a Store Vehicle or Cartage Service, a Delivery Order using Multiple Delivery Methods, or a Delivery Order using SW Delivery Service</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p>Step</p>
+                    </th>
+                    <th>
+                        <p>Action</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td colspan="2" style="font-weight: bold;">
+                        <p>Delivery Process</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>
+                        <table style="width: 100%;">
+                            <col />
+                            <col />
+                            <thead>
+                                <tr>
+                                    <th>If</th>
+                                    <th>Then</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td style="font-weight: bold;">Delivery Order Using a Store Vehicle or Cartage Service </td>
+                                    <td>Proceed to <b>Step 2</b>.</td>
+                                </tr>
+                                <tr>
+                                    <td style="font-weight: bold;">Delivery Order Using Multiple Delivery Methods</td>
+                                    <td>If entering an <b>IST</b> or <b>Customer order</b>, select <b>N</b> to the prompts, “Are lines on this Order ready for Delivery?”&#160;or, “Schedule a delivery for this transaction.” Press <b>ACCEPT [F1]</b>. Repeat for all transactions being combined.</td>
+                                </tr>
+                                <tr>
+                                    <td style="font-weight: bold;">Delivery Order Using SW Delivery Service</td>
+                                    <td>
+                                        <p>Proceed to <b>Step 2</b>.</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>2</p>
+                    </td>
+                    <td>
+                        <p>From <b>POS desktop</b>, select <b>Store</b> -&gt;  <b>Customer Order Entry</b> -&gt; <b>Delivery Menu</b> -&gt; <b>Add Delivery</b> -&gt; Enter the transaction lookup criteria (narrow search by transaction type, date range, and sort preference). Mark select order(s) with the <b>ENTER</b> key (orders with the same account can be sent to the same location on one delivery). Press <b>ACCEPT [F1]</b>. </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>
+                        <table style="width: 100%;">
+                            <col />
+                            <col />
+                            <thead>
+                                <tr>
+                                    <th>If</th>
+                                    <th>Then</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td style="font-weight: bold;">Delivery Order Using a Store Vehicle or Cartage Service</td>
+                                    <td>
+                                        <p>Select the <b>XXXX Store Truck</b> as the carrier from the <b>SCAC Code List</b>. </p>
+                                        <p>Note: If your truck is in use, scroll and select the <b>Carrier</b> name of the service.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="font-weight: bold;">Delivery Order Using Multiple Delivery Methods</td>
+                                    <td>Select a <b>Carrier</b>. If using a <b>Store Truck</b> serviced by the <b>SW Delivery Service</b>, select a <b>delivery priority</b>.</td>
+                                </tr>
+                                <tr>
+                                    <td style="font-weight: bold;">Delivery Order Using SW Delivery Service</td>
+                                    <td>
+                                        <p>Select <b>XXXX Store Truck</b> as the carrier from the <b>SCAC Code List</b>.</p>
+                                        <p>Note: Rename any carrier named <b>Store Truck</b> that you added in the past. Leave only the <b>XXXX Store Truck</b>, which sends orders to the delivery service.</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>4</p>
+                    </td>
+                    <td>
+                        <p>Select the <b>Delivery Date</b> -&gt; Select <b>Priority</b> or <b>Delivery Time</b> (<b>Available Order Times</b> will show based on the <b>Delivery Date</b> you have selected) -&gt; Select <b>YES</b> to submit your order to <b>Dispatch</b> for scheduling.</p>
+                        <p>Note:  <b>POS</b> will save delivery locations used for customer accounts. You may select a previously used address from the list returned to the screen or press <b>CANCEL [F5]</b> to use the address entered on the <b>Customer Order</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>5</p>
+                    </td>
+                    <td>
+                        <p>Confirm the <b>Ship Quantity</b>. </p>
+                        <p>Note: If the <b>Ship Quantity</b> is less than what is available, enter only the amount being shipped.  See <b>Additional Steps</b> below for the backordered products procedure. The order with backordered products will remain in <b>Customer Order Entry</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>
+                        <table style="width: 100%;">
+                            <col />
+                            <col />
+                            <thead>
+                                <tr>
+                                    <th>If</th>
+                                    <th>Then</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td style="font-weight: bold;">Delivery Order Using a Store Vehicle or Cartage Service </td>
+                                    <td>Proceed to <b>Step 7</b>.</td>
+                                </tr>
+                                <tr>
+                                    <td style="font-weight: bold;">Delivery Order Using Multiple Delivery Methods</td>
+                                    <td>
+                                        <p>Select <b>Y</b> to submit a <b>Bill-of-Lading Request</b> to <b>BOLDOC</b> and/or <b>schedule delivery routing</b> (<b>SW delivery service</b> only).&#160;</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="font-weight: bold;">Delivery Order Using SW Delivery Service</td>
+                                    <td>Select <b>Y</b> to submit the order for <b>Scheduling/Routing</b> and to open <b>BOLDOC</b>. </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>7</p>
+                    </td>
+                    <td>
+                        <p>Do you want to create a <b>Bill-of-Lading</b>?</p>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>
+                                        <p>If</p>
+                                    </th>
+                                    <th>
+                                        <p>Then</p>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <p>Yes</p>
+                                    </td>
+                                    <td>
+                                        <p>Select <b>Y</b> to submit a <b>Bill-of-Lading Request</b> to <b>BOLDOC</b>. Press <b>ACCEPT [F1]</b> to proceed.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>No</p>
+                                    </td>
+                                    <td>
+                                        <p>Select <b>N</b> to create a <b>Manual Bill-of-Lading</b> or if your <b>Third Party Carrier</b> is providing one for you.</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p>Note: This will communicate your transaction information to <b>HEARS</b>. If an error message appears during any of the transaction submissions, note the message and call the <b>helpdesk</b>. A <b>BOL</b> is required for all orders.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>8</p>
+                    </td>
+                    <td>
+                        <p>Select <b>Y</b> to open <b>HEARS</b> to complete the <b>BOL</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>9</p>
+                    </td>
+                    <td>
+                        <p>Process the <b>Sales Transaction</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="font-weight: bold;">
+                        <p>Additional Steps: Backordered Products</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <p>Once the backordered products have arrived, from <b>POS desktop</b>, select <b>Store</b> -&gt; <b>Customer Order Entry</b> -&gt; <b>Update/Review Orders</b>. Search for the backordered customer order.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>2</p>
+                    </td>
+                    <td>
+                        <p>Select <b>Y</b> to the prompt, “Are lines on this Order ready for Delivery?” Press <b>ACCEPT [F1]</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>3</p>
+                    </td>
+                    <td>
+                        <p>Select the <b>Store Truck</b> as the carrier from the <b>SCAC Code List</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>4</p>
+                    </td>
+                    <td>
+                        <p>Select the <b>Delivery Date</b>. Instructions are at the bottom of the screen.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>5</p>
+                    </td>
+                    <td>
+                        <p>Confirm the <b>Ship Quantity</b> of the backordered products.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>6</p>
+                    </td>
+                    <td>
+                        <table style="width: 100%;">
+                            <col />
+                            <col />
+                            <thead>
+                                <tr>
+                                    <th>If</th>
+                                    <th>Then</th>
+                                </tr>
+                                <tr>
+                                    <th style="text-align: left;font-weight: bold;"><span style="font-weight: bold;">Delivery Order Using a Store Vehicle or Cartage Service</span>
+                                    </th>
+                                    <th style="text-align: left;"><span style="font-weight: normal;">Select </span>Y<span style="font-weight: normal;"> to submit a </span>Bill-of-Lading Request<span style="font-weight: normal;"> to </span>BOLDOC<span style="font-weight: normal;">. Press </span>ACCEPT [F1]<span style="font-weight: normal;">.</span></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td style="font-weight: bold;">Delivery Order Using Multiple Delivery Methods</td>
+                                    <td>
+                                        <p>Select <b>Y</b> to submit a <b>Bill-of-Lading Request</b> to <b>BOLDOC</b> and/or <b>schedule delivery routing</b> (<b>SW delivery service</b> only).&#160; Press <b>ACCEPT [F1]</b>.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="font-weight: bold;">Delivery Order Using SW Delivery Service</td>
+                                    <td>Select <b>Y</b> to submit the order for <b>Scheduling/Routing</b> and a <b>Bill-of-Lading Request</b> to <b>BOLDOC</b>. Press <b>ACCEPT [F1]</b>.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p>Note: This will communicate your transaction information to <b>HEARS</b> and/or <b>SW Delivery Services</b>. If an error message appears during any of the transaction submissions, note the on-screen message and call the <b>helpdesk</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>7</p>
+                    </td>
+                    <td>
+                        <p>Select <b>Y</b> to open <b>HEARS</b> to complete the <b>Bill-of-Lading</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>8</p>
+                    </td>
+                    <td>
+                        <p>If necessary, print the <b>Confirmation of Delivery tickets</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>9</p>
+                    </td>
+                    <td>
+                        <p>Process the <b>Sales Transaction</b>, select <b>Shipped Lines Not Billed</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="font-weight: bold;">
+                        <p>Additional Steps: Canceling Delivery</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <p>From <b>POS desktop</b>, select <b>Store</b> -&gt; <b>Customer Order Entry</b>&#160; -&gt; <b>Delivery Menu</b>&#160; -&gt; <b>Cancel Delivery</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>2</p>
+                    </td>
+                    <td>
+                        <p>Select <b>COE</b> from the <b>Order Types Menu</b>. Press <b>ACCEPT [F1]</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>3</p>
+                    </td>
+                    <td>
+                        <p>Highlight the order to be cancelled and press <b>ACCEPT [F1]</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>4</p>
+                    </td>
+                    <td>
+                        <p>Enter <b>Y</b> to cancel the order. Contact <b>Dispatch</b> to confirm the shipment cancellation.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Revision Details</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="revision-details">
+                    <table class="revision">
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Revision Type</th>
+                                <th>Description</th>
+                                <th>Requester - admin only</th>
+                                <th>initial - admin only</th>
+                                <th>misc - admin only</th>
+                                <th>include in year end - admin only</th>
+                                <th>Doc Title, hidden</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="revdate">6/18</td>
+                                <td class="revtype">Revised</td>
+                                <td class="revdescrip">&#160;</td>
+                                <td class="revrequester">&#160;</td>
+                                <td class="revinitial">Incorporated info from Process Delivery Order Procedure, Delivery Order Using a Store Vehicle or Cartage Service Procedure, Delivery Order Using Multiple Delivery Methods Procedure, and Delivery Order Using SW Delivery Service Procedure topics into one updated procedure chart </td>
+                                <td class="revmisc">&#160;</td>
+                                <td class="revyear-end">&#160;</td>
+                                <td class="revdoc-title"><MadCap:variable name="System.Title" />
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

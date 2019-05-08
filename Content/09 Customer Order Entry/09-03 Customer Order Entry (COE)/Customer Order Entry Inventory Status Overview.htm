@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPageCOE.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>Customer Order Entry Inventory Status Overview</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p>Status</p>
+                    </th>
+                    <th>
+                        <p>Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="font-weight: bold;">
+                        <p>Non Committed</p>
+                    </td>
+                    <td>
+                        <p>Quantity available at your location (does not include the committed amount)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-weight: bold;">
+                        <p>Committed</p>
+                    </td>
+                    <td>
+                        <p>Quantity committed on other orders but not yet sold</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-weight: bold;">
+                        <p>On Order</p>
+                    </td>
+                    <td>
+                        <p>Amount currently on order but not received</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-weight: bold;">
+                        <p>Line Status</p>
+                    </td>
+                    <td>
+                        <p>Condition for current product:</p>
+                        <table>
+                            <col style="width: 19px;" />
+                            <col />
+                            <col />
+                            <thead>
+                                <tr>
+                                    <th colspan="2">
+                                        <p>Line Status</p>
+                                    </th>
+                                    <th>
+                                        <p>Description</p>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <p>F</p>
+                                    </td>
+                                    <td style="font-weight: bold;">
+                                        <p>Committed</p>
+                                    </td>
+                                    <td>
+                                        <p>Stock was available and inventory was committed for the order quantity</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>H</p>
+                                    </td>
+                                    <td style="font-weight: bold;">
+                                        <p>On Hold</p>
+                                    </td>
+                                    <td>
+                                        <p>Item is on hold waiting for action</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>L</p>
+                                    </td>
+                                    <td style="font-weight: bold;">
+                                        <p>Sold/Canceled</p>
+                                    </td>
+                                    <td>
+                                        <p>Items on order sold; the balance of the order was canceled</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>N</p>
+                                    </td>
+                                    <td style="font-weight: bold;">
+                                        <p>No Action</p>
+                                    </td>
+                                    <td>
+                                        <p>Item is not committed and not ordered (mainly happens with <b>EDI orders</b>. You are required to take action - either commit the inventory or place an order – then the item moves to the next status)</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>O</p>
+                                    </td>
+                                    <td style="font-weight: bold;">
+                                        <p>On Order</p>
+                                    </td>
+                                    <td>
+                                        <p><b>External item</b> placed on <b>Order Reminder Report</b>; <b>Internal item</b> placed on <b>Memo Demand</b></p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>P</p>
+                                    </td>
+                                    <td style="font-weight: bold;">
+                                        <p>Partially Committed</p>
+                                    </td>
+                                    <td>
+                                        <p>Inventory was committed for part of the order quantity and the balance was placed <b>ON ORDER</b></p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>S</p>
+                                    </td>
+                                    <td style="font-weight: bold;">
+                                        <p>Sold</p>
+                                    </td>
+                                    <td>
+                                        <p><b>Point of sale transaction</b> processed for this product</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>X</p>
+                                    </td>
+                                    <td style="font-weight: bold;">
+                                        <p>Canceled</p>
+                                    </td>
+                                    <td>
+                                        <p>Order canceled</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-weight: bold;">
+                        <p>Available </p>
+                    </td>
+                    <td>
+                        <p>When product should be available</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-weight: bold;">
+                        <p>Commit</p>
+                    </td>
+                    <td>
+                        <p>Amount committed from this order</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-weight: bold;">
+                        <p>Order</p>
+                    </td>
+                    <td>
+                        <p>If not committed, internal products will automatically generate a <b>Memo Demand</b> and be added to your next <b>Suggested STAR Order</b> if the next delivery date is before the <b>Required date</b></p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin Version="2" SkinType="Component" Comment="HTML5 Menu skin" ComponentType="Menu" EnableResponsiveOutput="True">
+    <Stylesheet>
+        <Styles>
+            <Medium Name="Mobile">
+                <Style Name="Menu Item">
+                    <Properties>
+                        <Property Name="FontFamily">Arial</Property>
+                        <Property Name="FontWeight">normal</Property>
+                        <Property Name="FontStyle">normal</Property>
+                    </Properties>
+                    <Classes>
+                        <StyleClass Name="1st Level">
+                            <Properties>
+                                <Property Name="Color">#696969</Property>
+                            </Properties>
+                        </StyleClass>
+                    </Classes>
+                </Style>
+                <Style Name="Menu Item (hover)">
+                    <Properties>
+                        <Property Name="Color">#ff0000</Property>
+                        <Property Name="FontFamily">Arial</Property>
+                    </Properties>
+                    <Classes>
+                        <StyleClass Name="Selected">
+                            <Properties>
+                                <Property Name="Color">#ff6347</Property>
+                            </Properties>
+                        </StyleClass>
+                    </Classes>
+                </Style>
+            </Medium>
+        </Styles>
+        <Stylesheet>
+        </Stylesheet>
+    </Stylesheet>
+    <Strings />
+    <WebHelpOptions EnableSticky="None" />
+</CatapultSkin>

@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/13 Tax/Tax.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+  <TocEntry
+    Title="13-01 Taxability">
+    <TocEntry
+      Title="Canadian Taxability Overview"
+      Link="/Content/13 Tax/13-01 Taxability/Canadian Taxability Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Determine Product Taxability Procedure"
+      Link="/Content/13 Tax/13-01 Taxability/Determine Product Taxability Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Freight Taxability Overview"
+      Link="/Content/13 Tax/13-01 Taxability/Freight Taxability Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Interstate Sales Overview"
+      Link="/Content/13 Tax/13-01 Taxability/Interstate Sales Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Locate Tax Zip Code Procedure"
+      Link="/Content/13 Tax/13-01 Taxability/Locate Tax Zip Code Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Tax Jurisdiction Overview"
+      Link="/Content/13 Tax/13-01 Taxability/Tax Jurisdiction Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Transaction Taxability Overview"
+      Link="/Content/13 Tax/13-01 Taxability/Transaction Taxability Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="13-02 Tax Levies">
+    <TocEntry
+      Title="Release of Levy &amp; Release of Property from Levy Overview"
+      Link="/Content/13 Tax/13-02 Tax Levies/Release of Levy &amp; Release of Property from Levy Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Tax Levy Installer Payment Plans Overview"
+      Link="/Content/13 Tax/13-02 Tax Levies/Tax Levy Installer Payment Plans Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Tax Levy Overview"
+      Link="/Content/13 Tax/13-02 Tax Levies/Tax Levy Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Tax Levy Policy"
+      Link="/Content/13 Tax/13-02 Tax Levies/Tax Levy Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="13-03 State Tax Bulletins">
+    <TocEntry
+      Title="Locate State Tax Bulletin Information Procedure"
+      Link="/Content/13 Tax/13-03 State Tax Bulletins/Locate State Tax Bulletin Information Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="13-04 Tax Exemptions">
+    <TocEntry
+      Title="Create New Tax Record Card Procedure"
+      Link="/Content/13 Tax/13-04 Tax Exemptions/Create New Tax Record Card Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Exempt Sale  Procedure"
+      Link="/Content/13 Tax/13-04 Tax Exemptions/Exempt Sale Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Invalid Tax Record Card Procedure"
+      Link="/Content/13 Tax/13-04 Tax Exemptions/Invalid Tax Record Card Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Purchase Order Use Tax Exemption Policy"
+      Link="/Content/13 Tax/13-04 Tax Exemptions/Purchase Order Use Tax Exemption Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Tax Exempt Sales Policy"
+      Link="/Content/13 Tax/13-04 Tax Exemptions/Tax Exempt Sales Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Tax Exemption Certificate Policy"
+      Link="/Content/13 Tax/13-04 Tax Exemptions/Tax Exemption Certificate Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Tax Exemptions Overview"
+      Link="/Content/13 Tax/13-04 Tax Exemptions/Tax Exemptions Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Tax Record Card System Overview"
+      Link="/Content/13 Tax/13-04 Tax Exemptions/Tax Record Card System Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Tax Record Card System Policy"
+      Link="/Content/13 Tax/13-04 Tax Exemptions/Tax Record Card System Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Tax Short Pay Overview"
+      Link="/Content/13 Tax/13-04 Tax Exemptions/Tax Short Pay Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="13-05 Tax in Canada">
+    <TocEntry
+      Title="Canada - Harmonized Tax Overview"
+      Link="/Content/13 Tax/13-05 Tax in Canada/Canada - Harmonized Tax Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="13-06 Tax Exceptions">
+    <TocEntry
+      Title="Apply Tax Exception Procedure"
+      Link="/Content/13 Tax/13-06 Tax Exceptions/Apply Tax Exception Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Non-Standard Tax Overview"
+      Link="/Content/13 Tax/13-06 Tax Exceptions/Non-Standard Tax Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Tax Override Policy"
+      Link="/Content/13 Tax/13-06 Tax Exceptions/Tax Override Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="13-07 Use Tax">
+    <TocEntry
+      Title="Apply Use Tax Procedure"
+      Link="/Content/13 Tax/13-07 Use Tax/Apply Use Tax Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Use Tax Calculation Procedure"
+      Link="/Content/13 Tax/13-07 Use Tax/Use Tax Calculation Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Use Tax Exemptions Overview"
+      Link="/Content/13 Tax/13-07 Use Tax/Use Tax Exemptions Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Use Tax in Neighboring States Procedure"
+      Link="/Content/13 Tax/13-07 Use Tax/Use Tax in Neighboring States Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Use Tax Overview"
+      Link="/Content/13 Tax/13-07 Use Tax/Use Tax Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="13-08 Tax Exempt Sales - Canada">
+    <TocEntry
+      Title="Canada - PST Exemption Policy"
+      Link="/Content/13 Tax/13-08 Tax Exempt Sales - Canada/Canada - PST Exemption Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Canada - Sales &amp; Use Tax Bulletin Overview"
+      Link="/Content/13 Tax/13-08 Tax Exempt Sales - Canada/Canada - Sales &amp; Use Tax Bulletin Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Canada - Tax Exempt Sale Procedure"
+      Link="/Content/13 Tax/13-08 Tax Exempt Sales - Canada/Canada - Tax Exempt Sale Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Canada - Validate PST Vendor License Number Procedure"
+      Link="/Content/13 Tax/13-08 Tax Exempt Sales - Canada/Canada - Validate PST Vendor License Number Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="13-09 Tax Corrections">
+    <TocEntry
+      Title="Assume Store Liability Procedure"
+      Link="/Content/13 Tax/13-09 Tax Corrections/Assume Store Liability Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Collect Tax Correction Procedure"
+      Link="/Content/13 Tax/13-09 Tax Corrections/Collect Tax Correction Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Refund Tax Correction Procedure"
+      Link="/Content/13 Tax/13-09 Tax Corrections/Refund Tax Correction Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Tax Corrections Policy"
+      Link="/Content/13 Tax/13-09 Tax Corrections/Tax Corrections Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

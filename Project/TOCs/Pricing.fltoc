@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/21 Pricing/Pricing.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="21-01 Pricing Overview">
+    <TocEntry
+      Title="National Account Discount Policy"
+      Link="/Content/21 Pricing/21-01 Pricing Overview/National Account Discount Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Price Adjustment Policy"
+      Link="/Content/21 Pricing/21-01 Pricing Overview/Price Adjustment Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Price Quote &amp; Price Quote Approval Policy"
+      Link="/Content/21 Pricing/21-01 Pricing Overview/Price Quote &amp; Price Quote Approval Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Price Quote Procedure"
+      Link="/Content/21 Pricing/21-01 Pricing Overview/Price Quote Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Price Quotes  Policy"
+      Link="/Content/21 Pricing/21-01 Pricing Overview/Price Quotes Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Pricing Logic Overview"
+      Link="/Content/21 Pricing/21-01 Pricing Overview/Pricing Logic Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Pricing Logic Policy"
+      Link="/Content/21 Pricing/21-01 Pricing Overview/Pricing Logic Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Quotes &amp; Contracts Policy"
+      Link="/Content/21 Pricing/21-01 Pricing Overview/Quotes &amp; Contracts Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Wholesale Account Database Policy"
+      Link="/Content/02 Advertising &amp; Visual Merchandising/02-02 Visual Merchandising/Wholesale Account Database Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="21-02 Price Record Card (PRC) Maintenance">
+    <TocEntry
+      Title="Access PRC Maintenance  Procedure"
+      Link="/Content/21 Pricing/21-02 Price Record Card (PRC) Maintenance/Access PRC Maintenance Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Add PRC  Procedure"
+      Link="/Content/21 Pricing/21-02 Price Record Card (PRC) Maintenance/Add PRC Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Brand Pricing Overview"
+      Link="/Content/21 Pricing/21-02 Price Record Card (PRC) Maintenance/Brand Pricing Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Copy PRC Policy"
+      Link="/Content/21 Pricing/21-02 Price Record Card (PRC) Maintenance/Copy PRC Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="National Account Pricing Overview"
+      Link="/Content/21 Pricing/21-02 Price Record Card (PRC) Maintenance/National Account Pricing Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="National Account Pricing Policy"
+      Link="/Content/21 Pricing/21-02 Price Record Card (PRC) Maintenance/National Account Pricing Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="PRC Customer Lookup &amp; Maintenance Procedure"
+      Link="/Content/21 Pricing/21-02 Price Record Card (PRC) Maintenance/PRC Customer Lookup &amp; Maintenance Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="PRC Maintenance Policy"
+      Link="/Content/21 Pricing/21-02 Price Record Card (PRC) Maintenance/PRC Maintenance Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Price Record Card (PRC) Maintenance Overview"
+      Link="/Content/21 Pricing/21-02 Price Record Card (PRC) Maintenance/Price Record Card (PRC) Maintenance Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Price Schedule Overview"
+      Link="/Content/21 Pricing/21-02 Price Record Card (PRC) Maintenance/Price Schedule Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="21-02A Dollar Value Exception (DVE) Maintenance">
+    <TocEntry
+      Title="Dollar Value Exception (DVE) Overview"
+      Link="/Content/21 Pricing/21-02A Dollar Value Exception (DVE) Maintenance/Dollar Value Exception (DVE) Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Dollar Value Exception Policy"
+      Link="/Content/21 Pricing/21-02A Dollar Value Exception (DVE) Maintenance/Dollar Value Exception Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="DVE Add for PRC 1 &amp; PRC 2 or Higher Procedure"
+      Link="/Content/21 Pricing/21-02A Dollar Value Exception (DVE) Maintenance/DVE Add for PRC 1 &amp; PRC 2 or Higher Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Edit or Delete DVE Procedure"
+      Link="/Content/21 Pricing/21-02A Dollar Value Exception (DVE) Maintenance/Edit or Delete DVE Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="21-02B DX Big Box Take Aim">
+    <TocEntry
+      Title="Big Box Policy"
+      Link="/Content/21 Pricing/21-02B DX Big Box Take Aim/Big Box Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="DX Big Box Take Aim Maintenance Procedure"
+      Link="/Content/21 Pricing/21-02B DX Big Box Take Aim/DX Big Box Take Aim Maintenance Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Take Aim Overview"
+      Link="/Content/21 Pricing/21-02B DX Big Box Take Aim/Take Aim Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="21-02C Projected Sales Maintenance">
+    <TocEntry
+      Title="Project Sales &amp; Volume Tag Maintenance Procedure"
+      Link="/Content/21 Pricing/21-02C Projected Sales Maintenance/Project Sales &amp; Volume Tag Maintenance Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Volume Tags Overview"
+      Link="/Content/21 Pricing/21-02C Projected Sales Maintenance/Volume Tags Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Volume Tags Policy"
+      Link="/Content/21 Pricing/21-02C Projected Sales Maintenance/Volume Tags Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="21-02D Customer Account Classification (CAC) Maintenance">
+    <TocEntry
+      Title="CAC Maintenance Procedure"
+      Link="/Content/21 Pricing/21-02D Customer Account Classification (CAC) Maintenance/CAC Maintenance Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Customer Account Classification (CAC) Codes Overview"
+      Link="/Content/21 Pricing/21-02D Customer Account Classification (CAC) Maintenance/Customer Account Classification (CAC) Codes Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="View CAC Code on Customer Account Procedure"
+      Link="/Content/21 Pricing/21-02D Customer Account Classification (CAC) Maintenance/View CAC Code on Customer Account Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="View or Print CAC Code Listing Procedure"
+      Link="/Content/21 Pricing/21-02D Customer Account Classification (CAC) Maintenance/View or Print CAC Code Listing Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="21-03 DM Approval System">
+    <TocEntry
+      Title="Pricing Approval Overview"
+      Link="/Content/21 Pricing/21-03 DM Approval System/Pricing Approval Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Pricing Approval Procedure"
+      Link="/Content/21 Pricing/21-03 DM Approval System/Pricing Approval Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="21-04 PRC Name Cleanup">
+    <TocEntry
+      Title="CPR &amp; PRC Cleanup Disabled Time Frames Overview"
+      Link="/Content/21 Pricing/21-04 PRC Name Cleanup/CPR &amp; PRC Cleanup Disabled Time Frames Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Job &amp; PRC Naming Guidelines Overview"
+      Link="/Content/21 Pricing/21-04 PRC Name Cleanup/Job &amp; PRC Naming Guidelines Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="PRC Name Cleanup Help"
+      Link="/Content/21 Pricing/21-04 PRC Name Cleanup/PRC Name Cleanup Help.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="PRC Name Cleanup Overview"
+      Link="/Content/21 Pricing/21-04 PRC Name Cleanup/PRC Name Cleanup Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="PRC Name Cleanup Procedure"
+      Link="/Content/21 Pricing/21-04 PRC Name Cleanup/PRC Name Cleanup Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="21-05 Mobile Pricing App">
+    <TocEntry
+      Title="Mobile Pricing App Overview"
+      Link="/Content/21 Pricing/21-05 Mobile Pricing App/Mobile Pricing App Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Mobile Pricing App Policy"
+      Link="/Content/21 Pricing/21-05 Mobile Pricing App/Mobile Pricing App Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Mobile Pricing App Procedure"
+      Link="/Content/21 Pricing/21-05 Mobile Pricing App/Mobile Pricing App Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="21-06 Pricing Remedies &amp; Adjustments">
+    <TocEntry
+      Title="Automotive Shelf Label Remedy Procedure"
+      Link="/Content/21 Pricing/21-06 Pricing Remedies &amp; Adjustments/Automotive Shelf Label Remedy Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Pricing Accommodation Policy"
+      Link="/Content/21 Pricing/21-06 Pricing Remedies &amp; Adjustments/Pricing Accommodation Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Pricing Remedies Overview"
+      Link="/Content/21 Pricing/21-06 Pricing Remedies &amp; Adjustments/Pricing Remedies Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Pricing Remedies Policy"
+      Link="/Content/21 Pricing/21-06 Pricing Remedies &amp; Adjustments/Pricing Remedies Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Pricing Remedies Procedure"
+      Link="/Content/21 Pricing/21-06 Pricing Remedies &amp; Adjustments/Pricing Remedies Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Ready to Go (RTG) &amp; Overstock Remedy Policy"
+      Link="/Content/21 Pricing/21-06 Pricing Remedies &amp; Adjustments/Ready to Go (RTG) &amp; Overstock Remedy Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Ready to Go (RTG) &amp; Overstock Remedy Procedure"
+      Link="/Content/21 Pricing/21-06 Pricing Remedies &amp; Adjustments/Ready to Go (RTG) &amp; Overstock Remedy Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Review Pricing Accommodation Procedure"
+      Link="/Content/21 Pricing/21-06 Pricing Remedies &amp; Adjustments/Review Pricing Accommodation Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Shelf Label Remedy Policy"
+      Link="/Content/21 Pricing/21-06 Pricing Remedies &amp; Adjustments/Shelf Label Remedy Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Substitution Remedy Policy"
+      Link="/Content/21 Pricing/21-06 Pricing Remedies &amp; Adjustments/Substitution Remedy Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="TAG Shelf Label Remedy Procedure"
+      Link="/Content/21 Pricing/21-06 Pricing Remedies &amp; Adjustments/TAG Shelf Label Remedy Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Visiting Customer Remedy Policy"
+      Link="/Content/21 Pricing/21-06 Pricing Remedies &amp; Adjustments/Visiting Customer Remedy Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="21-07 Gross Profit">
+    <TocEntry
+      Title="Gross Profit Overview"
+      Link="/Content/21 Pricing/21-07 Gross Profit/Gross Profit Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Gross Profit Policy"
+      Link="/Content/21 Pricing/21-07 Gross Profit/Gross Profit Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="21-08 Government Bids">
+    <TocEntry
+      Title="Government Bids Policy"
+      Link="/Content/21 Pricing/21-08 Government Bids/Government Bids Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Government Bids Procedure"
+      Link="/Content/21 Pricing/21-08 Government Bids/Government Bids Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

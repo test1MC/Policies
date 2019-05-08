@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPagePOSTransactions.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>Return Transaction Procedure</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th><strong>Step</strong>
+                    </th>
+                    <th><strong>Action</strong>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>
+                        <table style="width: 100%;">
+                            <col style="width: 50%;" />
+                            <col style="width: 50%;" />
+                            <thead>
+                                <tr>
+                                    <th>If</th>
+                                    <th>Then</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Special Order Merchandise</td>
+                                    <td>
+                                        <p>Obtain DM&#160;approval for:</p>
+                                        <ul>
+                                            <li>Customized merchandise, such as tinted paint, made-to-measure draperies, and specially cut carpeting</li>
+                                            <li>Returns exceeding $500</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Regular Merchandise</td>
+                                    <td>Proceed to <b>Step 2</b>.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>2</p>
+                    </td>
+                    <td>
+                        <p>From <b>POS desktop</b>, select <b>Store</b>. </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>3</p>
+                    </td>
+                    <td>
+                        <p>Select <b>Point of Sale</b> -&gt; Enter  <b>Employee Number</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>4</p>
+                    </td>
+                    <td>
+                        <p>Select <b>Return</b> from the <b>Sale/Payment Menu</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>5</p>
+                    </td>
+                    <td>
+                        <p>Choose a <b>Return Reason Code</b> from the available listing. </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>6</p>
+                    </td>
+                    <td>
+                        <p>Scan the barcode at the bottom of the customer’s receipt to begin a <b>Return Transaction</b> (or, when prompted, manually enter the original terminal, transaction, and date). Press <b>ENTER</b>. The original transaction information will automatically fill on the screen. </p>
+                        <p>Note: If the customer does not have a receipt and you have management approval for the return, press <b>ACCEPT [F1]</b> four times when prompted for the terminal, transaction, and date, leaving all fields blank.  Both the store employee and the customer must sign the receipt.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>7</p>
+                    </td>
+                    <td>
+                        <p>Enter customer information if not previously recorded on the <b>Customer Order</b> or <b>Sale</b> -&gt; Capture the customer’s name, address, and phone number in the <b>BillTo area</b>.</p>
+                        <p>Note: If you are located in a state with restrictions on the refund of sales tax and the customer is outside of the window of time in which tax will be refunded, press <b>SHIFT + TAX [F11]</b> to note a tax exception on the transaction.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>8</p>
+                    </td>
+                    <td>
+                        <p>The original purchased merchandise will return in the <b>Item Detail Screen</b>. Highlight the returned item and press <b>ENTER</b> to bring the item into the transaction.</p>
+                        <p>Note: Enter the quantity, as the system will not assume the full quantity is being returned.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>9</p>
+                    </td>
+                    <td>
+                        <p>After entering the quantity, the original price—including any discounts—will return the screen. Product and pricing information will only display if the original purchase and return are processed at the same location and only if the original sale information is entered (terminal number, transaction number, and sale date). </p>
+                        <p>Note: If additional items still need to be returned, then press <b>LOOKUP [F3]</b> to view the merchandise available. If the merchandise was a <b>special order item</b>, such as wallpaper, charge the customer for the return or handling fee.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>10</p>
+                    </td>
+                    <td>
+                        <p>Specify the <b>Tax Type</b> of the original purchase.</p>
+                        <p>Note: If you are located in a state with restrictions on the refund of sales tax and the customer is outside of the window of time in which tax will be refunded, select <b>No Tax</b> to ensure that tax amounts are not refunded to the customer.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>11</p>
+                    </td>
+                    <td>
+                        <p>Verify the form of refund, which should be the same method of payment as the original sale. </p>
+                        <table style="width: 100%;">
+                            <col />
+                            <col />
+                            <thead>
+                                <tr>
+                                    <th>If</th>
+                                    <th>Then</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <ul>
+                                            <li>Cash</li>
+                                            <li>Credit card</li>
+                                            <li>Gift card</li>
+                                        </ul>
+                                    </td>
+                                    <td>Select the appropriate <b>Form of Refund</b> and continue to <b>Step 13</b>.</td>
+                                </tr>
+                                <tr>
+                                    <td>Card on File / Customer <b>not</b> Present</td>
+                                    <td>Continue to <b>Step 11</b>.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p>Note: If the original method of payment was cash and the return is over $100, use either a <b>Store Draft</b> or follow the <a href="Miscellaneous Return Procedure.htm#no_drafts">No Drafts – Cash Refund Over $100 Procedure</a> <b>(Duron, MAB Paints, Columbia Paint and General Paint)</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>12</td>
+                    <td>
+                        <p>On the PAX payment terminal, enter the credit card number (per the customer on the phone or via the third party authorization or retain and use forms).
+
+</p>
+                        <p><i>Note:</i> Manual entry on the PAX will be disabled until <b>Card on File</b> is selected. Canadian stores will then need to select <b>Credit</b> or <b>Debit</b>.For phone transactions, do not write down the credit card number. 
+</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>13</td>
+                    <td>
+                        <table style="width: 100%;">
+                            <col />
+                            <col />
+                            <thead>
+                                <tr>
+                                    <th>If</th>
+                                    <th>Then</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Phone</td>
+                                    <td>Ask for and enter <b>zip</b> and <b>CVV</b> (do not write down or retain either)</td>
+                                </tr>
+                                <tr>
+                                    <td>Other</td>
+                                    <td>Use the green button to bypass the <b>zip</b> and <b>CVV</b> field.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <ul>
+                            <li>Press <b>Cancel</b> or the <b>X</b> button on the <b>PAX terminal</b> on the <b>Signature Screen</b>.</li>
+                            <li>Select the appropriate <b>Override</b> option on the POS.</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>14</p>
+                    </td>
+                    <td>
+                        <p>Draw a line through the entry on the sales invoice. Enter the return date and initial the returned item on the customer’s receipt. </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Revision Details</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="revision-details">
+                    <table class="revision">
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Revision Type</th>
+                                <th>Description</th>
+                                <th>Requester - admin only</th>
+                                <th>initial - admin only</th>
+                                <th>misc - admin only</th>
+                                <th>include in year end - admin only</th>
+                                <th>Doc Title, hidden</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="revdate">11/18</td>
+                                <td class="revtype">Revised</td>
+                                <td class="revdescrip">Updated procedure to include Card on File / Customer not Present procedure.</td>
+                                <td class="revrequester">&#160;</td>
+                                <td class="revinitial">MC</td>
+                                <td class="revmisc">&#160;</td>
+                                <td class="revyear-end">&#160;</td>
+                                <td class="revdoc-title"><MadCap:variable name="System.Title" />
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

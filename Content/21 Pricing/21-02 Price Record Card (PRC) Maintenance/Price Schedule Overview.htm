@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPagePricing.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>Price Schedule Overview</h1>
+        <p>Competitive pricing is driven by <b>Market Segments</b>, which are automatically tied to pricing based on an account’s <b>CAC code (Market Segment)</b> and the store location. Targeted segments include <b>Residential Repaint</b>, <b>New Residential</b>, <b>Commercial</b>, and <b>Property Management</b>. Pricing returns according to the following flow:</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p>If</p>
+                    </th>
+                    <th>
+                        <p>Then</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="font-weight: bold;">
+                        <p>PRC SKU Level Exception</p>
+                    </td>
+                    <td>
+                        <p><b>Pricing Returns SKU Level Exception</b>
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-weight: bold;">
+                        <p>No PRC SKU Level Exception</p>
+                    </td>
+                    <td>
+                        <p>System searches for <b>PRC Category Size Exception</b></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-weight: bold;">
+                        <p>No PRC Category Size Exception</p>
+                    </td>
+                    <td>
+                        <p>System searches for <b>SKU</b> on the main card (01)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>No <b>SKU</b> on main card (01)</p>
+                    </td>
+                    <td>
+                        <p>System searches for <b>Category Size</b> on the main card (01)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>No <b>Category Size</b> on main card (01)</p>
+                    </td>
+                    <td>
+                        <p>System searches for <b>Rules</b></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>There are no <b>DVEs</b></p>
+                    </td>
+                    <td>
+                        <p>The system searches for schedules based on the <b>account volume tag</b>, <b>CAC</b>, and store. Schedule pricing returns in the following order:</p>
+                        <ul>
+                            <li style="font-weight: bold;">Local Market Segment and Big Box</li>
+                            <li style="font-weight: bold;">Division Market Segment</li>
+                            <li style="font-weight: bold;">National Schedule</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Two schedules are at the same level</p>
+                    </td>
+                    <td>
+                        <p>The system retrieves the lower of the two schedules</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>Note: <MadCap:xref href="../21-02B DX Big Box Take Aim/Big Box Policy.htm">Big Box Policy</MadCap:xref> are designed for the smaller contractor who frequents home centers.</p>
+    </body>
+</html>

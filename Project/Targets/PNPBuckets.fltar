@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="all"
+  DefaultUrl="/Content/HomePage.htm"
+  MasterStylesheetOverride="false"
+  GetLatestBeforeCompile="false"
+  DisableAutoSync="true"
+  Skin="(none)"
+  MasterPage="/Content/Resources/MasterPages/NewPage.flmsp"
+  ConditionTagExpression="include[General.PNPBuckets] exclude[General.PolicyNProcedure] "
+  MasterStylesheet="/Content/Resources/Stylesheets/test.css"
+  ExcludeUnreferencedContent="true"
+  PartialWordSearch="false"
+  PreCompileScaledImages="false"
+  IncludeCSHRuntime="false"
+  OutputFolder="C:\output">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+</CatapultTarget>

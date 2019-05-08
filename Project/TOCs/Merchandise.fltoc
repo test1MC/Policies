@@ -1,0 +1,1513 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/07 Merchandise/Merchandise.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="07-01A Merchandise Management">
+    <TocEntry
+      Title="Adjust MMS Security Levels Procedure"
+      Link="/Content/07 Merchandise/07-01A Merchandise Management/Adjust MMS Security Levels Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="APO Codes Procedure"
+      Link="/Content/07 Merchandise/07-01A Merchandise Management/APO Codes Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Change MMS Password Procedure"
+      Link="/Content/07 Merchandise/07-01A Merchandise Management/Change MMS Password Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Merchandise Management System Overview"
+      Link="/Content/07 Merchandise/07-01A Merchandise Management/Merchandise Management System Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="MMS Security Levels Policy"
+      Link="/Content/07 Merchandise/07-01A Merchandise Management/MMS Security Levels Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Purchase Order Number Overview"
+      Link="/Content/07 Merchandise/07-01A Merchandise Management/Purchase Order Number Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Purchase Order Policy"
+      Link="/Content/07 Merchandise/07-01A Merchandise Management/Purchase Order Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Vendor Direct Deposits Policy"
+      Link="/Content/07 Merchandise/07-01A Merchandise Management/Vendor Direct Deposits Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-01B External Purchase Order">
+    <TocEntry
+      Title="Add &amp; Maintain SWeep Products Procedure"
+      Link="/Content/07 Merchandise/07-01B External Purchase Order/Add &amp; Maintain SWeep Products Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Company Logo Usage Policy"
+      Link="/Content/07 Merchandise/07-01B External Purchase Order/Company Logo Usage Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="External Merchandise Vendor Lookup Procedure"
+      Link="/Content/07 Merchandise/07-01B External Purchase Order/External Merchandise Vendor Lookup Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="External Product Identification Overview"
+      Link="/Content/07 Merchandise/07-01B External Purchase Order/External Product Identification Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="External Purchase Order Options Procedure"
+      Link="/Content/07 Merchandise/07-01B External Purchase Order/External Purchase Order Options Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="External Purchase Order Policy"
+      Link="/Content/07 Merchandise/07-01B External Purchase Order/External Purchase Order Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="External Purchase Order Procedure"
+      Link="/Content/07 Merchandise/07-01B External Purchase Order/External Purchase Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="External Purchase Order Shipping Information Overview"
+      Link="/Content/07 Merchandise/07-01B External Purchase Order/External Purchase Order Shipping Information Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="External Purchase Orders Overview"
+      Link="/Content/07 Merchandise/07-01B External Purchase Order/External Purchase Orders Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Product Not Available Internally Error Message Procedure"
+      Link="/Content/07 Merchandise/07-01B External Purchase Order/Product Not Available Internally Error Message Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Universal Product Code (UPC) Overview"
+      Link="/Content/07 Merchandise/07-01B External Purchase Order/Universal Product Code (UPC) Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="View Category Codes Procedure"
+      Link="/Content/07 Merchandise/07-01B External Purchase Order/View Category Codes Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-01B2 Aerosol Vendor - Can Fill">
+    <TocEntry
+      Title="Aerosol Can Fill POS Transactions Procedure"
+      Link="/Content/07 Merchandise/07-01B2 Aerosol Vendor - Can Fill/Aerosol Can Fill POS Transactions Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Aerosol Vendor Can Fill Request Procedure"
+      Link="/Content/07 Merchandise/07-01B2 Aerosol Vendor - Can Fill/Aerosol Vendor Can Fill Request Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-01C Vendor Product Cost">
+    <TocEntry
+      Title="Calculate Landed Unit Cost Procedure"
+      Link="/Content/07 Merchandise/07-01C Vendor Product Cost/Calculate Landed Unit Cost Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Product File Cost Overview"
+      Link="/Content/07 Merchandise/07-01C Vendor Product Cost/Product File Cost Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Purchase Order Cost Overview"
+      Link="/Content/07 Merchandise/07-01C Vendor Product Cost/Purchase Order Cost Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Weighted Average Cost Overview"
+      Link="/Content/07 Merchandise/07-01C Vendor Product Cost/Weighted Average Cost Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-01C2 Window Treatment">
+    <TocEntry
+      Title="Sell Window Treatment Procedure"
+      Link="/Content/07 Merchandise/07-01C2 Window Treatment/Sell Window Treatment Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="View Window Treatment Class Numbers Procedure"
+      Link="/Content/07 Merchandise/07-01C2 Window Treatment/View Window Treatment Class Numbers Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Window Treatment Contract Quotes Procedure"
+      Link="/Content/07 Merchandise/07-01C2 Window Treatment/Window Treatment Contract Quotes Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Window Treatment Ordering &amp; Selling Policy"
+      Link="/Content/07 Merchandise/07-01C2 Window Treatment/Window Treatment Ordering &amp; Selling Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Window Treatment Purchase Order Procedure"
+      Link="/Content/07 Merchandise/07-01C2 Window Treatment/Window Treatment Purchase Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Window Treatment Repair Procedure"
+      Link="/Content/07 Merchandise/07-01C2 Window Treatment/Window Treatment Repair Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-01D1 Powder Coatings Info">
+    <TocEntry
+      Title="Powder Coating Customer Color Purchase Order Procedure"
+      Link="/Content/07 Merchandise/07-01D1 Powder Coatings Info/Powder Coating Customer Color Purchase Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Powder Coating Stock Color Purchase Order Procedure"
+      Link="/Content/07 Merchandise/07-01D1 Powder Coatings Info/Powder Coating Stock Color Purchase Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-01D2 Electronic Data Interchange (EDI) Purchase Order">
+    <TocEntry
+      Title="Cancel an EDI PO Procedure"
+      Link="/Content/07 Merchandise/07-01D2 Electronic Data Interchange (EDI) Purchase Order/Cancel EDI PO Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="EDI B Prefix Purchase Order Overview"
+      Link="/Content/07 Merchandise/07-01D2 Electronic Data Interchange (EDI) Purchase Order/EDI B Prefix Purchase Order Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="EDI B Prefix Purchase Order Procedure"
+      Link="/Content/07 Merchandise/07-01D2 Electronic Data Interchange (EDI) Purchase Order/EDI B Prefix Purchase Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="EDI PO Canceled by the Vendor Procedure"
+      Link="/Content/07 Merchandise/07-01D2 Electronic Data Interchange (EDI) Purchase Order/EDI PO Canceled by the Vendor Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="EDI PO Shipping Methods Overview"
+      Link="/Content/07 Merchandise/07-01D2 Electronic Data Interchange (EDI) Purchase Order/EDI PO Shipping Methods Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="EDI Purchase Order Acknowledgement Overview"
+      Link="/Content/07 Merchandise/07-01D2 Electronic Data Interchange (EDI) Purchase Order/EDI Purchase Order Acknowledgement Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="EDI Purchase Order Overview"
+      Link="/Content/07 Merchandise/07-01D2 Electronic Data Interchange (EDI) Purchase Order/EDI Purchase Order Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="EDI Purchase Order Procedure"
+      Link="/Content/07 Merchandise/07-01D2 Electronic Data Interchange (EDI) Purchase Order/EDI Purchase Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="View EDI Transmission Log Procedure"
+      Link="/Content/07 Merchandise/07-01D2 Electronic Data Interchange (EDI) Purchase Order/View EDI Transmission Log Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-01D3 Internal Purchase Orders">
+    <TocEntry
+      Title="Cancel Internal Purchase Order Procedure"
+      Link="/Content/07 Merchandise/07-01D3 Internal Purchase Orders/Cancel Internal Purchase Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="EDI Downtime Overview"
+      Link="/Content/07 Merchandise/07-01D3 Internal Purchase Orders/EDI Downtime Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Internal Purchase Order Inquiries Overview"
+      Link="/Content/07 Merchandise/07-01D3 Internal Purchase Orders/Internal Purchase Order Inquiries Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Internal Purchase Order Timing Overview"
+      Link="/Content/07 Merchandise/07-01D3 Internal Purchase Orders/Internal Purchase Order Timing Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Internal Purchase Orders Overview"
+      Link="/Content/07 Merchandise/07-01D3 Internal Purchase Orders/Internal Purchase Orders Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Process EDI Downtime Order Procedure"
+      Link="/Content/07 Merchandise/07-01D3 Internal Purchase Orders/Process EDI Downtime Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="SOURCE Downtime Procedure"
+      Link="/Content/07 Merchandise/07-01D3 Internal Purchase Orders/SOURCE Downtime Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Special Instructions for Purchase Order Overview"
+      Link="/Content/07 Merchandise/07-01D3 Internal Purchase Orders/Special Instructions for Purchase Order Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-01D4 Internal Purchase Order Types">
+    <TocEntry
+      Title="Automotive Branch Emergency Order Policy"
+      Link="/Content/07 Merchandise/07-01D4 Internal Purchase Order Types/Automotive Branch Emergency Order Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Automotive Branch Will Call Purchase Order Policy"
+      Link="/Content/07 Merchandise/07-01D4 Internal Purchase Order Types/Automotive Branch Will Call Purchase Order Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Automotive Emergency Purchase Orders Procedure"
+      Link="/Content/07 Merchandise/07-01D4 Internal Purchase Order Types/Automotive Emergency Purchase Orders Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Call-For-Order Overview"
+      Link="/Content/07 Merchandise/07-01D4 Internal Purchase Order Types/Call-For-Order Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Customer Direct Purchase Orders Procedure"
+      Link="/Content/07 Merchandise/07-01D4 Internal Purchase Order Types/Customer Direct Purchase Orders Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Customer Direct STAR Purchase Order Policy"
+      Link="/Content/07 Merchandise/07-01D4 Internal Purchase Order Types/Customer Direct STAR Purchase Order Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Emergency Order Policy"
+      Link="/Content/07 Merchandise/07-01D4 Internal Purchase Order Types/Emergency Order Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Emergency Purchase Order Overview"
+      Link="/Content/07 Merchandise/07-01D4 Internal Purchase Order Types/Emergency Purchase Order Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Emergency Purchase Orders Procedure"
+      Link="/Content/07 Merchandise/07-01D4 Internal Purchase Order Types/Emergency Purchase Orders Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Fulfill ISR Purchase Orders Procedure"
+      Link="/Content/07 Merchandise/07-01D4 Internal Purchase Order Types/Fulfill ISR Purchase Orders Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Inter-Store Request Policy"
+      Link="/Content/07 Merchandise/07-01D4 Internal Purchase Order Types/Inter-Store Request Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Internal Purchase Order Types Overview"
+      Link="/Content/07 Merchandise/07-01D4 Internal Purchase Order Types/Internal Purchase Order Types Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Make-N-Ship Order Policy"
+      Link="/Content/07 Merchandise/07-01D4 Internal Purchase Order Types/Make-N-Ship Order Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Make-N-Ship Order Procedure"
+      Link="/Content/07 Merchandise/07-01D4 Internal Purchase Order Types/Make-N-Ship Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Place ISR Purchase Orders Procedure"
+      Link="/Content/07 Merchandise/07-01D4 Internal Purchase Order Types/Place ISR Purchase Orders Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Purchase Order Address Options Overview"
+      Link="/Content/07 Merchandise/07-01D4 Internal Purchase Order Types/Purchase Order Address Options Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="STAR Order Overview"
+      Link="/Content/07 Merchandise/07-01D4 Internal Purchase Order Types/STAR Order Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="STAR Order Pending &amp; Cancelled Lines Overview"
+      Link="/Content/07 Merchandise/07-01D4 Internal Purchase Order Types/STAR Order Pending &amp; Cancelled Lines Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="STAR Order Policy"
+      Link="/Content/07 Merchandise/07-01D4 Internal Purchase Order Types/STAR Order Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="STAR Order Procedure"
+      Link="/Content/07 Merchandise/07-01D4 Internal Purchase Order Types/STAR Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Suggested STAR Order Overview"
+      Link="/Content/07 Merchandise/07-01D4 Internal Purchase Order Types/Suggested STAR Order Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Will-Call Order Policy"
+      Link="/Content/07 Merchandise/07-01D4 Internal Purchase Order Types/Will-Call Order Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Will-Call Purchase Order Procedure"
+      Link="/Content/07 Merchandise/07-01D4 Internal Purchase Order Types/Will-Call Purchase Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-01D5 Special Order Types">
+    <TocEntry
+      Title="3M Orders Overview"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/3M Orders Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Automotive Special Blend  Order Form   Procedure"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/Automotive Special Blend Order Form Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Automotive Special Blend Order Overview"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/Automotive Special Blend Order Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="CC Blend ISR Purchase Order Procedure"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/CC Blend ISR Purchase Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Chemical Coatings (CC) Auxiliary Warehouse Order Procedure"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/Chemical Coatings (CC) Auxiliary Warehouse Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Department of Transportation (DOT) Orders Policy"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/Department of Transportation (DOT) Orders Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Diversified Brand Orders Overview"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/Diversified Brand Orders Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Duron Paint Special Orders Procedure"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/Duron Paint Special Orders Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Duron Paint Special Overview"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/Duron Paint Special Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Duron Spray Equipment Transfer Procedure"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/Duron Spray Equipment Transfer Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Eastern Division STAR Order Policy"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/Eastern Division STAR Order Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Eastern Division STAR Order Procedure"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/Eastern Division STAR Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="General Polymers Orders Overview"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/General Polymers Orders Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="In-Stock Wallcovering Purchase Order Procedure"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/In-Stock Wallcovering Purchase Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="KST Orders Overview"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/KST Orders Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="KST Orders Policy"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/KST Orders Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Marine Orders Policy"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/Marine Orders Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="No Charge Orders Overview"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/No Charge Orders Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Old-Age Orders Policy"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/Old-Age Orders Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Out-of-Territory Order Policy"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/Out-of-Territory Order Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Overstock Inventory Order Overview"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/Overstock Inventory Order Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Pavement Marking &amp;Traffic Paint Orders Policy"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/Pavement Marking &amp; Traffic Paint Orders Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Place a Special Blend Order Procedure"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/Place a Special Blend Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Powder Orders Overview"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/Powder Orders Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Release Special Order Policy"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/Release Special Order Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Special Orders Policy"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/Special Orders Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Speed Orders Overview"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/Speed Orders Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Traffic Paint Orders Overview"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/Traffic Paint Orders Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Truckload Special Orders Overview"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/Truckload Special Orders Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Wooster Orders Overview"
+      Link="/Content/07 Merchandise/07-01D5 Special Order Types/Wooster Orders Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-01D6 My Paint Connection">
+    <TocEntry
+      Title="My Paint Connection Overview"
+      Link="/Content/07 Merchandise/07-01D6 My Paint Connection/My Paint Connection Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="My Paint Connection Processes Procedure"
+      Link="/Content/07 Merchandise/07-01D6 My Paint Connection/My Paint Connection Processes Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-01D7 J29 &amp; Special Batch Program">
+    <TocEntry
+      Title="J29 &amp; Special Batch Program Overview"
+      Link="/Content/07 Merchandise/07-01D7 J29 &amp; Special Batch Program/J29 &amp; Special Batch Program Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="J29 Policy"
+      Link="/Content/07 Merchandise/07-01D7 J29 &amp; Special Batch Program/J29 Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="J29 Request Procedure"
+      Link="/Content/07 Merchandise/07-01D7 J29 &amp; Special Batch Program/J29 Request Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Order J29 Inventory Procedure"
+      Link="/Content/07 Merchandise/07-01D7 J29 &amp; Special Batch Program/Order J29 Inventory Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Rapid Fire J29 Overview"
+      Link="/Content/07 Merchandise/07-01D7 J29 &amp; Special Batch Program/Rapid Fire J29 Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Rapid Fire New Requests Procedure"
+      Link="/Content/07 Merchandise/07-01D7 J29 &amp; Special Batch Program/Rapid Fire New Requests Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-01D8 Consignment Agreement">
+    <TocEntry
+      Title="Consignment Agreement Overview"
+      Link="/Content/07 Merchandise/07-01D8 Consignment Agreement/Consignment Agreement Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Consignment Inventory Reconcilement Form Procedure"
+      Link="/Content/07 Merchandise/07-01D8 Consignment Agreement/Consignment Inventory Reconcilement Form Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Consignment Merchandise – Automotive and Product Finishes Overview"
+      Link="/Content/07 Merchandise/07-01D8 Consignment Agreement/Consignment Merchandise - Automotive and Product Finishes Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Create a New Consignment Cabinet Procedure"
+      Link="/Content/07 Merchandise/07-01D8 Consignment Agreement/Create a New Consignment Cabinet Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Inventory Controls Overview"
+      Link="/Content/07 Merchandise/07-01D8 Consignment Agreement/Inventory Controls Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Remove a Consignment Cabinet Procedure"
+      Link="/Content/07 Merchandise/07-01D8 Consignment Agreement/Remove a Consignment Cabinet Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Replenish &amp; Invoice Merchandise Overview"
+      Link="/Content/07 Merchandise/07-01D8 Consignment Agreement/Replenish &amp; Invoice Merchandise Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Request for Consignment Agreement Procedure"
+      Link="/Content/07 Merchandise/07-01D8 Consignment Agreement/Request for Consignment Agreement Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-01E Change &amp; Release Purchase Orders">
+    <TocEntry
+      Title="Cancel a Purchase Order Policy"
+      Link="/Content/07 Merchandise/07-01E Change &amp; Release Purchase Orders/Cancel a Purchase Order Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Change or Cancel a Purchase Order Procedure"
+      Link="/Content/07 Merchandise/07-01E Change &amp; Release Purchase Orders/Change or Cancel a Purchase Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Make a Deposit for Purchase Order Procedure"
+      Link="/Content/07 Merchandise/07-01E Change &amp; Release Purchase Orders/Make a Deposit for Purchase Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Print &amp; View a Purchase Order Procedure"
+      Link="/Content/07 Merchandise/07-01E Change &amp; Release Purchase Orders/Print &amp; View a Purchase Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Purchase Order Policy"
+      Link="/Content/07 Merchandise/07-01E Change &amp; Release Purchase Orders/Purchase Order Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-02A Receive Purchase Order">
+    <TocEntry
+      Title="Automotive Branch Freight for Merchandise &amp; Expenses Policy"
+      Link="/Content/07 Merchandise/07-02A Receive Purchase Order/Automotive Branch Freight for Merchandise &amp; Expenses Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Forward Original Freight Invoice Procedure"
+      Link="/Content/07 Merchandise/07-02A Receive Purchase Order/Forward Original Freight Invoice Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Freight for Merchandise &amp; Expenses Procedure"
+      Link="/Content/07 Merchandise/07-02A Receive Purchase Order/Freight for Merchandise &amp; Expenses Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Previously Received Quantity Overview"
+      Link="/Content/07 Merchandise/07-02A Receive Purchase Order/Previously Received Quantity Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Proper Receiving Overview"
+      Link="/Content/07 Merchandise/07-02A Receive Purchase Order/Proper Receiving Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Receive &amp; Verify Procedure"
+      Link="/Content/07 Merchandise/07-02A Receive Purchase Order/Receive &amp; Verify Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Receive &amp; Verify Purchase Order Policy"
+      Link="/Content/07 Merchandise/07-02A Receive Purchase Order/Receive &amp; Verify Purchase Order Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Receive External PO Procedure"
+      Link="/Content/07 Merchandise/07-02A Receive Purchase Order/Receive External PO Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Receive Merchandise Procedure"
+      Link="/Content/07 Merchandise/07-02A Receive Purchase Order/Receive Merchandise Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Receive Unplanned Product on STAR Order Overview"
+      Link="/Content/07 Merchandise/07-02A Receive Purchase Order/Receive Unplanned Product on STAR Order Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-02B Internal - STAR Order Receiving">
+    <TocEntry
+      Title="ASN Information Not in the System Procedure"
+      Link="/Content/07 Merchandise/07-02B Internal - STAR Order Receiving/ASN Information Not in the System Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="CTS Night Deliveries Overview"
+      Link="/Content/07 Merchandise/07-02B Internal - STAR Order Receiving/CTS Night Deliveries Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Downtime STAR Order Receiving Procedure"
+      Link="/Content/07 Merchandise/07-02B Internal - STAR Order Receiving/Downtime STAR Order Receiving Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Picking Errors Policy"
+      Link="/Content/07 Merchandise/07-02B Internal - STAR Order Receiving/Picking Errors Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Process Picking Errors Procedure"
+      Link="/Content/07 Merchandise/07-02B Internal - STAR Order Receiving/Process Picking Errors Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Product &amp; Line Item Receiving Procedure"
+      Link="/Content/07 Merchandise/07-02B Internal - STAR Order Receiving/Product &amp; Line Item Receiving Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Receive STAR Order Overview"
+      Link="/Content/07 Merchandise/07-02B Internal - STAR Order Receiving/Receive STAR Order Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Receive STAR Order Procedure"
+      Link="/Content/07 Merchandise/07-02B Internal - STAR Order Receiving/Receive STAR Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Shipment Variance Report Overview"
+      Link="/Content/07 Merchandise/07-02B Internal - STAR Order Receiving/Shipment Variance Report Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Substitutions (Replacement Products) on STAR Order Overview"
+      Link="/Content/07 Merchandise/07-02B Internal - STAR Order Receiving/Substitutions (Replacement Products) on STAR Order Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Variance Warning Message Overview"
+      Link="/Content/07 Merchandise/07-02B Internal - STAR Order Receiving/Variance Warning Message Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-02B2 System IBARs">
+    <TocEntry
+      Title="Access MMS IBAR Procedure"
+      Link="/Content/07 Merchandise/07-02B2 System IBARs/Access MMS IBAR Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Change &amp; Release a System IBAR Procedure"
+      Link="/Content/07 Merchandise/07-02B2 System IBARs/Change &amp; Release a System IBAR Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Check the Status of MMS IBAR Procedure"
+      Link="/Content/07 Merchandise/07-02B2 System IBARs/Check the Status of MMS IBAR Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="IBAR Store Response Procedure"
+      Link="/Content/07 Merchandise/07-02B2 System IBARs/IBAR Store Response Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="MMS IBAR Overview"
+      Link="/Content/07 Merchandise/07-02B2 System IBARs/MMS IBAR Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="MMS IBAR Policy"
+      Link="/Content/07 Merchandise/07-02B2 System IBARs/MMS IBAR Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="MMS IBAR Reason Codes Overview"
+      Link="/Content/07 Merchandise/07-02B2 System IBARs/MMS IBAR Reason Codes Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Visible Shortage &amp; Damage IBARs Overview"
+      Link="/Content/07 Merchandise/07-02B2 System IBARs/Visible Shortage &amp; Damage IBARs Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-02B3 Store-Generated IBARS">
+    <TocEntry
+      Title="Approved Returns Overview"
+      Link="/Content/07 Merchandise/07-02B3 Store-Generated IBARS/Approved Returns Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Approved Returns Policy"
+      Link="/Content/07 Merchandise/07-02B3 Store-Generated IBARS/Approved Returns Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Approved Returns Procedure"
+      Link="/Content/07 Merchandise/07-02B3 Store-Generated IBARS/Approved Returns Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Automotive - IBARs Policy"
+      Link="/Content/07 Merchandise/07-02B3 Store-Generated IBARS/Automotive - IBARs Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Automotive Approved Return Overview"
+      Link="/Content/07 Merchandise/07-02B3 Store-Generated IBARS/Automotive Approved Return Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Automotive Approved Return Policy"
+      Link="/Content/07 Merchandise/07-02B3 Store-Generated IBARS/Automotive Approved Return Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Concealed IBAR Overview"
+      Link="/Content/07 Merchandise/07-02B3 Store-Generated IBARS/Concealed IBAR Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Concealed IBAR Policy"
+      Link="/Content/07 Merchandise/07-02B3 Store-Generated IBARS/Concealed IBAR Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Create IBAR Procedure"
+      Link="/Content/07 Merchandise/07-02B3 Store-Generated IBARS/Create IBAR Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="DSC &amp; Plant Returns Overview"
+      Link="/Content/07 Merchandise/07-02B3 Store-Generated IBARS/DSC &amp; Plant Returns Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Emergency Return Overview"
+      Link="/Content/07 Merchandise/07-02B3 Store-Generated IBARS/Emergency Return Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Emergency Returns Policy"
+      Link="/Content/07 Merchandise/07-02B3 Store-Generated IBARS/Emergency Returns Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Emergency Returns Procedure"
+      Link="/Content/07 Merchandise/07-02B3 Store-Generated IBARS/Emergency Returns Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="IBAR Corrections Policy"
+      Link="/Content/07 Merchandise/07-02B3 Store-Generated IBARS/IBAR Corrections Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="IBAR Corrections Procedure"
+      Link="/Content/07 Merchandise/07-02B3 Store-Generated IBARS/IBAR Corrections Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="IBAR Goods Transfer Overview"
+      Link="/Content/07 Merchandise/07-02B3 Store-Generated IBARS/IBAR Goods Transfer Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Non-Stores IBAR Transfer Procedure"
+      Link="/Content/07 Merchandise/07-02B3 Store-Generated IBARS/Non-Stores IBAR Transfer Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Process IBARs Procedure"
+      Link="/Content/07 Merchandise/07-02B3 Store-Generated IBARS/Process IBARs Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Process Store Closing Returns Procedure"
+      Link="/Content/12 Store Maintenance/12-02B Store Closings/Store Closing Return Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Product Recall or Stop Sale Procedure"
+      Link="/Content/07 Merchandise/07-02B3 Store-Generated IBARS/Product Recall or Stop Sale Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Return Carrier Policy"
+      Link="/Content/07 Merchandise/07-02B3 Store-Generated IBARS/Return Carrier Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Return Goods Pick-Up Procedure"
+      Link="/Content/07 Merchandise/07-02B3 Store-Generated IBARS/Return Goods Pick Up Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Scrap on Location Procedure"
+      Link="/Content/07 Merchandise/07-02B3 Store-Generated IBARS/Scrap on Location Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Stop Sale &amp; Recall Policy"
+      Link="/Content/07 Merchandise/07-02B3 Store-Generated IBARS/Stop Sale &amp; Recall Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Closing Return Policy"
+      Link="/Content/12 Store Maintenance/12-02B Store Closings/Store Closing Return Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store-Generated IBAR Overview"
+      Link="/Content/07 Merchandise/07-02B3 Store-Generated IBARS/Store-Generated IBAR Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Transfer Products to Non-Stores Outside of Stores Group Policy"
+      Link="/Content/07 Merchandise/07-02B3 Store-Generated IBARS/Transfer Products to Non-Stores Outside of Stores Group Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Transfer Products to Non-Stores Within Stores Group Policy"
+      Link="/Content/07 Merchandise/07-02B3 Store-Generated IBARS/Transfer Products to Non-Stores Within Stores Group Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Transfer Products to Sales Rep Procedure"
+      Link="/Content/07 Merchandise/07-02B3 Store-Generated IBARS/Transfer Products to Sales Rep Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-02B4 Freight Receiving - Automotive">
+    <TocEntry
+      Title="Freight Receiving - Automotive Policy"
+      Link="/Content/07 Merchandise/07-02B4 Freight Receiving - Automotive/Freight Receiving - Automotive Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Record Damaged Freight on the Delivery Receipt Procedure"
+      Link="/Content/07 Merchandise/07-02B4 Freight Receiving - Automotive/Record Damaged Freight on the Delivery Receipt Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-02C Inter-Store Request Receiving">
+    <TocEntry
+      Title="Close a Purchase Order Policy"
+      Link="/Content/07 Merchandise/07-02C Inter-Store Request Receiving/Close a Purchase Order Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Close a Purchase Order Procedure"
+      Link="/Content/07 Merchandise/07-02C Inter-Store Request Receiving/Close a Purchase Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Forced Shipment Overview"
+      Link="/Content/07 Merchandise/07-02C Inter-Store Request Receiving/Forced Shipment Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="ISR Purchase Order Policy"
+      Link="/Content/07 Merchandise/07-02C Inter-Store Request Receiving/ISR Purchase Order Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="ISR Purchase Order Types Overview"
+      Link="/Content/07 Merchandise/07-02C Inter-Store Request Receiving/ISR Purchase Order Types Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="On-Hand or On-Order Quantity Overview"
+      Link="/Content/07 Merchandise/07-02C Inter-Store Request Receiving/On-Hand or On-Order Quantity Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Receive Direct Shipment  Overview"
+      Link="/Content/07 Merchandise/07-02C Inter-Store Request Receiving/Receive Direct Shipment  Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Receive ISR Merchandise &amp; Variances Procedure"
+      Link="/Content/07 Merchandise/07-02C Inter-Store Request Receiving/Receive ISR Merchandise &amp; Variances Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-02D MMS Menu Options">
+    <TocEntry
+      Title="Access Maintenance Function Overview"
+      Link="/Content/07 Merchandise/07-02D MMS Menu Options/Access Maintenance Function Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Add a Memo Demand Procedure"
+      Link="/Content/07 Merchandise/07-02D MMS Menu Options/Add a Memo Demand Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Adjust Price List Procedure"
+      Link="/Content/07 Merchandise/07-02D MMS Menu Options/Adjust Price List Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Adjust the Window Treatment or Book Order Wallcovering Selling Price Procedure"
+      Link="/Content/07 Merchandise/07-02D MMS Menu Options/Adjust the Window Treatment or Book Order Wallcovering Selling Price Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Conversion Adjustment Procedure"
+      Link="/Content/07 Merchandise/07-02D MMS Menu Options/Conversion Adjustment Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Enter Recovery Mode Policy"
+      Link="/Content/07 Merchandise/07-02D MMS Menu Options/Enter Recovery Mode Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="In-Stock Wallcovering Overview"
+      Link="/Content/07 Merchandise/07-02D MMS Menu Options/In-Stock Wallcovering Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Inventory Adjustment Overview"
+      Link="/Content/07 Merchandise/07-02D MMS Menu Options/Inventory Adjustment Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Inventory Adjustment Policy"
+      Link="/Content/07 Merchandise/07-02D MMS Menu Options/Inventory Adjustment Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Inventory Price List Policy"
+      Link="/Content/07 Merchandise/07-02D MMS Menu Options/Inventory Price List Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Make a Perpetual Adjustment Procedure"
+      Link="/Content/07 Merchandise/07-02D MMS Menu Options/Make a Perpetual Adjustment Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Memo Demand Policy"
+      Link="/Content/07 Merchandise/07-02D MMS Menu Options/Memo Demand Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Non-Core In-Stock Wallcovering Overview"
+      Link="/Content/07 Merchandise/07-02D MMS Menu Options/Non-Core In-Stock Wallcovering Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Order &amp; Receive In-Stock WC  Overview"
+      Link="/Content/07 Merchandise/07-02D MMS Menu Options/Order &amp; Receive In-Stock WC Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Price Maintenance – WT &amp; WC Procedure"
+      Link="/Content/07 Merchandise/07-02D MMS Menu Options/Price Maintenance - WT &amp; WC Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Purchase Order Controls Overview"
+      Link="/Content/07 Merchandise/07-02D MMS Menu Options/Purchase Order Controls Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Purchase Order Controls Policy"
+      Link="/Content/07 Merchandise/07-02D MMS Menu Options/Purchase Order Controls Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Purchase Order Controls Procedure"
+      Link="/Content/07 Merchandise/07-02D MMS Menu Options/Purchase Order Controls Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Search Neighboring Stores for Inventory Levels Procedure"
+      Link="/Content/07 Merchandise/07-02D MMS Menu Options/Search Neighboring Stores for Inventory Levels Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Verify In-Stock Order Overview"
+      Link="/Content/07 Merchandise/07-02D MMS Menu Options/Verify In-Stock Order Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Wallcovering Plan-O-Gram &amp; Optional Pattern Overview"
+      Link="/Content/07 Merchandise/07-02D MMS Menu Options/Wallcovering Plan-O-Gram &amp; Optional Pattern Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-02E1 MMS Reports">
+    <TocEntry
+      Title="MMS Report Types Overview"
+      Link="/Content/07 Merchandise/07-02E1 MMS Reports/MMS Report Types Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-02E4 MMS Scorecard">
+    <TocEntry
+      Title="Check Star Order Status Procedure"
+      Link="/Content/07 Merchandise/07-02E4 MMS Scorecard/Check Star Order Status Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Ensure Complete Review of Min &amp; Max Tabs Procedure"
+      Link="/Content/07 Merchandise/07-02E4 MMS Scorecard/Ensure Complete Review of Min &amp; Max Tabs Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="External Purchase Order with No Matching Receipts  Procedure"
+      Link="/Content/07 Merchandise/07-02E4 MMS Scorecard/External Purchase Order with No Matching Receipts Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="MMS Scorecard Overview"
+      Link="/Content/07 Merchandise/07-02E4 MMS Scorecard/MMS Scorecard Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Review Cycle Counts &amp; Inventory Variances Procedure"
+      Link="/Content/07 Merchandise/07-02E4 MMS Scorecard/Review Cycle Counts &amp; Inventory Variances Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Review Manual Purchase Order Entries Procedure"
+      Link="/Content/07 Merchandise/07-02E4 MMS Scorecard/Review Manual Purchase Order Entries Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Sales Numbers for Class-Controlled Products Overview"
+      Link="/Content/07 Merchandise/07-02E4 MMS Scorecard/Sales Numbers for Class-Controlled Products Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="View Negative Inventory Report Procedure"
+      Link="/Content/07 Merchandise/07-02E4 MMS Scorecard/View Negative Inventory Report Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-02E5 Inventory Recording">
+    <TocEntry
+      Title="Downtime MMS Procedure"
+      Link="/Content/07 Merchandise/07-02E5 Inventory Recording/Downtime MMS Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="External Purchase Reconcilement Overview"
+      Link="/Content/07 Merchandise/07-02E5 Inventory Recording/External Purchase Reconcilement Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Invoice Match Overview"
+      Link="/Content/07 Merchandise/07-02E5 Inventory Recording/Invoice Match Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Review IBAR against the SPR Procedure"
+      Link="/Content/07 Merchandise/07-02E5 Inventory Recording/Review IBAR against the SPR Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-02F PDT - Portable Data Terminal">
+    <TocEntry
+      Title="Change Hand-Held Battery Procedure"
+      Link="/Content/07 Merchandise/07-02F PDT - Portable Data Terminal/Change Hand-Held Battery Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Check Shelf Labels for Accuracy Procedure"
+      Link="/Content/07 Merchandise/07-02F PDT - Portable Data Terminal/Check Shelf Labels for Accuracy Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Hand-held Scanner &amp; Cycle Count Overview"
+      Link="/Content/07 Merchandise/07-02F PDT - Portable Data Terminal/Hand-held Scanner &amp; Cycle Count Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Hand-held Scanner Caution Policy"
+      Link="/Content/07 Merchandise/07-02F PDT - Portable Data Terminal/Hand-held Scanner Caution Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Hand-held STAR Purchase Order Procedure"
+      Link="/Content/07 Merchandise/07-02F PDT - Portable Data Terminal/Hand-held STAR Purchase Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Hand-held Troubleshooting Procedure"
+      Link="/Content/07 Merchandise/07-02F PDT - Portable Data Terminal/Hand-held Troubleshooting Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Obsolete Merchandise Procedure"
+      Link="/Content/07 Merchandise/07-02F PDT - Portable Data Terminal/Obsolete Merchandise Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Operate Hand-Held Scanner Procedure"
+      Link="/Content/07 Merchandise/07-02F PDT - Portable Data Terminal/Operate Hand-Held Scanner Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Receive External Products &amp; Purchase Orders - Hand-held Procedure"
+      Link="/Content/07 Merchandise/07-02F PDT - Portable Data Terminal/Receive External Products &amp; Purchase Orders - Hand-held Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Receive ISR Purchase Order on Hand-held Procedure"
+      Link="/Content/07 Merchandise/07-02F PDT - Portable Data Terminal/Receive ISR Purchase Order on Hand-held Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Receive Purchase Orders  on Hand-held Procedure"
+      Link="/Content/07 Merchandise/07-02F PDT - Portable Data Terminal/Receive Purchase Orders on Hand-held Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Receive STAR Purchase Order on Hand-held Procedure"
+      Link="/Content/07 Merchandise/07-02F PDT - Portable Data Terminal/Receive STAR Purchase Order on Hand-held Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Record Inventory on Hand-held Procedure"
+      Link="/Content/07 Merchandise/07-02F PDT - Portable Data Terminal/Record Inventory on Hand-held Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Record Obsolete Merchandise Procedure"
+      Link="/Content/07 Merchandise/07-02F PDT - Portable Data Terminal/Record Obsolete Merchandise Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Turn on Portable Data Terminal Procedure"
+      Link="/Content/07 Merchandise/07-02F PDT - Portable Data Terminal/Turn on Portable Data Terminal Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="WC Book Register Procedure"
+      Link="/Content/07 Merchandise/07-02F PDT - Portable Data Terminal/WC Book Register Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-06A Reclassify Merchandise">
+    <TocEntry
+      Title="Blend  &amp; Intermix Merchandise Overview"
+      Link="/Content/07 Merchandise/07-06A Reclassify Merchandise/Blend  &amp; Intermix Merchandise Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Blend &amp; Intermix Manufactured Merchandise Policy"
+      Link="/Content/07 Merchandise/07-06A Reclassify Merchandise/Blend &amp; Intermix Manufactured Merchandise Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Eliminate Excess  Merchandise Procedure"
+      Link="/Content/07 Merchandise/07-06A Reclassify Merchandise/Eliminate Excess Merchandise Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="IMS Excess Inventory Aging Report Overview"
+      Link="/Content/07 Merchandise/07-06A Reclassify Merchandise/IMS Excess Inventory Aging Report Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="IMS Excess Inventory Aging Report Policy"
+      Link="/Content/07 Merchandise/07-06A Reclassify Merchandise/IMS Excess Inventory Aging Report Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Obsolete &amp; Discontinued Merchandise Overview"
+      Link="/Content/07 Merchandise/07-06A Reclassify Merchandise/Obsolete &amp; Discontinued Merchandise Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Obsolete &amp; Discontinued Merchandise Policy"
+      Link="/Content/07 Merchandise/07-06A Reclassify Merchandise/Obsolete &amp; Discontinued Merchandise Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Order Special Priced DSC GOM – Auto Procedure"
+      Link="/Content/07 Merchandise/07-06A Reclassify Merchandise/Order Special Priced DSC GOM - Auto Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Order Special Priced DSC GOM – Auto Procedure"
+      Link="/Content/07 Merchandise/07-06A Reclassify Merchandise/Order Special Priced DSC GOM Auto Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Permanent Markdown Overview"
+      Link="/Content/07 Merchandise/07-06A Reclassify Merchandise/Permanent Markdown Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Permanent Markdown Policy"
+      Link="/Content/07 Merchandise/07-06A Reclassify Merchandise/Permanent Markdown Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Permanent Markdown Procedure"
+      Link="/Content/07 Merchandise/07-06A Reclassify Merchandise/Permanent Markdown Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Reclassified Merchandise Policy"
+      Link="/Content/07 Merchandise/07-06A Reclassify Merchandise/Reclassified Merchandise Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Reclassified Merchandise Procedure"
+      Link="/Content/07 Merchandise/07-06A Reclassify Merchandise/Reclassified Merchandise Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Reclassify Damaged Merchandise  Procedure"
+      Link="/Content/07 Merchandise/07-06A Reclassify Merchandise/Reclassify Damaged Merchandise Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Reclassify Intermix Products Procedure"
+      Link="/Content/07 Merchandise/07-06A Reclassify Merchandise/Reclassify Intermix Products Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Reclassify Manufactured Merchandise Purchased at Special Price  Procedure"
+      Link="/Content/07 Merchandise/07-06A Reclassify Merchandise/Reclassify Manufactured Merchandise Purchased at Special Price Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Return Purchased Merchandise Procedure"
+      Link="/Content/07 Merchandise/07-06A Reclassify Merchandise/Return Purchased Merchandise Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Review &amp; Place IMS Direct Purchase Order  Overview"
+      Link="/Content/07 Merchandise/07-06A Reclassify Merchandise/Review &amp; Place IMS Direct Purchase Order  Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Direct Order Writeoffs Overview"
+      Link="/Content/07 Merchandise/07-06A Reclassify Merchandise/Store Direct Order Writeoffs Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Vendor Direct Inventory Charge Overview"
+      Link="/Content/07 Merchandise/07-06A Reclassify Merchandise/Vendor Direct Inventory Charge Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-06B Min &amp; Max Levels">
+    <TocEntry
+      Title="Change &amp; Assign Min &amp; Max Levels Procedure"
+      Link="/Content/07 Merchandise/07-06B Min &amp; Max Levels/Change &amp; Assign Min &amp; Max Levels Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Min &amp; Max Inventory Program Overview"
+      Link="/Content/07 Merchandise/07-06B Min &amp; Max Levels/Min &amp; Max Inventory Program Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-09 Vendor Ship &amp; Receive">
+    <TocEntry
+      Title="Concealed Damage on Vendor Delivery  Procedure"
+      Link="/Content/07 Merchandise/07-09 Vendor Ship &amp; Receive/Concealed Damage on Vendor Delivery Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Receive Special Order Policy"
+      Link="/Content/07 Merchandise/07-09 Vendor Ship &amp; Receive/Receive Special Order Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Receive Special Order Procedure"
+      Link="/Content/07 Merchandise/07-09 Vendor Ship &amp; Receive/Receive Special Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Resolve Vendor Disputes Policy"
+      Link="/Content/07 Merchandise/07-09 Vendor Ship &amp; Receive/Resolve Vendor Disputes Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Vendor Direct Shipments Policy"
+      Link="/Content/07 Merchandise/07-09 Vendor Ship &amp; Receive/Vendor Direct Shipments Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Vendor Direct Window Treatment Policy"
+      Link="/Content/07 Merchandise/07-09 Vendor Ship &amp; Receive/Vendor Direct Window Treatment Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Vendor Freight Claim Procedure"
+      Link="/Content/07 Merchandise/07-09 Vendor Ship &amp; Receive/Vendor Freight Claim Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Vendor Loss or Damage Claim Policy"
+      Link="/Content/07 Merchandise/07-09 Vendor Ship &amp; Receive/Vendor Loss or Damage Claim Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Visible Damage on Vendor Delivery Procedure"
+      Link="/Content/07 Merchandise/07-09 Vendor Ship &amp; Receive/Visible Damage on Vendor Delivery Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Window Treatment Order Procedure"
+      Link="/Content/07 Merchandise/07-09 Vendor Ship &amp; Receive/Window Treatment Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-11 Vendor Complaint">
+    <TocEntry
+      Title="Return Product to Vendor Procedure"
+      Link="/Content/07 Merchandise/07-11 Vendor Complaint/Return Product to Vendor Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Vendor Complaint Customer Return Procedure"
+      Link="/Content/07 Merchandise/07-11 Vendor Complaint/Vendor Complaint Customer Return Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Vendor Complaint Policy"
+      Link="/Content/07 Merchandise/07-11 Vendor Complaint/Vendor Complaint Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-13 Inventory Control">
+    <TocEntry
+      Title="Adjust Inventory to Match STAR Order Overview"
+      Link="/Content/07 Merchandise/07-13 Inventory Control/Adjust Inventory to Match STAR Order Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Automated Bill Paying Overview"
+      Link="/Content/07 Merchandise/07-13 Inventory Control/Automated Bill Paying Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Check the Quantity of Manual Purchase Orders Procedure"
+      Link="/Content/07 Merchandise/07-13 Inventory Control/Check the Quantity of Manual Purchase Orders Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Create Bin Location &amp; Record Stock Procedure"
+      Link="/Content/07 Merchandise/07-13 Inventory Control/Create Bin Location &amp; Record Stock Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Cycle Count Procedure"
+      Link="/Content/07 Merchandise/07-13 Inventory Control/Cycle Count Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Cycle Counts Overview"
+      Link="/Content/07 Merchandise/07-13 Inventory Control/Cycle Counts Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Cycle Counts Policy"
+      Link="/Content/07 Merchandise/07-13 Inventory Control/Cycle Counts Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Downtime MMS Procedure"
+      Link="/Content/07 Merchandise/07-13 Inventory Control/Downtime MMS Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="External Purchase Reconcilement Overview"
+      Link="/Content/07 Merchandise/07-13 Inventory Control/External Purchase Reconcilement Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Identify Class Numbered Transactions Procedure"
+      Link="/Content/07 Merchandise/07-13 Inventory Control/Identify Class Numbered Transactions Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="MMS Scorecard Overview"
+      Link="/Content/07 Merchandise/07-13 Inventory Control/MMS Scorecard Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Problems Connecting with Headquarters Overview"
+      Link="/Content/07 Merchandise/07-13 Inventory Control/Problems Connecting with Headquarters Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Reconcile Variances in Cycle Counts Procedure"
+      Link="/Content/07 Merchandise/07-13 Inventory Control/Reconcile Variances in Cycle Counts Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Review STAR Order Status Procedure"
+      Link="/Content/07 Merchandise/07-13 Inventory Control/Review STAR Order Status Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Run a Bin Location Report Procedure"
+      Link="/Content/07 Merchandise/07-13 Inventory Control/Run a Bin Location Report Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Manager Approval of External Purchase Orders Procedure"
+      Link="/Content/07 Merchandise/07-13 Inventory Control/Store Manager Approval of External Purchase Orders Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Verify Processing of IBARs Procedure"
+      Link="/Content/07 Merchandise/07-13 Inventory Control/Verify Processing of IBARs Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Verify Sales Numbers for Class-Controlled Products Procedure"
+      Link="/Content/07 Merchandise/07-13 Inventory Control/Verify Sales Numbers for Class-Controlled Products Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Verify Weekly Cycle Counts &amp; Resolve Variances Procedure"
+      Link="/Content/07 Merchandise/07-13 Inventory Control/Verify Weekly Cycle Counts &amp; Resolve Variances Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-16 Automotive Intermix">
+    <TocEntry
+      Title="1 Ounce Toner Pour Offs Policy"
+      Link="/Content/07 Merchandise/07-16 Automotive Intermix/1 Ounce Toner Pour Offs Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="1 Ounce Toner Pour Offs Procedure"
+      Link="/Content/07 Merchandise/07-16 Automotive Intermix/1 Ounce Toner Pour Offs Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Automotive Intermix Orders Overview"
+      Link="/Content/07 Merchandise/07-16 Automotive Intermix/Automotive Intermix Orders Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Automotive Mixing Room Expenses Policy"
+      Link="/Content/07 Merchandise/07-16 Automotive Intermix/Automotive Mixing Room Expenses Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Automotive POS Billing  Procedure"
+      Link="/Content/07 Merchandise/07-16 Automotive Intermix/Automotive POS Billing Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Automotive Store Expense Transaction for Mixing Room Procedure"
+      Link="/Content/07 Merchandise/07-16 Automotive Intermix/Automotive Store Expense Transaction for Mixing Room Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Automotive Transfer to Mixing Room Policy"
+      Link="/Content/07 Merchandise/07-16 Automotive Intermix/Automotive Transfer to Mixing Room Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Transfer to the Mixing Room Procedure"
+      Link="/Content/07 Merchandise/07-16 Automotive Intermix/Automotive Transfer to Mixing Room Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Create an ISR for Intermix Procedure"
+      Link="/Content/07 Merchandise/07-16 Automotive Intermix/Create an ISR for Intermix Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Create GHS Intermix Label Procedure"
+      Link="/Content/07 Merchandise/07-16 Automotive Intermix/Create GHS Intermix Label Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Enter Intermix as Price Exception Procedure"
+      Link="/Content/07 Merchandise/07-16 Automotive Intermix/Enter Intermix as Price Exception Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Intermix Lookup Procedure"
+      Link="/Content/07 Merchandise/07-16 Automotive Intermix/Intermix Lookup Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Record Mixing Room Inventory Procedure"
+      Link="/Content/07 Merchandise/07-16 Automotive Intermix/Record Mixing Room Inventory Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-17 Kit Inventory Management">
+    <TocEntry
+      Title="Kit Inventory Overview"
+      Link="/Content/07 Merchandise/07-17 Kit Inventory Management/Kit Inventory Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Kit Mistint Procedure"
+      Link="/Content/07 Merchandise/07-17 Kit Inventory Management/Kit Mistint Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Order Kits from the DSC Overview"
+      Link="/Content/07 Merchandise/07-17 Kit Inventory Management/Order Kits from the DSC Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Process COE &amp; Tinting for Kits Procedure"
+      Link="/Content/07 Merchandise/07-17 Kit Inventory Management/Process COE &amp; Tinting for Kits Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Process Kit Sale Procedure"
+      Link="/Content/07 Merchandise/07-17 Kit Inventory Management/Process Kit Sale Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Review Kit Pricing Procedure"
+      Link="/Content/07 Merchandise/07-17 Kit Inventory Management/Review Kit Pricing Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-18 Same Day New Product Accommodation">
+    <TocEntry
+      Title="Same Day New Product Accommodation Overview"
+      Link="/Content/07 Merchandise/07-18 Same Day New Product Accommodation/Same Day New Product Accommodation Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Same Day New Product Accommodation Policy"
+      Link="/Content/07 Merchandise/07-18 Same Day New Product Accommodation/Same Day New Product Accommodation Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Same Day New Product Accommodation Procedure"
+      Link="/Content/07 Merchandise/07-18 Same Day New Product Accommodation/Same Day New Product Accommodation Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-19 EPromo">
+    <TocEntry
+      Title="Create an EPromo Procedure"
+      Link="/Content/07 Merchandise/07-19 EPromo/Create an EPromo Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="EPromo Help"
+      Link="/Content/07 Merchandise/07-19 EPromo/EPromo Help.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="EPromo Overview"
+      Link="/Content/07 Merchandise/07-19 EPromo/EPromo Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="EPromo Policy"
+      Link="/Content/07 Merchandise/07-19 EPromo/EPromo Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="EPromo Supplemental Requests Overview"
+      Link="/Content/07 Merchandise/07-19 EPromo/EPromo Supplemental Requests Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Promo Property Listing FA217 Overview"
+      Link="/Content/07 Merchandise/07-19 EPromo/Promo Property Listing FA217 Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Promotional Expense Transaction Overview"
+      Link="/Content/07 Merchandise/07-19 EPromo/Promotional Expense Transaction Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Promotional Expenses Procedure"
+      Link="/Content/07 Merchandise/07-19 EPromo/Promotional Expenses Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Transfer / Retirement of Promotional Merchandise Overview"
+      Link="/Content/07 Merchandise/07-19 EPromo/Transfer Retirement of Promotional Merchandise Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-20 Floor Plan &amp; Plan-O-Grams">
+    <TocEntry
+      Title="Plan-O-Gram &amp; Floor Plan Policy"
+      Link="/Content/02 Advertising &amp; Visual Merchandising/02-04 Floor Plan &amp; Plan-O-Grams/Plan-O-Gram &amp; Floor Plan Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Plan-O-Grams Overview"
+      Link="/Content/02 Advertising &amp; Visual Merchandising/02-04 Floor Plan &amp; Plan-O-Grams/Plan-O-Grams Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-21 Cash for Trash">
+    <TocEntry
+      Title="Cash for Trash - Condition of Pails Policy"
+      Link="/Content/07 Merchandise/07-21 Cash for Trash/Cash for Trash - Condition of Pails Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Cash for Trash - Credit Customer for Five Gallon Pail Return Procedure"
+      Link="/Content/07 Merchandise/07-21 Cash for Trash/Cash for Trash - Credit Customer for Five Gallon Pail Return Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Cash for Trash - Five Gallon Pail Recycling Project Overview"
+      Link="/Content/07 Merchandise/07-21 Cash for Trash/Cash for Trash - Five Gallon Pail Recycling Project Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Cash for Trash - Return Emply Plastic Five Gallon Container Procedure"
+      Link="/Content/07 Merchandise/07-21 Cash for Trash/Cash for Trash - Return Emply Plastic Five Gallon Container Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Cash for Trash Recycling Program – Safety &amp; Environmental Rules Policy"
+      Link="/Content/07 Merchandise/07-21 Cash for Trash/Cash for Trash Recycling Program - Safety &amp; Environmental Rules Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-22 Warranty">
+    <TocEntry
+      Title="Extended Warranty Types Overview"
+      Link="/Content/07 Merchandise/07-22 Warranty/Extended Warranty Types Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Process a Warranty Procedure"
+      Link="/Content/07 Merchandise/07-22 Warranty/Process a Warranty Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Warranty Policy"
+      Link="/Content/07 Merchandise/07-22 Warranty/Warranty Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Warranty Program Overview"
+      Link="/Content/07 Merchandise/07-22 Warranty/Warranty Program Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="07-23 Ready-to-Go Inventory">
+    <TocEntry
+      Title="Generate Ready-to-Go &amp; All Products Inventory Reports"
+      Link="/Content/07 Merchandise/07-23 Ready-to-Go Inventory/Generate Ready-to-Go &amp; All Products Inventory Reports.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Inventory Contacts Help"
+      Link="/Content/07 Merchandise/07-23 Ready-to-Go Inventory/Inventory Contacts Help.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Prepare Ready-to-Go Inventory Procedure"
+      Link="/Content/07 Merchandise/07-23 Ready-to-Go Inventory/Prepare Ready-to-Go Inventory Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Ready-to-Go Inventory - Record Potential Obsolescence Procedure"
+      Link="/Content/07 Merchandise/07-23 Ready-to-Go Inventory/Ready-to-Go Inventory - Record Potential Obsolescence Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Ready-to-Go Inventory Count Overview"
+      Link="/Content/07 Merchandise/07-23 Ready-to-Go Inventory/Ready-to-Go Inventory Count Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Ready-to-Go Inventory Count Policy"
+      Link="/Content/07 Merchandise/07-23 Ready-to-Go Inventory/Ready-to-Go Inventory Count Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Sell or Transfer Obsolescence Policy"
+      Link="/Content/07 Merchandise/07-23 Ready-to-Go Inventory/Sell or Transfer Obsolescence Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Sell or Transfer Obsolescence Procedure"
+      Link="/Content/07 Merchandise/07-23 Ready-to-Go Inventory/Sell or Transfer Obsolescence Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

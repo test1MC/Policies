@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPageTax.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>Canada - Harmonized Tax Overview</h1>
+        <h2>This section is for all locations in Ontario and British Columbia</h2>
+        <p>Effective 07/01/10, <b>Ontario</b> and <b>British Columbia</b> harmonized their sales tax so that <b>GST</b> and <b>PST</b> tax is replaced by the <b>HST (harmonized) tax</b>.</p>
+        <ul>
+            <li>Ontario and British Columbia sales invoices on the <b>POS</b> list the total tax as one percentage.&#160; Ontario's <b>combined tax rate</b> is 13% (5% federal; 8% provincial).&#160; British Columbia's combined tax is 12% (5% federal; 7% provincial).&#160; Also at this time Nova Scotia is increasing their rate to 15% HST.</li>
+            <li><b>General Ledger account numbers</b> for tax paid will change.&#160; Please start using the new accounts as of July 01, 2010.&#160; The old accounts will no longer be available. The new accounts will be mapped to the <b>GST</b>, <b>HST</b>, <b>QST Tax Fields</b> in <b>SWeep</b> as of July 1, 2010.</li>
+            <table>
+                <thead>
+                    <tr>
+                        <th><strong class="Strong">Account</strong>
+                        </th>
+                        <th><strong class="Strong">Old</strong>
+                        </th>
+                        <th><strong class="Strong">New</strong>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <p>GST Tax Paid (Credit)</p>
+                        </td>
+                        <td>
+                            <p>0510020</p>
+                        </td>
+                        <td>
+                            <p>1610006</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>HST Tax Paid (Credit)</p>
+                        </td>
+                        <td>
+                            <p>0510020</p>
+                        </td>
+                        <td>
+                            <p>1610008</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>QST Tax Paid (Credit)</p>
+                        </td>
+                        <td>
+                            <p>0510021</p>
+                        </td>
+                        <td>
+                            <p>1610007</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <li><b>PST</b> penalized businesses by taxing at each step in production, distribution and retail. The new Ontario and British Columbia <b>HST</b> is a <b>value-added tax</b>, which means <b>Sherwin-Williams</b>, as a company, is refunded taxes paid on most expenses.&#160; It is important to code the tax in the proper fields in <b>SWEEP</b> so that <b>SW</b> may recognize these refunds or tax input credits. Click here to review the <a href="http://cpapp1.sherwin.com:81/policy/01.0/SWEEP_Canada_Messages/help.htm"><strong class="Strong">SWeep</strong><strong class="Strong"> Vendor Messages and Examples</strong></a>.</li>
+            <li>Along with the benefits of <b>HST</b>, there are some restrictions.&#160;Stores were recently notified that <b>utility invoices</b> have been returned to the field to pay through <b>SWEEP</b>.&#160; The provincial portion of Ontario and British Columbia HST on utility invoices is a restricted tax that must be reported separately and therefore coded to a different <b>GL account</b>.</li>
+            <li>When entering an invoice for a <b>utility or telecommunications vendor</b> in <b>SWEEP</b>, you will see "pop up" instructions on how to enter the tax.&#160; Only follow these instructions for these specific utility or telephone vendors.</li>
+            <li>When this message for utility and telephone vendors appears, enter <b>5% Federal tax</b> in the <b>HST</b> tax box.&#160; Then let the remaining tax along with invoice amount default to the <b>Goods &amp; Services</b> field.&#160; Then on the distribution screen on page 2, enter the provincial portion of <b>HST</b> (8% tax for Ontario; 7% tax for British Columbia) to the account provided in the message.&#160; Accounts are also listed below:</li>
+            <table>
+                <thead>
+                    <tr>
+                        <th>
+                            <p>7613003</p>
+                        </th>
+                        <th>
+                            <p>Ontario HST restricted input tax credit (ITC)</p>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <p>7613004</p>
+                        </td>
+                        <td>
+                            <p>British Columbia HST restricted input tax credit (ITC)</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <p>This will also be the case for <b>Quebec utility invoices</b> - enter <b>GST</b> in the GST field (5%) and the remaining tax (QST) to the account provided in the message.&#160; This account is also listed below:</p>
+            <table>
+                <thead>
+                    <tr>
+                        <th>
+                            <p>7613002</p>
+                        </th>
+                        <th>
+                            <p>GST, HST, QST restricted input tax credit (ITC) – for Quebec QST</p>
+                        </th>
+                    </tr>
+                </thead>
+            </table>
+        </ul>
+        <p>Any other <b>GL entries</b> for sales tax such as on travel and expense reports (T&amp;E's), etc. should reflect the new sales tax accounts in #2 above. (For Travel and Expense reports, new accounts do not pertain to <b>Automotive</b>.)</p>
+        <p>For any questions, please contact <b>Pat Bodle</b> at <b>216-566-3284</b> or <a href="mailto:pat.r.bodle@sherwin.com">pat.r.bodle@sherwin.com</a>.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Revision Details</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="revision-details">
+                    <table class="revision">
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Revision Type</th>
+                                <th>Description</th>
+                                <th>Requester - admin only</th>
+                                <th>initial - admin only</th>
+                                <th>misc - admin only</th>
+                                <th>include in year end - admin only</th>
+                                <th>Doc Title, hidden</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="revdate">08/11</td>
+                                <td class="revtype">Revised</td>
+                                <td class="revdescrip">&#160;</td>
+                                <td class="revrequester">&#160;</td>
+                                <td class="revinitial">&#160;</td>
+                                <td class="revmisc">&#160;</td>
+                                <td class="revyear-end">&#160;</td>
+                                <td class="revdoc-title"><MadCap:variable name="System.Title" />
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

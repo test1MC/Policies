@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPageCOE.flmsp');">
+    <head>
+        <title>
+        </title>
+    </head>
+    <body>
+        <h1>Add COE Order Procedure</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p>Step</p>
+                    </th>
+                    <th>
+                        <p>Action</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <p>From <b>POS desktop</b>, select <b>Store</b> -&gt; Select <b>Customer Order Entry </b>-&gt; Enter<b> Employee Number</b> and <b>Password </b>-&gt; <b>Add Order</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>2</p>
+                    </td>
+                    <td>
+                        <p>Enter the customer’s purchase order number (up to twenty alpha/numeric&#160;characters).</p>
+                        <p>Note: If the customer does not use a purchase order, press <b>Enter</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>3</p>
+                    </td>
+                    <td>
+                        <p>Enter the customer's <b>Job Number/Lot Number</b> or press <b>Enter</b> to continue.</p>
+                        <ul>
+                            <li>
+                                <b>Control number (Ctl #)</b>: a system generated tracking number for each generated order.</li>
+                            <li>
+                                <b>Type</b>: location of entered order, Store Entered, EDI and Internet.</li>
+                            <li>
+                                <b>Order</b>: current order (0E00000034A1035)</li>
+                            <li>
+                                <b>(0E)</b>: Order Entry-Store generated, AT-SWAT, SW-E-Commerce, ED-Electronic Data Interchange</li>
+                            <li>
+                                <b>8 digits</b>: numeric order number</li>
+                            <li>
+                                <b>(A)</b>: alpha/numeric field that ties orders together</li>
+                            <li>
+                                <b>(1035)</b>: store number</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>4</p>
+                    </td>
+                    <td>
+                        <p>Make a selection from the <b>Customer Service Options menu</b> or press <b>Enter</b> to select <b>Press Enter to Continue</b> to move on without selecting a <b>Service Option</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>5</p>
+                    </td>
+                    <td>
+                        <p>If <b>Delivery</b> or <b>Installation</b> is chosen, a dialog box is displayed:</p>
+                        <p>
+                            <img src="../../Resources/Images/09-03 Customer Order Entry/Add COE Order Procedure.png" />
+                        </p>
+                        <p>Choose from the following options:</p>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>
+                                        <p>If</p>
+                                    </th>
+                                    <th>
+                                        <p>Then</p>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <p>None</p>
+                                    </td>
+                                    <td>
+                                        <p>You will return to the previous screen to select a different option.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>Some</p>
+                                    </td>
+                                    <td>
+                                        <p>An extra field at the end of the line will display that enables you to select whether the line item is to be delivered or installed.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>All</p>
+                                    </td>
+                                    <td>
+                                        <p>All entered line items are defaulted to <b>Deliver</b> or <b>Install</b>.</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>6</p>
+                    </td>
+                    <td>
+                        <p>Enter the customer's account number or press <b>Lookup [F3]</b> to enter a partial or full customer name.&#160;For more information, see 09-01C Point of Sale.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>7</p>
+                    </td>
+                    <td>
+                        <p>  If available, contact and phone number will return from the <b>price record card</b>. If unavailable, enter the contact and phone number.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>8</p>
+                    </td>
+                    <td>
+                        <p style="font-weight: normal;">If the <b>[Bill To]</b> and the <b>[Ship To] </b>addresses are the same,  complete the information on the screen (excluding the <b>[Ship To]</b> information), then press <b>Accept [F1]</b>. Answer <b>Yes</b> when prompted to <b>[Use BILL-TO Address as SHIP-TO Address?]</b>, press <b>Accept [F1]</b> to continue. The <b>[Ship To] </b>information will automatically fill in on the screen. If you select <b>NO</b> you will be given an opportunity to enter the <b>[Ship To]</b> information. Enter only a <b>Lot Number</b> or J<b>ob Location</b> on the first address line of the <b>SHIP TO</b> information if a complete ship to address is not available. Press <b>Accept</b>. </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>9</p>
+                    </td>
+                    <td>
+                        <p>Enter the product sales number, or press <b>Lookup [F4]</b> to locate the product number. After entering the sales number, you will see additional inventory information.</p>
+                        <p>Note: Add comments to a line by pressing the <b>Comment key</b>. Continue entering the product sales numbers. When complete, press <b>Total [F12]</b> or <b>Accept [F1]</b>. After entering <b>Special Instructions</b>, press <b>Accept [F1]</b>. Print a <b>Picking Ticket</b> to reference while preparing the order or print a copy of the customer order to give to the customer.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>10</p>
+                    </td>
+                    <td>
+                        <p>Review the <b>Inventory section</b> in the top right of the screen to review inventory activity for the product.</p>
+                        <ul>
+                            <li>Individual line items can be selected for <b>Deliver</b> or <b>Install</b> if the appropriate option was chosen in the <b>Header section</b> of the customer order. </li>
+                            <li>For a <b>delivery order</b>, the heading for the last column is "<b>D</b>"</li>
+                            <li>For an <b>Install order</b>, the heading for the last column is "<b>I</b>"</li>
+                            <li>If not a <b>Delivery/Install order</b>, the column heading is blank. </li>
+                            <li>Press the <b>SPACE BAR</b> to select <b>Deliver/Install</b>.</li>
+                            <li>If a line item is "deleted" [by pressing the <b>DELETE key</b>], the line status is changed to <b>X=Canceled</b>, and the line is removed from the display.</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>11</p>
+                    </td>
+                    <td>
+                        <p>After completing the order,&#160;print and/or update the order if necessary.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

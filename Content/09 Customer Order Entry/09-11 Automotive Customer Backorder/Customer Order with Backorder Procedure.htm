@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPageCOE.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>Customer Order with Backorder Procedure</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p>Step</p>
+                    </th>
+                    <th>
+                        <p>Action</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td colspan="2">
+                        <p> <b>Complete Order Header</b></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <p>Complete your order header as you normally would with the following exception:&#160; <b>Delivery</b> must be selected as the <b>Customer Service Option</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <p><b>Complete Order Detail</b>
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <p>Complete the order detail as you normally would.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <p><b>Shipment Detail</b>
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <p>Select <b>N</b> to the prompt “<b>Are lines on this Order ready for Delivery?</b>” Press <b>ACCEPT [F1]</b> to proceed.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>2</p>
+                    </td>
+                    <td>
+                        <p>Select <b>Print Picking Ticket</b>, choose <b>sort method</b>, and <b>print</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>3</p>
+                    </td>
+                    <td>
+                        <p>Select <b>Update/Review Orders</b> from <b>Customer Order Entry Menu</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>4</p>
+                    </td>
+                    <td>
+                        <p>Use <b>Order Lookup</b> to find your order. Press <b>ACCEPT [F1]</b> to view a listing of all orders matching your query.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>5</p>
+                    </td>
+                    <td>
+                        <p>Press <b>ENTER</b> to select the order you wish to view.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>6</p>
+                    </td>
+                    <td>
+                        <p>Move through the <b>COE</b> until the prompt for “<b>Are lines on this Order ready for Delivery?</b>”&#160;&#160; Enter <b>Y</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>7</p>
+                    </td>
+                    <td>
+                        <p>Select the <b>Store Truck</b> as the carrier from the <b>SCAC Code List</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>8</p>
+                    </td>
+                    <td>
+                        <p>Select the <b>Delivery Date</b>. Calendar navigation instructions are at the bottom of the screen.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>9</p>
+                    </td>
+                    <td>
+                        <p>Confirm the <b>Ship Quantity</b>.</p>
+                        <p>Note: If the <b>Ship Quantity</b> is less than what is available, enter only the amount being shipped. Partial shipments are allowed; there is no need to create a new order for backordered items. See <b>Fulfilling Backordered Products</b> below for handling backordered products. The order with backordered products will remain in <b>Customer Order Entry</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>10</p>
+                    </td>
+                    <td>
+                        <p>Do you want to create a <b>Bill of Lading</b>?</p>
+                        <table style="width: 100%;">
+                            <col />
+                            <col />
+                            <thead>
+                                <tr>
+                                    <th>If</th>
+                                    <th>Then</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Yes</td>
+                                    <td>Select <b>Y</b> to submit a <b>Bill of Lading Request</b> to <b>BOLDOC</b>. Press <b>ACCEPT [F1]</b> to proceed</td>
+                                </tr>
+                                <tr>
+                                    <td>No</td>
+                                    <td>Select <b>N</b> to create a <b>Manual Bill of Lading</b> or your <b>Third Party Carrier</b> is providing one for you</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p>Note: This will communicate your transaction information to <b>HEARS</b>. If you see an error message during any of the transaction submissions, please note the on-screen message and call the helpdesk. A <b>Bill of Lading</b> is required for all orders, regardless of transport.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>11</p>
+                    </td>
+                    <td>
+                        <p>Select <b>Y</b> to open <b>HEARS</b> to complete the <b>Bill-of-Lading</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>12</p>
+                    </td>
+                    <td>
+                        <p>Process the <b>Sales Transaction</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>13</p>
+                    </td>
+                    <td>
+                        <p>The system will print a <a href="http://sherlink2.sherwin.com/stores/policy/07.0/pdf/org_confirm_delivery.pdf">Confirmation of Delivery</a> showing the order quantity and the quantity shipped. Send this along with the order to the Customer. </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>14</p>
+                    </td>
+                    <td>
+                        <p>The system will generate an “<a href="http://sherlink2.sherwin.com/stores/policy/07.0/pdf/items_to_order.pdf">Items to be Ordered</a>” report if the material is required before the next <b>STAR Order Scheduled Delivery Date</b>. You must get the material locally from another <b>Branch</b>, an <b>Outside Vendor</b>, or via <b>Emergency STAR Order</b>. </p>
+                        <p>Note: If the material is not needed until after the next <b>STAR Order Scheduled Delivery Date</b>, it will automatically be included in the next <b>STAR Order</b> as <b>Memo Demand</b> and the <b>Items to be Ordered report</b> will not print. </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Revision Details</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="revision-details">
+                    <table class="revision">
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Revision Type</th>
+                                <th>Description</th>
+                                <th>Requester - admin only</th>
+                                <th>initial - admin only</th>
+                                <th>misc - admin only</th>
+                                <th>include in year end - admin only</th>
+                                <th>Doc Title, hidden</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="revdate">12/14</td>
+                                <td class="revtype">Revised</td>
+                                <td class="revdescrip">&#160;</td>
+                                <td class="revrequester">&#160;</td>
+                                <td class="revinitial">&#160;</td>
+                                <td class="revmisc">&#160;</td>
+                                <td class="revyear-end">&#160;</td>
+                                <td class="revdoc-title"><MadCap:variable name="System.Title" />
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

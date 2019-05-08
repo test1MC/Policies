@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPageCredit.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>Create Cash Account Procedure</h1>
+        <p> When creating a cash account, the process MUST be either completed or voided in order for the new account to be accessed immediately.&#160; The new account number will NOT appear in the system until the following day unless a customer lookup to Cleveland is performed, which may take up to fifteen (15) minutes to appear in the search results. For more information on preferred customer enrollment, please see <MadCap:xref href="../../02 Advertising &amp; Visual Merchandising/02-05 Preferred Customer Program/Preferred Customer Program Enrollment Overview.htm">Preferred Customer Program Enrollment Overview</MadCap:xref></p>
+        <p>Note: On occasion, there can be very short periods of time when the mainframe is being rebooted, usually about ten minutes on a Sunday, when a new cash account cannot be created. Use either a <b>Manual POST Form</b> to gather the customer information and process the sale or wait 10 to 15 minutes and try again.</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p>Step</p>
+                    </th>
+                    <th>
+                        <p>Action</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <table style="width: 100%;">
+                            <col style="width: 324px;" />
+                            <col />
+                            <thead>
+                                <tr>
+                                    <th>If</th>
+                                    <th>Then</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Creating new account from within <b>POS</b>&#160;applications (i.e. <b>COE, POS, Wallcovering, PRC</b>)</td>
+                                    <td>Proceed to <b>Step 2</b></td>
+                                </tr>
+                                <tr>
+                                    <td>Creating new account from <b>Source</b> (<b>District Offices Only</b>)</td>
+                                    <td>
+                                        <p>From the <b>POS desktop</b>, select <b>Browser</b> -&gt; Access the <b>Source homepage</b> -&gt; <b>Source Operations</b> -&gt; <b>Credit</b> -&gt; <b>Cash Account Processing</b> -&gt; Enter customer details</p>
+                                        <p>Note: The availability of the new cash account creation screen will align with CPR edit availability (usually unavailable between 8pm an 7am EST)</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p>Note: When creating a cash account, always be sure to review the local or headquarters database to avoid account duplication.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>
+                        <p>From <b>POS desktop</b>, select <b>Store</b> -&gt; Select either <b>Point of Sale (for POS)</b>, <b>Customer Order Entry (for COE)</b>, <b>Manager Functions (for PRC)</b>, or <b>Miscellaneous (for Wallcovering)</b> -&gt; Press <b>LOOKUP [F3]</b> when prompted to enter the customer’s account number.&#160; </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>3</p>
+                    </td>
+                    <td>
+                        <p>Search the local database.&#160; Enter the customer's last name when prompted.&#160; </p>
+                        <p>Example: If you originally entered [SMITH] and you can't find the customer's name, try entering [S]. </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>4</p>
+                    </td>
+                    <td>
+                        <p>Search the headquarters database.&#160; Press <b>LOOKUP [F3]</b> twice more.&#160; You will need to provide Area Code or Zip Code to search the HQ database. Press <b>ACCEPT [F1]</b>.</p>
+                        <p>Note: If the system cannot find a match on the headquarters database, begin new customer add.&#160; If matches are found, press <b>LOOKUP [F3]</b> to begin the new customer addition.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>5</p>
+                    </td>
+                    <td>
+                        <p>Select a <b>Customer Type</b>:&#160; <b>DIY (DIY)</b>, <b>Product Finishes (CC)</b>, and <b>Employee (EMP)</b>. </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>6</p>
+                    </td>
+                    <td>
+                        <p>Complete the <b>New Cash Account Customer Add Screen</b>.&#160; </p>
+                        <p>Note: Refrain from using any punctuation other than hyphens or ampersand [&amp;].  Any other use of punctuation (including periods, commas, apostrophes, slashes, etc.) creates inaccuracy in the alphabetization process and name search capability in the <b>A/R Database</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>7</p>
+                    </td>
+                    <td>
+                        <p>Enter <b>Name</b>.</p>
+                        <p>Note:  Use complete first and last names for individuals. Do not abbreviate or use nicknames. If opening a cash account in a business name, enter the entire business name in the last name field.&#160; The business name can contain up to 23 alpha/numeric characters.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>8</p>
+                    </td>
+                    <td>
+                        <p>Enter <b>E-mail Address</b></p>
+                        <p>Note: Always ask for an email address so SW can inform the customer about upcoming sales, HowTo information, and special promotions. Ensure the customer that the Sherwin-Williams' policy is never to provide customers' personal information to other companies or individuals without express permission.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>9</p>
+                    </td>
+                    <td>
+                        <p>Enter <b>Address</b></p>
+                        <p>Note: If the <b>BillTo address</b> may be used as a <b>ShipTo address</b>, Taxware will validate the City, State, and Zip Code combination. The City name must be spelled out completely.&#160; If you have having difficulty determining the correct Zip Code, refer to the United States Postal Service website Zip Code Locator.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>10</p>
+                    </td>
+                    <td>
+                        <p>Enter the <b>Territory</b></p>
+                        <p>Note: New cash accounts default to the house territory, 0100. If the default territory number is changed when the cash account is initially set up, it will be overridden to 0100 when added to the <b>Accounts Receivable Database</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>11</p>
+                    </td>
+                    <td>
+                        <p>The <b>Customer Account Classification (CAC) Code</b> will default based on the <b>Customer Type</b> selected:</p>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>
+                                        <p>Customer Type</p>
+                                    </th>
+                                    <th>
+                                        <p>CAC Code</p>
+                                    </th>
+                                    <th>
+                                        <p>Notes</p>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <p><b>DIY</b>
+                                        </p>
+                                    </td>
+                                    <td>
+                                        <p>CAC Code will default to one of several codes governing the list price and any preferred customer programs active in your area.&#160; </p>
+                                    </td>
+                                    <td>
+                                        <p>Customer defaults to “list” price.&#160; </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p><b>CC</b>
+                                        </p>
+                                    </td>
+                                    <td>
+                                        <p>You will be required to select the correct CAC based on the customer type.</p>
+                                    </td>
+                                    <td>
+                                        <p>&#160;</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p><b>Employee</b>
+                                        </p>
+                                    </td>
+                                    <td>
+                                        <p>CAC Code will default to 9999.</p>
+                                    </td>
+                                    <td>
+                                        <p>Employee receives employee discounting.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p><b>Preferred Customer</b>
+                                        </p>
+                                    </td>
+                                    <td>
+                                        <p>Select CAC Code: 1140</p>
+                                    </td>
+                                    <td>
+                                        <p>Customer is enrolled in <b>PaintPerks</b>.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p><b>Preferred Customer (Military)</b>
+                                        </p>
+                                    </td>
+                                    <td>
+                                        <p>Select CAC Code:</p>
+                                        <ul style="list-style-type: disc;margin-left: 36pt;">
+                                            <li style="list-style-type: disc;">1150<br />(United States Armed Forces)</li>
+                                            <li style="list-style-type: disc;">1170 <br />(Canadian Forces)</li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <p>Customer is enrolled in <b>PaintPerks</b> and ensured the military discount.</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p>Note:&#160; Non-retail accounts may be further classified by specifying the nature of their business using the CAC Code.&#160; The CAC Code may also extend special pricing to a certain group of customers. You will need to call the <b>Credit Office</b> to have changes made to the CAC Code on a Cash Account. For more information on available CAC Codes, please review <MadCap:xref href="../../21 Pricing/21-02D Customer Account Classification (CAC) Maintenance/Customer Account Classification (CAC) Codes Overview.htm">Customer Account Classification (CAC) Codes Overview</MadCap:xref></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>12</p>
+                    </td>
+                    <td>
+                        <p> Do not change the default of <b>No</b> in the <b>DCP Field</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>13</p>
+                    </td>
+                    <td>
+                        <p>Enter the <b>Sales Volume</b>.</p>
+                        <p>Note: The <b>Volume Tag</b> corresponds to the annual total potential sales volume for all product types [paint, sundries, wallcovering, floorcovering]. The total potential sales volume  includes both the amount the customer is likely to spend with SW and the amount the customer may spend with competitors.&#160;This potential volume will control what pricing the customer can get based on volume classes. New accounts may be set up with a <b>Volume Class of A-C</b> without limitation. Requests for accounts in the <b>D and E</b> volume class will require <b>District Manager</b> approval.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Revision Details</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="revision-details">
+                    <table>
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Revision Type</th>
+                                <th>Description</th>
+                                <th>Requester - admin only</th>
+                                <th>initial - admin only</th>
+                                <th>misc - admin only</th>
+                                <th>include in year end - admin only</th>
+                                <th>Doc Title, hidden</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>06/18</td>
+                                <td>Revised</td>
+                                <td>&#160;</td>
+                                <td>&#160;</td>
+                                <td>Incorporated info from the SOURCE Account Creation Procedure topic</td>
+                                <td>&#160;</td>
+                                <td>&#160;</td>
+                                <td>&#160;</td>
+                            </tr>
+                            <tr>
+                                <td>06/18</td>
+                                <td>Revised</td>
+                                <td>&#160;</td>
+                                <td>&#160;</td>
+                                <td>Incorporated FAQ answer as note in step 1</td>
+                                <td>&#160;</td>
+                                <td>&#160;</td>
+                                <td>&#160;</td>
+                            </tr>
+                            <tr>
+                                <td>06/18</td>
+                                <td>Revised</td>
+                                <td>&#160;</td>
+                                <td>&#160;</td>
+                                <td>Incorporated info from Cash Account Creation Downtime Overview topic as a note before procedure table</td>
+                                <td>&#160;</td>
+                                <td>&#160;</td>
+                                <td>&#160;</td>
+                            </tr>
+                            <tr>
+                                <td class="revdate">07/17</td>
+                                <td class="revtype">Revised</td>
+                                <td class="revdescrip">Cash and DIY Charge account creation procedures have been changed to include instructions for designating the account to receive a military discount.
+
+</td>
+                                <td class="revrequester">&#160;</td>
+                                <td class="revinitial">&#160;</td>
+                                <td class="revmisc">&#160;</td>
+                                <td class="revyear-end">&#160;</td>
+                                <td class="revdoc-title"><MadCap:variable name="System.Title" />
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" lang="en" dir="ltr">
+   <head>
+        <link href="../Fonts/fontawesome/css/all.css" rel="stylesheet"> 
+		<link href="../foundation/css/foundation.css" rel="stylesheet" type="text/css" />
+        <link href="../Stylesheets/TopicStyles.css" rel="stylesheet" type="text/css" />
+        <link href="../Stylesheets/ChristinaStyles.css" rel="stylesheet" type="text/css" />
+	 
+		       
+    </head>
+    <body class="full-width home">
+        <MadCap:snippetBlock src="../Snippets/HomeHeader.flsnp" MadCap:conditions="General.PolicyNProcedure" />
+        <MadCap:snippetBlock src="../Snippets/HomeHeaderBuckets.flsnp" MadCap:conditions="General.PNPBuckets" />
+        <!-- Container for off-canvas element with ID 'offCanvasTop' -->
+        <!-- All the visible content of the page is in this 'off-canvas-content' container -->
+        <!-- end title Bar-->
+        <!-- Page content -->
+        <section id="page-content">
+            <!-- Container for accordion menu and topic body -->
+            <MadCap:bodyProxy />
+            <!-- END Container for accordion menu and topic body -->
+            <!-- footer -->
+            <MadCap:snippetBlock src="../Snippets/Footer.flsnp" />
+        </section>
+        <!-- END off canvas wrapper -->
+        <!-- scripts -->
+		<script type="text/javascript" src="../Scripts/js.cookie.min.js">
+		</script>
+        <script type="text/javascript" src="../foundation/js/vendor/what-input.js">
+        </script>
+        <script type="text/javascript" src="../foundation/js/vendor/foundation.js">
+        </script>
+        <script type="text/javascript" src="../Scripts/foundation-menu-off-canvas-initialisation.js">
+        </script>
+        <script type="text/javascript" src="../Scripts/ChristinaScripts.js">
+        </script>
+    </body>
+</html>

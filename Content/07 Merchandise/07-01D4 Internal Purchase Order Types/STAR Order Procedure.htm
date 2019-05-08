@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPageMerch.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>STAR Order Procedure</h1>
+        <p><b>Scheduled Transfer and Replenishment [STAR] Orders</b> are to be used for creating the <b>weekly replenishment order(s)</b> from the <b>DSC</b>. Once released, the <b>STAR order</b> will immediately be routed to the <b>DSC</b> through <b>EDI</b>. </p>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p>Step</p>
+                    </th>
+                    <th>
+                        <p>Action</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <p>From the <b>POS&#160;Desktop</b>, go to <b>Main Menu -&gt; Merchandise Management -&gt; Purchase Order -&gt; Add New Purchase Order</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>2</p>
+                    </td>
+                    <td>
+                        <p>Select the <b>STAR Order option</b> from the <b>Order Type List</b>. An <b>"A" Purchase Order Number</b> will be assigned by the system. </p>
+                        <p><i>Note:</i> You do not need to complete entry of all <b>STAR Order information</b> at one time. You may save it without releasing the order to the <b>DSC</b> and continue to work on it throughout the day by selecting <b>Merchandise Management -&gt;Purchase Order -&gt; Change/Release Purchase Order</b>. However, the order must be released by the end of the <b>STAR punch day</b>. If you have already placed your <b>STAR Order</b> with <b>Customer Service</b> using the <b>downtime Manual B-Prefix Purchase Order procedure</b>, override the <b>"A" Purchase Order Number</b> by typing in the <b>"B" Purchase Order Number</b>. You must do this to prevent duplicate receipt.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>3</p>
+                    </td>
+                    <td>
+                        <p>Indicate whether or not a <b>Standard or Suggested STAR</b> will be created:</p>
+                        <table style="width: 100%;">
+                            <col />
+                            <col />
+                            <thead>
+                                <tr>
+                                    <th>If</th>
+                                    <th>Then</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Standard STAR Order</td>
+                                    <td>
+                                        <p>Select <b>NO</b>.</p>
+                                        <p><i>Note:</i> The <b>Standard STAR Order process</b> allows you to enter by line. The system will <b>NOT</b> suggest any order quantities to use as a basis for your order. You will need to walk around the store to review <b>on-hand quantity</b>. </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Suggested STAR Order</td>
+                                    <td>Select <b>YES</b>.<p><i>Note:</i> Remember that when using the suggested <b>STAR Order option</b>, your order will be created based on current <b>perpetual inventory levels</b> in the system compared to <b>Min/Max levels</b>. If either&#160;are inaccurate, do not use the <b>Suggested STAR process</b>.&#160; For more information, see <MadCap:xref href="../07-06B Min &amp; Max Levels/Change &amp; Assign Min &amp; Max Levels Procedure.htm">Change &amp; Assign Min &amp; Max Levels Procedure</MadCap:xref>.</p><p>For further information on Suggested STAR Orders, see <MadCap:xref href="Suggested STAR Order Overview.htm">Suggested STAR Order Overview</MadCap:xref>.</p></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p> </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>
+                        <p>If applicable, include any <b>Memo Demands</b> to be automatically included for this order period for a <b>Standard STAR Order</b>. For more information, see <MadCap:xref href="../07-02D MMS Menu Options/Memo Demand Policy.htm">Memo Demand Policy</MadCap:xref>.</p>
+                        <ul>
+                            <li>The calculation takes into consideration <b>On Hand, On Order, and Memo Demand quantities</b> and will not suggest an <b>order quantity</b> higher than the <b>maximum level</b> except in the two following scenarios:<ul><li>The <b>Memo Demand quantity</b> could take you above your <b>maximum level</b> because <b>Memo Demands</b> are added to the <b>maximum order quantity</b>. &#160; </li></ul></li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>5</p>
+                    </td>
+                    <td>
+                        <p>Enter the <b>Sales Number</b> and <b>Quantity desired</b> for each product you wish to receive. Use the information provided for each line item to determine the quantity needed. Add lines, delete lines, and change quantities as required. The following information is provided:</p>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>
+                                        <p>Type</p>
+                                    </th>
+                                    <th>
+                                        <p>Description</p>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <p>Min</p>
+                                    </td>
+                                    <td>
+                                        <p>Minimum amount of product that should be at your store.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>Max</p>
+                                    </td>
+                                    <td>
+                                        <p>Maximum amount of product that should be at your store.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>O/H</p>
+                                    </td>
+                                    <td>
+                                        <p>Merchandise that is currently on hand at your store.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>O/O</p>
+                                    </td>
+                                    <td>
+                                        <p>Merchandise that has been ordered but not received.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>Min/Ship</p>
+                                    </td>
+                                    <td>
+                                        <p>Minimum amount of product that will be shipped.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>PK SZ</p>
+                                    </td>
+                                    <td>
+                                        <p>Merchandise package size.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>Memo</p>
+                                    </td>
+                                    <td>
+                                        <p>Merchandise recorded for your customer that needs to included.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>Sugg</p>
+                                    </td>
+                                    <td>
+                                        <p>Calculation of what you should order after considering the above.</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p><i>Note:</i> The word <b>Auto</b> in the <b>Selling Price</b> column designates that the item will be automatically priced from a <b>Sherwin-Williams' Price List</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>
+                        <p>Once you are confident that you have included all needed items from the <b>DSC</b> on your <b>Standard or Suggested STAR Order</b>, release your order to the <b>DSC</b>.</p>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>
+                                        <p>If</p>
+                                    </th>
+                                    <th>
+                                        <p>Then</p>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <p>Order is successfully released</p>
+                                    </td>
+                                    <td>
+                                        <p>You will be returned to the <b>Purchase Order Menu</b>.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>Order has not been successfully released</p>
+                                    </td>
+                                    <td>
+                                        <p>You will see an <b>error message</b>. Follow the <a href="file:///S:/METHSHAR/intranetpublishedsites/policy/MADCAP/Content/Mackenzie/Updated/07-01D4 Internal Purchase Order Types.doc#edidown">EDI Downtime Procedure</a>.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>Errors are found on the <b>STAR Order</b> after it has been released to the <b>DSC</b></p>
+                                    </td>
+                                    <td>
+                                        <p>Call <b>Customer Service [Arch: 1-888-677-8673 / CC: 1-888-792-4364 / Auto: 1-800-357-4956]</b>. You will need to provide the representative the following information:</p>
+                                        <ul style="list-style-type: disc;margin-left: 38pt;">
+                                            <li style="list-style-type: disc;">Store Number</li>
+                                            <li style="list-style-type: disc;">STAR Purchase Order Number</li>
+                                            <li style="list-style-type: disc;">Order Date</li>
+                                            <li style="list-style-type: disc;">Explanation of the error</li>
+                                            <li style="list-style-type: disc;">Correct Sales Number, Size and/or Quantity.</li>
+                                        </ul>
+                                        <p> If the order <b>CAN</b> be corrected, <b>Customer Service</b> will correct the error before shipping. If the order <b>CANNOT</b> be corrected, you must receive the order as originally placed.&#160; Once the order has been received, you may request approval within <b>forty-eight [48] hours</b> to return the <b>incorrectly ordered merchandise</b> to the <b>DSC</b> if the mistake falls into the <b>return guidelines</b>. </p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>
+                        <p>After placing your <b>STAR Order</b>, reference the <MadCap:xref href="STAR Order Pending &amp; Cancelled Lines Overview.htm">STAR Order Pending &amp; Cancelled Lines Overview</MadCap:xref> to verify which ordered products may not ship. Do not close the Purchase Order until all shipments have been received.</p>
+                        <p><i>Note:</i> Some <b>STAR orders</b> may be split, which means that stores may receive mulitple <b>STAR orders</b> from one site but only one from another. Even though the orders may be split, stores should place full orders each time.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Revision Details</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="revision-details">
+                    <table class="revision">
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Revision Type</th>
+                                <th>Description</th>
+                                <th>Requester - admin only</th>
+                                <th>Initial - admin only</th>
+                                <th>Misc - admin only</th>
+                                <th>Include in year end - admin only</th>
+                                <th>Doc Title, hidden</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="revdate">11/18</td>
+                                <td class="revtype">Revised</td>
+                                <td class="revdescrip">Incorporated information found in STAR Order Best Practices into this chapter.</td>
+                                <td class="revrequester">&#160;</td>
+                                <td class="revinitial">MC</td>
+                                <td class="revmisc">&#160;</td>
+                                <td class="revyear-end">&#160;</td>
+                                <td class="revdoc-title">&#160;</td>
+                            </tr>
+                            <tr>
+                                <td class="revdate">09/16</td>
+                                <td class="revtype">Revised</td>
+                                <td class="revdescrip">Clarified the STAR Order Receiving best practices regarding split orders.</td>
+                                <td class="revrequester">&#160;</td>
+                                <td class="revinitial">&#160;</td>
+                                <td class="revmisc">&#160;</td>
+                                <td class="revyear-end">&#160;</td>
+                                <td class="revdoc-title"><MadCap:variable name="System.Title" />
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

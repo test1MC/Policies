@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPageAccounting.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>Non-EDI Corcentric Purchase Order Overview</h1>
+        <p>All orders will be handled through a third-party company named <b>Corcentric</b> regardless of whether the vendor has the EDI system or not. After creating an <b>External Purchase Order</b> to a <b>non-EDI supplier</b>, it will be sent electronically to <b>Corcentric</b> and emailed to the vendor, who is required to create an account on the <b>Corcentric</b> website. Once complete, the acknowledgement will be sent electronically to the store. </p>
+        <table>
+            <col style="width: 278px;" />
+            <col />
+            <thead>
+                <tr>
+                    <th>
+                        <p>If</p>
+                    </th>
+                    <th>
+                        <p>Then</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>Vendor accepts</p>
+                    </td>
+                    <td>
+                        <p>PO is confirmed via an <b>855 Acknowledgement</b>. Stores will receive the product as ordered.</p>
+                        <p><i>Note</i>:&#160;Store users will no longer have the ability to update or change line item costs at time of receiving.&#160; This means the invoice and receipt cost will match and the invoice will successfully process through the 3-Way Match into the payables system. </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Vendor denies</p>
+                    </td>
+                    <td>
+                        <p>The reason will be noted on the acknowledgement and the purchase order will be canceled. If the vendor cannot fulfill the order, the manager will need to find another supplier. </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Vendor accepts or denies only certain line items</td>
+                    <td>A <b>Purchase Order Acknowledgement</b> is sent back to the store. The vendor will arrange shipment and issue an invoice.</td>
+                </tr>
+                <tr>
+                    <td>Vendor indicates a discrepancy to MFG&#160;Part Number</td>
+                    <td>A <b>MFG part number</b> change reported by the vendor on an <b>855 Acknowledgement</b> will now show on the stores acknowledgement report to make stores are aware of what the correct <b>MFG part number</b> is for future orders. The part numbers will be sent to the <b>Inventory Control Department</b> to update in our system if they are not already set up. </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Vendor raises the cost on the <b>PO Acknowledgement</b> being returned to the store</p>
+                    </td>
+                    <td>
+                        <p>The PO will be cancelled automatically.</p>
+                        <p><i>Note:</i> On cancelled POs, do not enter “0” quantity receipts. Allow the vendor to send back the cancellation acknowledgement, which will then automatically cancel the PO.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Cost returned from the vendor is lower than the original PO cost</p>
+                    </td>
+                    <td>
+                        <p>PO line item's cost will automatically be changed to reflect the cost returned from the vendor on the <b>855 Acknowledgment.</b></p>
+                        <p><i>Note:</i> This will ensure the invoice and receipt system match at the header level.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p><i>Note:</i> The POS will now display if vendor is a <b>Corcentric</b> vendor. Do no release PO’s with a generic <b>SKU</b> number since you will no longer be able to add it at time of receipt.&#160; Do not release PO until you have the correct <b>SKU number</b>.</p>
+        <table style="width: 100%;">
+            <col />
+            <col />
+            <thead>
+                <tr>
+                    <th>Step</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td colspan="2"><b>Cancel a Purchase Order</b>
+                    </td>
+                </tr>
+                <tr style="height: 286px;">
+                    <td>1</td>
+                    <td>
+                        <li>The vendor’s acknowledgement will be mapped by <b>Corcentric</b> back to the store.</li>
+                        <table style="width: 100%;">
+                            <col />
+                            <col />
+                            <thead>
+                                <tr>
+                                    <th>If</th>
+                                    <th>Then</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>The vendor accepts the <b>850 Acknowledgment</b></td>
+                                    <td>The product was not shipped and an invoice was not sent. The PO automatically cancels. <b>STOP</b>.</td>
+                                </tr>
+                                <tr>
+                                    <td>the vendor rejects or denies the <b>850 Acknowledgment</b></td>
+                                    <td>
+                                        <p>They have already shipped the product. Proceed to <b>Step 2.</b></p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>
+                        <p>Once the vendors’ rejected cancellation is received in <b>POS</b>, the PO will remain in a pending cancel status and the Manager should receive the order in <b>POS</b>, return the product to the vendor and create a chargeback in <b>MMS</b> for the return. </p>
+                        <p><i>Note:</i> Never cancel a PO until the vendor has been notified and advises to do so.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p><i>Note:</i> Currently,&#160;stores can view the <b>EDI PO Acknowledgement</b> for EDI vendors. This report will be received from all <b>Corcentric</b> vendors.</p>
+    </body>
+</html>

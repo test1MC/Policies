@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPagePOSTransactions.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>Credit or Debit Card Transaction with Customer Present Procedure</h1>
+        <table>
+            <thead>
+                <tr>
+                    <td><strong>Step</strong>
+                    </td>
+                    <td><strong>Action</strong>
+                    </td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <p>From <b>POS desktop</b>, select <b>Store</b> -&gt; <b>Point of Sale</b> -&gt; <b>Sale</b> -&gt; Enter customer information and items for purchase -&gt; Select <b>Credit/Debit</b> at the <b>Form of Payment Menu</b>. The customer has the option to place the entire amount on one or more credit cards, or to pay with a combination of cash, check, and credit card.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>2</p>
+                    </td>
+                    <td>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <td>
+                                        <p><b>If</b>
+                                        </p>
+                                    </td>
+                                    <td>
+                                        <p><b>Then</b>
+                                        </p>
+                                    </td>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td style="font-weight: bold;">
+                                        <p>Chip-Enabled Card</p>
+                                    </td>
+                                    <td>
+                                        <p>The customer should insert the chip</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="font-weight: bold;">
+                                        <p>Not Chip-Enabled Card</p>
+                                    </td>
+                                    <td>
+                                        <p>The customer should swipe the card</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p>Note: The terminal will timeout after 30 seconds of inactivity. To cancel payment, have the customer press the <b>X button</b>. If the card is damaged, customers may key in card numbers. They must then enter the card’s expiration date, <b>CVV</b>, and zip code. The zip code must be the same one given to the credit card issuer when the customer originally opened the credit card account. The zip code will not be required for <b>SWAT transactions</b> (when they are processed at the store), <b>E-Commerce transactions</b>, credits to the customer, and <b>Wallcovering Book Checkout</b>. After three failed attempts at entering the chip, request a different form of payment. </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>3</p>
+                    </td>
+                    <td>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <td>
+                                        <p><b>If</b>
+                                        </p>
+                                    </td>
+                                    <td>
+                                        <p><b>Then</b>
+                                        </p>
+                                    </td>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <p>Debit</p>
+                                    </td>
+                                    <td>
+                                        <p>Customer should enter <b>PIN</b> on <b>PAX</b></p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>Debit but want to run as Credit</p>
+                                    </td>
+                                    <td>Customer should press the green button to bypass <b>PIN</b> entry</td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>Credit</p>
+                                    </td>
+                                    <td>Customer should sign the <b>PAX</b></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>4</p>
+                    </td>
+                    <td>
+                        <p>The <b>PAX Credit Card Machine</b> will then automatically call out for authorization and return it in about thirty (30) seconds. </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>5</p>
+                    </td>
+                    <td>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <td><strong>If</strong>
+                                    </td>
+                                    <td><strong>Then</strong>
+                                    </td>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <p>The credit card transaction is approved</p>
+                                    </td>
+                                    <td>
+                                        <p>The system will return the following message: <b>Credit card transaction is APPROVED</b>.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>The credit card transaction is declined</p>
+                                    </td>
+                                    <td>
+                                        <p>Follow the <MadCap:xref href="Declined Credit Card Transaction Procedure.htm">Declined Credit Card Transaction Procedure</MadCap:xref>.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>The credit card is only approved for partial payment</p>
+                                    </td>
+                                    <td>
+                                        <p>Follow the <MadCap:xref href="Partial Credit Approval Procedure.htm">Partial Credit Approval Procedure</MadCap:xref>.</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>6</p>
+                    </td>
+                    <td>
+                        <p>Give the customer a copy of the transaction and place the remaining copies of the invoice in the forms container. </p>
+                        <p>Note:&#160; All processed manual forms, including <b>imprinted manual credit card forms</b> and <b>processed manual POST forms</b>, must be retained in a folder titled <b>MANUAL POST FORMS – USED</b> and placed in a locked filing cabinet or locked store safe to protect customer information. The processed <b>manual POST form</b> must be retained for 5 years plus the current year. However, the <b>manual credit card imprint</b> may be cross-cut shredded after 18 months. For more information see <MadCap:xref href="Credit Card Information Retention and Disposal Policy.htm">Credit Card Information Retention and Disposal Policy</MadCap:xref> and <MadCap:xref href="../../01 Accounting &amp; Filing/01-04 Filing &amp; Retention/Destroy Records Policy.htm">Destroy Records Policy</MadCap:xref>.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Revision Details</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="revision-details">
+                    <table class="revision">
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Revision Type</th>
+                                <th>Description</th>
+                                <th>Requester - admin only</th>
+                                <th>initial - admin only</th>
+                                <th>misc - admin only</th>
+                                <th>include in year end - admin only</th>
+                                <th>Doc Title, hidden</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="revdate">02/18</td>
+                                <td class="revtype">Revised</td>
+                                <td class="revdescrip">Procedures have been added to account to the switch the PAX credit card payment terminals, including information on Card Not Present Transactions and Partial Credit Authorizations.
+
+</td>
+                                <td class="revrequester">&#160;</td>
+                                <td class="revinitial">&#160;</td>
+                                <td class="revmisc">&#160;</td>
+                                <td class="revyear-end">&#160;</td>
+                                <td class="revdoc-title"><MadCap:variable name="System.Title" />
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

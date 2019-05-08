@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h1>Suggested STAR Order Overview</h1>
+        <ul>
+            <li>If the <b>maximum level</b> is less than one of the <b>minimum ship quantities</b>, all items on the <b>Suggested STAR Purchase Order</b> that have <b>Memo Demand</b> and/or a previous <b>on-order quantity</b> are placed at the bottom of the <b>Suggested STAR Purchase Order</b>. It is important to view the entire <b>Suggested STAR Order</b> and check for any <b>zero quantities</b>. All of these quantities should fall to the bottom because they would have been previously ordered but not received. Press <b>VIEW [F7</b>] to scroll through <b>Memo Demands</b>, on order, etc. for each product.&#160;</li>
+            <li>If the product has a <b>Minimum Ship quantity</b> associated with it, the nearest multiple of that <b>Minimum Ship quantity</b>, without exceeding the <b>original suggested quantity</b>, is used. If the <b>original suggested quantity</b> is smaller than the <b>Minimum Ship quantity</b> then the <b>Minimum Ship quantity</b> is used instead. After this calculation is done, the quantity is adjusted for <b>Twos, Fives and Drums</b> based on the <b>product size code</b> to the nearest factor of 2, 5, or 55 respectively. This finally gives the number that is placed on the <b>STAR order</b> for that product.</li>
+            <li>You may add products to your <b>Suggested STAR</b> by typing in the <b>Sales Number</b> and <b>quantity desired</b> at the end of the order.</li>
+        </ul>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p>If</p>
+                    </th>
+                    <th>
+                        <p>Then</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>The sum of the <b>On Hand quantity</b> and the <b>On Order quantity</b> exceeds the <b>minimum in stock quantity</b></p>
+                    </td>
+                    <td>
+                        <p>Order <b>nothing</b> for the <b>store stock</b>. If there is any <b>outstanding memo demand</b> then the <b>memo demand quantity</b> is ordered.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>The sum of the <b>On Hand quantity</b> and the <b>On Order quantity</b> does not exceed the <b>minimum in stock quantity</b></p>
+                    </td>
+                    <td>
+                        <p>Order only the amount that, when added to what is currently On Hand and currently On Order, will total the <b>Maximum in stock limit</b>. If there is any <b>outstanding memo demand</b>, then that <b>quantity</b> is added to the <b>total</b>.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p><i>Note:</i> In the event that the <b>On Order quantity</b> falls below <b>zero [0]</b>, which is normal in the midst of the receiving process, the <b>On Order quantity</b> is not considered in the above calculations.</p>
+        <p><b>On-Order Quantity is Greater or Equal to 0:</b>
+        </p>
+        <ul>
+            <li style="font-weight: normal;">On-Hand + On-Order &gt; Minimum:</li>
+            <li style="font-weight: normal;">Suggested = Memo-demand</li>
+            <li style="font-weight: normal;">On-Hand + On-Order &lt;= Minimum:</li>
+            <li>This formula is used: <b>Suggested = Maximum – On-Hand – On-Order + memo-demand</b></li>
+        </ul>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p>If</p>
+                    </th>
+                    <th>
+                        <p>Then</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>Min-ship-qty &lt;&gt; and the calculated suggested &lt;&gt; 0</p>
+                    </td>
+                    <td>
+                        <p>Suggested is recalculated as follows:</p>
+                        <ul>
+                            <li><b>Suggested = ((Maximum – On-Hand – On-Order + memo-demand) / Min-ship-qty)</b>
+                            </li>
+                            <li>Truncate off the decimal leaving only the whole number. Finish by making</li>
+                            <li><b>Suggested = Suggested * Min-ship-qty.</b>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Suggested = 0</p>
+                    </td>
+                    <td>
+                        <p>Suggested = Min-ship-qty</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>After this calculation is done, the quantity is adjusted for <b>Twos, Fives and Drums</b> based on the size code and adjusting to the nearest factor of 2, 5, or 55 respectively.</p>
+        <p><b>On-Order Quantity is Less Than Zero:</b>
+        </p>
+        <ul>
+            <li style="font-weight: bold;"><span style="font-weight: normal;">On-Hand Quantity &gt; Minimum:</span>
+            </li>
+        </ul>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p style="font-weight: bold;">If</p>
+                    </th>
+                    <th>
+                        <p style="font-weight: bold;">Then</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="font-weight: normal;">
+                        <p style="font-weight: bold;"><span style="font-weight: normal;">Memo-demand = 0</span>
+                        </p>
+                    </td>
+                    <td style="font-weight: normal;">
+                        <p style="font-weight: bold;"><span style="font-weight: normal;">Suggested-qty = 0</span>
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-weight: normal;">
+                        <p style="font-weight: bold;"><span style="font-weight: normal;">Memo-demand &gt; 0</span>
+                        </p>
+                    </td>
+                    <td style="font-weight: normal;">
+                        <p style="font-weight: bold;"><span style="font-weight: normal;">Suggested-qty = memo-demand</span>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <ul>
+            <li style="font-weight: bold;">On-Hand Quantity &lt;= Minimum:</li>
+            <li>This formula is used: Suggested = Maximum – On-Hand + memo-demand</li>
+        </ul>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p>If</p>
+                    </th>
+                    <th>
+                        <p>Then</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>Min-ship-qty &lt;&gt; 0 and the calculated suggested &lt;&gt; 0</p>
+                    </td>
+                    <td>
+                        <p>Suggested is re-calculated as follows:</p>
+                        <ul>
+                            <li><b>Suggested = ((Maximum – On-Hand + memo-demand) / Min-ship-qty)</b>
+                            </li>
+                            <li>Truncate off the decimal leaving only the whole number. </li>
+                            <li>Finish by making <b>Suggested = Suggested * Min-ship-qty.</b></li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Suggested = 0</p>
+                    </td>
+                    <td>
+                        <p><b>Suggested = Min-ship-qty</b>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Revision Details</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="revision-details">
+                    <table class="revision">
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Revision Type</th>
+                                <th>Description</th>
+                                <th>Requester - admin only</th>
+                                <th>initial - admin only</th>
+                                <th>misc - admin only</th>
+                                <th>include in year end - admin only</th>
+                                <th>Doc Title, hidden</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="revdate">12/18</td>
+                                <td class="revtype">Revised</td>
+                                <td class="revdescrip">Incorporated information from STAR Order Best Practices Overview, Suggested STAR Order Calculation, Suggested Shipping Quantity Overview, On-Order Quantity Less Than Zero Overview, On-Order Quantity Greater or Equal to Zero Overview into this topic.</td>
+                                <td class="revrequester">&#160;</td>
+                                <td class="revinitial">MC</td>
+                                <td class="revmisc">&#160;</td>
+                                <td class="revyear-end">&#160;</td>
+                                <td class="revdoc-title">&#160;</td>
+                            </tr>
+                            <tr>
+                                <td class="revdate">12/18</td>
+                                <td class="revtype">New</td>
+                                <td class="revdescrip">Created a new chapter to outline information specific to Suggested STAR Orders.</td>
+                                <td class="revrequester">&#160;</td>
+                                <td class="revinitial">MC</td>
+                                <td class="revmisc">&#160;</td>
+                                <td class="revyear-end">&#160;</td>
+                                <td class="revdoc-title"><MadCap:variable name="System.Title" />
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

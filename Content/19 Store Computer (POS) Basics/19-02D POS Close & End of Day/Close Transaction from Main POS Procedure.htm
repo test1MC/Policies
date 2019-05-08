@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPagePOSBasics.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>Close Transaction from Main POS Procedure</h1>
+        <p>For stores with more than one <b>POS</b>, the <b>main system</b> should be closed last. You can identify the <b>main system</b> by referring to the <b>Login Screen</b>. The <b>main system</b> is identified as ‘<b>pos####</b>’ (<b>#### = store number</b>). Other <b>POS systems</b> will be identified as <b>clients</b> (<b>clntx####</b>). Contact <b>Store Computer Operations</b> at 216-566-2740 if you cannot identify the <b>main system</b>.</p>
+        <table>
+            <thead>
+                <tr>
+                    <th><strong>Step</strong>
+                    </th>
+                    <th><strong>Action</strong>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <p>Rather than having multiple deposits per night, stores will now only have a single deposit for all terminals. Each terminal will still need to be closed, but  the last terminal (<b>main POS</b>) closed will provide the amounts needed for the deposit and the combined deposit amount.</p>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th><strong>If</strong>
+                                    </th>
+                                    <th><strong>Then</strong>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <p>Other terminals are still open</p>
+                                    </td>
+                                    <td>
+                                        <p>Count the secondary terminals’ drawers. See <MadCap:xref href="Drawer Count Procedure.htm">Drawer Count  Procedure</MadCap:xref>.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>All terminals have been closed except for the <b>main POS</b></p>
+                                    </td>
+                                    <td>
+                                        <p>Count the drawer and continue to <b>Step 2</b>.</p>
+                                        <p>Note: Only close the <b>main POS</b> after all additional units as well as the <b>Manager’s Workstation</b> have been closed and returned to <b>LOGIN</b>.</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>2</p>
+                    </td>
+                    <td>
+                        <p>From <b>POS desktop</b>, select <b>Store</b> -&gt; <b>Point of Sale</b> -&gt; Select <b>Close</b> from the <b>Sale Payment Menu</b>. All of the information entered at the <b>manager’s office system</b> will be on the <b>Close</b> screen.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>3</p>
+                    </td>
+                    <td>
+                        <p>Follow the prompts to input cash and coin amounts.</p>
+                        <p>Note: This information will automatically populate if the <b>Pre-Close Drawer Count</b> was already completed.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>4</p>
+                    </td>
+                    <td>
+                        <p>The computer system will prompt you to enter the dollar amount of each check. After completing the <b>Close Transaction</b>, the check amount will return to the screen with the difference displaying in the <b>[+/-] Column</b>. </p>
+                        <p>Note: Press <b>CANCEL [F5]</b> to review the check amounts if there is a difference between the transaction check amount and the actual dollar amount of the check. Verify that the validated amount (back of the check) matches the check dollar amount (front of the check). If you choose to continue, enter the reason for the check variance when you see the <b>Check Variance screen</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>5</p>
+                    </td>
+                    <td>
+                        <p>The computer system will automatically balance the credit card transactions processed for the day. It can only balance credit cards run through the <b>POS</b>. <b>Manual forms</b> not run through the <b>POS</b> will not be balanced.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>6</p>
+                    </td>
+                    <td>
+                        <p>Press <b>ACCEPT [F1]</b> after entering all <b>Cash, Checks, and Credit Cards</b> into the <b>Close Worksheet</b>. The <b>over/short</b> amount will return to the screen. Verify the <b>over/short</b> amount by entering the exact dollar amount. Enter the reason for the <b>over/short</b>. </p>
+                        <p>
+                            <img src="../../Resources/Images/08-06/Close_1.jpg" />
+                        </p>
+                        <p>Note: A maximum of three comment lines can be used to describe specifics about a <b>close</b>. Include any specific comments that would help to explain any discrepancies found on the <b>Close transaction</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>7</p>
+                    </td>
+                    <td>
+                        <p>Enter <b>Y</b> to the prompt, "O.K. to continue?" Answer <b>[Y]</b> or <b>[N]</b>.</p>
+                        <p>Note: Before answering <b>[Y]</b>, review all of the information and make any necessary changes. If errors are discovered after accepting the <b>close amount</b>, the <b>Close transaction</b> will need to be voided.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>8</p>
+                    </td>
+                    <td>
+                        <p>If everything is correct, press <b>ACCEPT [F1]</b>. If not, make any necessary additions or corrections and press <b>ACCEPT [F1]</b>. </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>9</p>
+                    </td>
+                    <td>
+                        <p>The screen below will prompt for the <b>deposit bag number</b>:</p>
+                        <p>
+                            <img src="../../Resources/Images/08-06/Close_1_1.jpg" />
+                        </p>
+                        <p>Note: All cash and checks from each terminal will be put into a single <b>deposit slip</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>10</p>
+                    </td>
+                    <td>
+                        <p>The following message will appear: "Is the Deposit Bag Number Correct?" Enter <b>Y [Yes]</b>.</p>
+                        <p>
+                            <img src="../../Resources/Images/08-06/Close_1_2.jpg" />
+                        </p>
+                        <p>Note: <b>Deposit slip</b> will be validated after entering the <b>Deposit Bag Number</b>.</p>
+                        <p>
+                            <img src="../../Resources/Images/08-06/Close_1_3.jpg" />
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>11</p>
+                    </td>
+                    <td>
+                        <p>When prompted by the following message: "Is the Validated Amount on the Bank Deposit Ticket Correct?" Answer <b>[Y]</b> or <b>[N]</b>. The last terminal will print the combined <b>deposit slip</b>.</p>
+                        <p>
+                            <img src="../../Resources/Images/08-06/Close_1.png" />
+                        </p>
+                        <p>Note: As part of the <b>Close</b>, the system will generate a <b>Check Log</b> from the information entered during check transactions.&#160; To review the <b>Check Log</b>: from <b>POS desktop</b>, select <b>Store</b> -&gt; Press <b>Inquiry [F4]</b> -&gt; <b>Daily Store Information</b> -&gt; <b>Check Log</b>. </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Revision Details</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="revision-details">
+                    <table class="revision">
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Revision Type</th>
+                                <th>Description</th>
+                                <th>Requester - admin only</th>
+                                <th>initial - admin only</th>
+                                <th>misc - admin only</th>
+                                <th>include in year end - admin only</th>
+                                <th>Doc Title, hidden</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="revdate">04/16</td>
+                                <td class="revtype">Revised</td>
+                                <td class="revdescrip">No Description. </td>
+                                <td class="revrequester">&#160;</td>
+                                <td class="revinitial">&#160;</td>
+                                <td class="revmisc">&#160;</td>
+                                <td class="revyear-end">&#160;</td>
+                                <td class="revdoc-title"><MadCap:variable name="System.Title" />
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

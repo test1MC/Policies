@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPagePricing.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>Dollar Value Exception (DVE) Overview</h1>
+        <p><strong class="Strong">Dollar Value Exceptions</strong> (<strong class="Strong">DVEs</strong>) can be entered at the <strong class="Strong">SKU</strong> or <strong class="Strong">Category level</strong>. </p>
+        <table>
+            <thead>
+                <tr>
+                    <th><strong class="Strong">PRC</strong>
+                    </th>
+                    <th><strong class="Strong">Level</strong>
+                    </th>
+                    <th>
+                        <p><strong class="Strong">Safe Cat</strong><strong class="Strong">egory</strong>
+                        </p>
+                    </th>
+                    <th><strong class="Strong">Outcome</strong>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>01</p>
+                    </td>
+                    <td style="font-weight: bold;">
+                        <p>SKU</p>
+                    </td>
+                    <td>
+                        <p>No</p>
+                    </td>
+                    <td>
+                        <p>Adds <b>SKU level DVE</b> and appropriate <b>product size code</b></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>01</p>
+                    </td>
+                    <td style="font-weight: bold;">
+                        <p>SKU</p>
+                    </td>
+                    <td>
+                        <p>Yes</p>
+                    </td>
+                    <td>
+                        <p>Automatically converts <b>SKU</b> to <b>Category DVE</b> with appropriate <b>product size code</b></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>01</p>
+                    </td>
+                    <td style="font-weight: bold;">
+                        <p>Category</p>
+                    </td>
+                    <td>
+                        <p>No</p>
+                    </td>
+                    <td>
+                        <p>Returns <b>Invalid/Unsafe Error Message</b> and will not allow <b>DVE</b></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>01</p>
+                    </td>
+                    <td style="font-weight: bold;">
+                        <p>Category</p>
+                    </td>
+                    <td>
+                        <p>Yes</p>
+                    </td>
+                    <td>
+                        <p>System checks to determine if <b>Category</b> is <b>Brand Safe</b>:</p>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th><strong class="Strong">If</strong>
+                                    </th>
+                                    <th><strong class="Strong">Then</strong>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <p>Safe</p>
+                                    </td>
+                                    <td>
+                                        <p>Adds other sheens (other <b>Categories</b>) and appropriate <b>size code</b></p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>Not Safe</p>
+                                    </td>
+                                    <td>
+                                        <p>Adds only selected <b>Category</b> and appropriate <b>size code</b></p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Other</p>
+                    </td>
+                    <td style="font-weight: bold;">
+                        <p>SKU</p>
+                    </td>
+                    <td>
+                        <p>No</p>
+                    </td>
+                    <td>
+                        <p>Adds <b>SKU level DVE</b> and appropriate <b>product size code</b></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Other</p>
+                    </td>
+                    <td style="font-weight: bold;">
+                        <p>SKU</p>
+                    </td>
+                    <td>
+                        <p>Yes</p>
+                    </td>
+                    <td>
+                        <p>Option to convert to <b>Category DVE</b> with other <b>size code</b></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Other</p>
+                    </td>
+                    <td style="font-weight: bold;">
+                        <p>Category</p>
+                    </td>
+                    <td>
+                        <p>No</p>
+                    </td>
+                    <td>
+                        <p>Returns <b>Invalid/Unsafe Error Message</b> and will not allow <b>DVE</b></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Other</p>
+                    </td>
+                    <td style="font-weight: bold;">
+                        <p>Category</p>
+                    </td>
+                    <td>
+                        <p>Yes</p>
+                    </td>
+                    <td>
+                        <p>Add <b>Category DVE</b> and appropriate <b>product size code</b></p>
+                        <p>Note: <b>Brand Pricing</b> is only available on <b>PRC 01</b>.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>Note: Only <b>Fives (size code 20)</b> and <b>Singles (size code 16)</b> can be added. Other <b>size codes</b> must be entered separately. </p>
+    </body>
+</html>

@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPagePOSTransactions.flmsp');">
+    <head>
+    </head>
+    <body>
+        <h1>Gift Card Return Procedure</h1>
+        <h2>Process a Return Transaction for a Gift Card or a Cash Refund for the Balance on a Gift Card.</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th><strong>Step</strong>
+                    </th>
+                    <th><strong>Action</strong>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>
+                        <table style="width: 100%;">
+                            <col />
+                            <col />
+                            <thead>
+                                <tr>
+                                    <th>If</th>
+                                    <th>Then</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td style="font-weight: bold;">Cash Refund (Select States Only)</td>
+                                    <td>Proceed to <b>Step 2</b>.</td>
+                                </tr>
+                                <tr>
+                                    <td style="font-weight: bold;">Gift Card Refund</td>
+                                    <td>
+                                        <p>If the customer only has the original receipt, send an email to <b>FSS Bookkeeping</b> at <a href="mailto:bank.questions@sherwin.com">bank.questions@sherwin.com</a>. Please include the following information:</p>
+                                        <ul>
+                                            <li style="font-weight: bold;">Terminal and Transaction Number</li>
+                                            <li style="font-weight: bold;">Transaction Date</li>
+                                            <li style="font-weight: bold;">Gift Card Number</li>
+                                            <li style="font-weight: bold;">Customer Name, City, State, Zip Code, and Phone Number</li>
+                                            <li style="font-weight: bold;">Proposed Gift Card Balance</li>
+                                            <li style="font-weight: bold;">4-Digit Store Number</li>
+                                            <li style="font-weight: bold;">Store Contact</li>
+                                        </ul>
+                                        <p style="font-weight: bold;"><span style="font-weight: normal;">If a replacement is approved by </span>FSS Bookkeeping<span style="font-weight: normal;">, deactivate the original card and issue a replacement using the procedure below.</span></p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>
+                        <p>From <b>POS&#160;desktop</b>, select <b>Store</b> -&gt; <b>Point of Sale</b> -&gt; Select <b>Return</b> from <b>Sale/Payment Menu</b> -&gt; Select <b>Reason</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>3</p>
+                    </td>
+                    <td>
+                        <p>If available, scan the barcode at the bottom of the original receipt.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>
+                        <table style="width: 100%;">
+                            <col />
+                            <col />
+                            <thead>
+                                <tr>
+                                    <th>If</th>
+                                    <th>Then</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td style="font-weight: bold;">Cash Refund (Only Select States)</td>
+                                    <td>
+                                        <table style="width: 100%;">
+                                            <col />
+                                            <col />
+                                            <thead>
+                                                <tr>
+                                                    <th>If</th>
+                                                    <th>Then</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td>Current store is not the original selling store</td>
+                                                    <td>
+                                                        <p>Enter the original terminal/transaction number and date.</p>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <p>The customer only has the <b>Gift Card</b></p>
+                                                    </td>
+                                                    <td>
+                                                        <p>Press <b>ENTER</b> three times. Do not enter anything in the terminal/transaction number and date fields.</p>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="font-weight: bold;">Gift Card Refund</td>
+                                    <td>
+                                        <table style="width: 100%;">
+                                            <col />
+                                            <col />
+                                            <thead>
+                                                <tr>
+                                                    <th>If</th>
+                                                    <th>Then</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td>Current store is not the original selling store</td>
+                                                    <td>Enter the original terminal/transaction number and date.</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <p>The customer only has the original damaged card</p>
+                                                    </td>
+                                                    <td>
+                                                        <p>Press <b>ENTER</b> three times. Do not enter anything in the terminal/transaction number and date fields.</p>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>5</p>
+                    </td>
+                    <td>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th><strong>If</strong>
+                                    </th>
+                                    <th><strong>Then</strong>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <p>Current store is not the original selling store</p>
+                                    </td>
+                                    <td>
+                                        <p>Enter the original terminal/transaction number and date.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>The customer only has the original damaged card</p>
+                                    </td>
+                                    <td>
+                                        <p>Press <b>ENTER</b> three times. Do not enter anything in the terminal/transaction number and date fields.</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>6</p>
+                    </td>
+                    <td>
+                        <p>Complete customer information is required, including: customer name, address, city, state, zip code, and phone number.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>7</p>
+                    </td>
+                    <td>
+                        <p>Add the <b>Gift Card</b> line item to the return:</p>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th><strong>If</strong>
+                                    </th>
+                                    <th><strong>Then</strong>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <p>Able to scan the original receipt</p>
+                                    </td>
+                                    <td>
+                                        <p>Press <b>LOOKUP [F3]</b> to select the original line entry.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>Receipt information is unavailable or entered manually</p>
+                                    </td>
+                                    <td>
+                                        <p>Press <b>ENTER</b> when prompted to enter the <b>Sales/Product Number</b>. Select <b>Gift Card</b> from the <b>Non-Merchandise Menu</b>.</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>8</p>
+                    </td>
+                    <td>
+                        <p>Swipe the <b>Gift Card</b> when prompted. The computer system will automatically retrieve the available balance on the <b>Gift Card</b> and return it to the screen. </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>9</p>
+                    </td>
+                    <td>
+                        <table style="width: 100%;">
+                            <col />
+                            <col />
+                            <thead>
+                                <tr>
+                                    <th>If</th>
+                                    <th>Then</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td style="font-weight: bold;">Cash Refund (Select States Only)</td>
+                                    <td>Press <b>TOTAL [F12]</b> and select <b>Cash</b> from the <b>Form of Refund Menu</b>.</td>
+                                </tr>
+                                <tr>
+                                    <td style="font-weight: bold;">Gift Card Refund</td>
+                                    <td>
+                                        <p>Press <b>TOTAL [F12]</b> and select <b>Gift Card</b> from the <b>Form of Refund Menu</b>.</p>
+                                        <p>Activate a new <b>Gift Card</b> using the <b>Credit Card Authorization Reader</b>. Swipe the new card when prompted. The new card will be activated for the same amount processed on the <b>Return Transaction</b>.</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Revision Details</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="revision-details">
+                    <table class="revision">
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Revision Type</th>
+                                <th>Description</th>
+                                <th>Requester - admin only</th>
+                                <th>initial - admin only</th>
+                                <th>misc - admin only</th>
+                                <th>include in year end - admin only</th>
+                                <th>Doc Title, hidden</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="revdate">07/18</td>
+                                <td class="revtype">Revised</td>
+                                <td class="revdescrip">&#160;</td>
+                                <td class="revrequester">&#160;</td>
+                                <td class="revinitial">Incorporated info from Cash Refunds for Gift Cards Procedure topic</td>
+                                <td class="revmisc">&#160;</td>
+                                <td class="revyear-end">&#160;</td>
+                                <td class="revdoc-title"><MadCap:variable name="System.Title" />
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

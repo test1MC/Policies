@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin Version="2" SkinType="Component" Comment="HTML5 Menu skin" ComponentType="Menu" EnableResponsiveOutput="True">
+    <Stylesheet>
+        <Styles>
+            <Style Name="Menu Item">
+                <Classes>
+                    <StyleClass Name="1st Level">
+                        <Properties>
+                            <Property Name="PaddingLeft">10px</Property>
+                        </Properties>
+                    </StyleClass>
+                    <StyleClass Name="2nd Level">
+                        <Properties>
+                            <Property Name="PaddingLeft">20px</Property>
+                        </Properties>
+                    </StyleClass>
+                    <StyleClass Name="3rd Level">
+                        <Properties>
+                            <Property Name="PaddingLeft">30px</Property>
+                        </Properties>
+                    </StyleClass>
+                    <StyleClass Name="4th Level">
+                        <Properties>
+                            <Property Name="PaddingLeft">40px</Property>
+                        </Properties>
+                    </StyleClass>
+                    <StyleClass Name="Selected">
+                        <Properties>
+                            <Property Name="FontWeight">normal</Property>
+                        </Properties>
+                    </StyleClass>
+                </Classes>
+                <Properties>
+                    <Property Name="BackgroundColor">inherit</Property>
+                </Properties>
+            </Style>
+            <Style Name="Menu">
+                <Properties>
+                    <Property Name="Color">inherit</Property>
+                    <Property Name="BackgroundColor">inherit</Property>
+                    <Property Name="PaddingLeft">0px</Property>
+                    <Property Name="PaddingRight">0px</Property>
+                    <Property Name="PaddingTop">0px</Property>
+                    <Property Name="PaddingBottom">0px</Property>
+                    <Property Name="Width">100%</Property>
+                </Properties>
+            </Style>
+            <Style Name="Menu Item (hover)">
+                <Properties>
+                    <Property Name="BackgroundColor">inherit</Property>
+                </Properties>
+            </Style>
+        </Styles>
+    </Stylesheet>
+    <Strings />
+</CatapultSkin>

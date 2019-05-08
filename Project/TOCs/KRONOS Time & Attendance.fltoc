@@ -1,0 +1,589 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/28 KRONOS Time &amp; Attendance/Kronos Time &amp; Attendance.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="28-01 Kronos">
+    <TocEntry
+      Title="Kronos Basic Functions Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-01 Kronos/Kronos Basic Functions Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Kronos Data Dependence Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-01 Kronos/Kronos Data Dependence Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Kronos Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-01 Kronos/Kronos Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Kronos Roles Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-01 Kronos/Kronos Roles Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-02 Kronos Access">
+    <TocEntry
+      Title="Co-Located Stores Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-02 Kronos Access/Co-Located Stores Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="mySherwin Kronos Access Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-02 Kronos Access/mySherwin Kronos Access Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Personal Device Kronos Access Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-02 Kronos Access/Personal Device Kronos Access Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="POS Kronos Access Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-02 Kronos Access/POS Kronos Access Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-02A Kronos Navigation">
+    <TocEntry
+      Title="Kronos Alerts Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-02A Kronos Navigation/Kronos Alerts Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Kronos Employee Landing Page Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-02A Kronos Navigation/Kronos Employee Landing Page Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Kronos Manage My Department Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-02A Kronos Navigation/Kronos Manage My Department Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Kronos Manager Landing Page Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-02A Kronos Navigation/Kronos Manager Landing Page Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Kronos My Calendar Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-02A Kronos Navigation/Kronos My Calendar Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Kronos Save Button Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-02A Kronos Navigation/Kronos Save Button Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Kronos Schedule Planner Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-02A Kronos Navigation/Kronos Schedule Planner Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Kronos Timecards Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-02A Kronos Navigation/Kronos Timecards Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Kronos Widgets Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-02A Kronos Navigation/Kronos Widgets Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-02B Kronos Inbox">
+    <TocEntry
+      Title="Kronos Inbox Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-02B Kronos Inbox/Kronos Inbox Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-03 Store Staffing">
+    <TocEntry
+      Title="Store Scheduling Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-03 Store Staffing/Store Scheduling Overview .htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Scheduling Policy"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-03 Store Staffing/Store Scheduling Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-03A Availability">
+    <TocEntry
+      Title="Kronos Availability Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-03A Availability/Kronos Availability Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Kronos Availability Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-03A Availability/Kronos Availability Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-03B Patterns">
+    <TocEntry
+      Title="Create Kronos Pattern Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-03B Patterns/Create Kronos Pattern Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Kronos Patterns Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-03B Patterns/Kronos Patterns Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-03C Suggested Schedule">
+    <TocEntry
+      Title="Kronos Auto Scheduler Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-03C Suggested Schedule/Kronos Auto Scheduler Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Review Suggested Schedule Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-03C Suggested Schedule/Review Suggested Schedule Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Review Target Hours Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-03C Suggested Schedule/Review Target Hours Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-03D Schedule Edits">
+    <TocEntry
+      Title="Add, Edit, or Delete Shift Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-03D Schedule Edits/Add, Edit, or Delete Shift Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Assign Borrowed Employee Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-03D Schedule Edits/Assign Borrowed Employee Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Assign Job Transfer Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-03D Schedule Edits/Assign Job Transfer Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Fill Open Shift or Unassign Shift Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-03D Schedule Edits/Fill Open Shift or Unassign Shift Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Kronos Schedule Editing Tools Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-03D Schedule Edits/Kronos Schedule Editing Tools Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Kronos Schedule Edits Help"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-03D Schedule Edits/Kronos Schedule Edits Help.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Kronos Schedule Edits Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-03D Schedule Edits/Kronos Schedule Edits Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Labor Level Transfer Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-03D Schedule Edits/Labor Level Transfer Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-03E Schedule Posting">
+    <TocEntry
+      Title="Post Schedule Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-03E Schedule Posting/Post Schedule Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Schedule Posting Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-03E Schedule Posting/Schedule Posting Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Un-Post Schedule Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-03E Schedule Posting/Un-Post Schedule Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-03F Open Shifts">
+    <TocEntry
+      Title="Open Shift Assignment Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-03F Open Shifts/Open Shift Assignment Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Open Shift Request Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-03F Open Shifts/Open Shift Request Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Open Shifts Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-03F Open Shifts/Open Shifts Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-03G Shift Swap">
+    <TocEntry
+      Title="Shift Swap Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-03G Shift Swap/Shift Swap Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Shift Swap Request Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-03G Shift Swap/Shift Swap Request Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-03H Employee Printed Schedule">
+    <TocEntry
+      Title="Employee Printed Schedule Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-03H Employee Printed Schedule/Employee Printed Schedule Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Print Employee Schedule Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-03H Employee Printed Schedule/Print Employee Schedule Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-04 Recording Attendance">
+    <TocEntry
+      Title="Attendance &amp; Time Policy"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-04 Recording Attendance/Attendance &amp; Time Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Record Attendance &amp; Time Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-04 Recording Attendance/Record Attendance &amp; Time Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Timestamp &amp; Timecard Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-04 Recording Attendance/Timestamp &amp; Timecard Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Timestamp Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-04 Recording Attendance/Timestamp Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-04B Borrowed">
+    <TocEntry
+      Title="Borrowed Employee Clock-In Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-04B Borrowed/Borrowed Employee Clock In-Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Borrowed Employee Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-04B Borrowed/Borrowed Employee Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Borrowing Correction Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-04B Borrowed/Borrowing Correction Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-04B Borrowed/Schedule Borrowed Employee Procedure.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-04C Attendance &amp; Time Downtime">
+    <TocEntry
+      Title="Attendance &amp; Time Downtime Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-04C Attendance &amp; Time Downtime/Attendance &amp; Time Downtime Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Manual Attendance &amp; Time Policy"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-04C Attendance &amp; Time Downtime/Manual Attendance &amp; Time Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Manual Attendance &amp; Time Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-04C Attendance &amp; Time Downtime/Manual Attendance &amp; Time Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-04D Meal Breaks">
+    <TocEntry
+      Title="California Meal Breaks Policy"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-04D Meal Breaks/California Meal Breaks Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Meal Breaks Policy"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-04D Meal Breaks/Meal Breaks Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="New York Meal Breaks Policy"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-04D Meal Breaks/New York Meal Breaks Policy .htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-05 Paid &amp; Unpaid Time-Off">
+    <TocEntry
+      Title="Paid &amp; Unpaid Time-Off Policy"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05 Paid &amp; Unpaid Time-Off/Paid &amp; Unpaid Time-Off Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Time-Off Request Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05 Paid &amp; Unpaid Time-Off/Time-Off Request Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-05A Time-Off Requests">
+    <TocEntry
+      Title="Cancel Time-Off Request Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05A Time-Off Requests/Cancel Time-Off Request Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Manager Approval of Time-Off Requests Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05A Time-Off Requests/Manager Approval of Time-Off Requests Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Manager-Entered Time-Off Request Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05A Time-Off Requests/Manager Entered Time-Off Request Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Request Time-Off Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05A Time-Off Requests/Request Time-Off Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Time-Off Request Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05A Time-Off Requests/Time-Off Request Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-05B Absences">
+    <TocEntry
+      Title="Absence &amp; Tardiness Reporting Policy"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05B Absences/Absence &amp; Tardiness Reporting Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Absence Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05B Absences/Absence Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Funeral Leave Policy"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05B Absences/Funeral Leave Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Kronos Absence Recording Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05B Absences/Kronos Absence Recording Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Personal Business Policy"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05B Absences/Personal Business Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Weather Absence Policy"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05B Absences/Weather Absence Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-05C Vacation &amp; Personal Day">
+    <TocEntry
+      Title="Vacation &amp; Personal Day Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05C Vacation &amp; Personal Day/Vacation &amp; Personal Day Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Vacation &amp; Personal Day Policy"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05C Vacation &amp; Personal Day/Vacation &amp; Personal Day Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Vacation Time Accrual Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05C Vacation &amp; Personal Day/Vacation Time Accrual Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-05D Leave of Absence">
+    <TocEntry
+      Title="Leave Eligibility &amp; Duration Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05D Leave of Absence/Leave Eligibility &amp; Duration Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Leave of Absence Benefit Status Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05D Leave of Absence/Leave of Absence Benefit Status Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Leave of Absence Employment Status Policy"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05D Leave of Absence/Leave of Absence Employment Status Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Leave of Absence Policy"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05D Leave of Absence/Leave of Absence Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Leave of Absence Request Policy"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05D Leave of Absence/Leave of Absence Request Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Leave of Absence Types Policy"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05D Leave of Absence/Leave of Absence Types Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-05E Local Sick Leave">
+    <TocEntry
+      Title="California Paid Sick Leave (CPSL) Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05E Local Sick Leave/California Paid Sick Leave (CPSL) Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="California Paid Sick Leave (CPSL) Policy"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05E Local Sick Leave/California Paid Sick Leave (CPSL) Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Request or Record CPSL Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05E Local Sick Leave/Request or Record CPSL Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Verify CPSL Accrual Balance Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05E Local Sick Leave/Verify CPSL Accrual Balance Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-05F Holidays">
+    <TocEntry
+      Title="Holiday Pay Policy"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05F Holidays/Holiday Pay Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Holiday Pay Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05F Holidays/Holiday Pay Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Holidays Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05F Holidays/Holidays Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-05G Jury Duty">
+    <TocEntry
+      Title="Jury Duty Policy"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05G Jury Duty/Jury Duty Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Request or Record Jury Duty Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05G Jury Duty/Request or Record Jury Duty Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-05H Military Leave">
+    <TocEntry
+      Title="Military Leave Policy"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05H Military Leave/Military Leave Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Record Military Leave Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05H Military Leave/Record Military Leave Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-05I Disability Leave">
+    <TocEntry
+      Title="Disability Leave Policy"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05I Disability Leave/Disability Leave Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Record Disability Leave Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05I Disability Leave/Record Disability Leave Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-05J Family Care Leave">
+    <TocEntry
+      Title="Family Care Leave Policy"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05J Family Care Leave/Family Care Leave Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Record Family Care Leave Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05J Family Care Leave/Record Family Care Leave Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-05K Pregnancy or Parental Leave">
+    <TocEntry
+      Title="Parental Leave Policy"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05K Pregnancy or Parental Leave/Parental Leave Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Pregnancy Leave Policy"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05K Pregnancy or Parental Leave/Pregnancy Leave Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Record Pregnancy or Parental Leave Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05K Pregnancy or Parental Leave/Record Pregnancy or Parental Leave Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-05L Accruals">
+    <TocEntry
+      Title="Accruals Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05L Accruals/Accruals Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Accruals Report Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05L Accruals/Accruals Report Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="View Employee Accruals Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05L Accruals/View Employee Accruals Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="View Manager Accruals Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-05L Accruals/View Manager Accruals Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-06 Manager Alerts">
+    <TocEntry
+      Title="Manager Alerts Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-06 Manager Alerts/Manager Alerts Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-06A Timecard Edits">
+    <TocEntry
+      Title="Add Pay Code to Timecard Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-06A Timecard Edits/Add Pay Code to Timecard Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Pay Code Listing Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-06A Timecard Edits/Pay Code Listing Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Timecard Edits Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-06A Timecard Edits/Timecard Edits Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-06B Missed Punch Corrections">
+    <TocEntry
+      Title="Attestation Comments Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-06B Missed Punch Corrections/Attestation Comments Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Missed Punch Alert Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-06B Missed Punch Corrections/Missed Punch Alert Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Missed Punch Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-06B Missed Punch Corrections/Missed Punch Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-07 Overtime Management">
+    <TocEntry
+      Title="Overtime Management Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-07 Overtime Management/Overtime Management Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Projected Hours Review Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-07 Overtime Management/Projected Hours Review Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Unscheduled Hours Review Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-07 Overtime Management/Unscheduled Hours Review Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-08 Timecard Signoff">
+    <TocEntry
+      Title="Kronos Timecard Retention Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-08 Timecard Signoff/Kronos Timecard Retention Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Kronos Timecard Signoff Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-08 Timecard Signoff/Kronos Timecard Signoff Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Kronos Timecard Signoff Policy"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-08 Timecard Signoff/Kronos Timecard Signoff Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-08 Timecard Signoff/Kronos Timecard Signoff Procedure.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Print Kronos Timecard Procedure"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-08 Timecard Signoff/Print Kronos Timecard Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="28-08A Historical Corrections">
+    <TocEntry
+      Title="Historical Corrections Overview"
+      Link="/Content/28 KRONOS Time &amp; Attendance/28-08A Historical Corrections/Historical Corrections Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

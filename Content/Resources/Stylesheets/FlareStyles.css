@@ -1,0 +1,58 @@
+﻿/*<meta />*/
+/*
+p.MyStyle
+{
+	font-family: Arial;
+	font-size: 12pt;
+	margin: 0px;
+}
+
+img
+{
+	border: none;
+}
+
+a.Popup
+{
+	
+}
+
+h1
+{
+	font-family: Arial;
+	font-size: 1.7em;
+	color: #e05343;
+}
+
+h2
+{
+	font-family: Arial;
+}
+
+h3
+{
+	font-family: Arial;
+}
+
+h4
+{
+	font-family: Arial;
+}
+
+body
+{
+	font-family: Arial;
+}
+
+p
+{
+	font-family: Arial;
+}*/
+
+#no-padding
+{
+	/*	background-image: url('../Images/computerback.png');*/
+	background-position: right;
+	background-repeat: no-repeat;
+}
+

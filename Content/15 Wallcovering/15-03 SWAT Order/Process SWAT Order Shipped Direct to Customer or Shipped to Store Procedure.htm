@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPageWallcovering.flmsp');">
+    <head>
+    </head>
+    <body>
+        <h1>Process SWAT Order Shipped Direct to Customer or Shipped to Store Procedure</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th><strong class="Strong">Step</strong>
+                    </th>
+                    <th><strong class="Strong">Action</strong>
+                    </th>
+                </tr>
+            </thead>
+            <tr>
+                <td>&#160;</td>
+                <td>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>If</th>
+                                <th>Then</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td style="text-align: left;font-weight: bold;">Order Shipped Direct to Customer</td>
+                                <td style="font-weight: normal;text-align: left;">When a direct ship order is downloaded to the <b>POS</b> as an <b>E-Commerce/Direct Shipped SWAT Order</b>, receive merchandise against the <strong class="Strong">AT Purchase Order</strong> and then process the order.</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: left;font-weight: bold;">Order Shipped to Store</td>
+                                <td style="font-weight: normal;text-align: left;"><strong class="Strong">Receive</strong> the merchandise against the <strong class="Strong">AT Purchase Order</strong> when it arrives at the store -&gt; Notify the customer that their merchandise has arrived and is ready for pick-up -&gt; Process the order when the customer arrives to pick-up their merchandise.<p>Note: The order will download to the <b>POS</b> as a pending <b>E-Commerce Order</b>. The customer does not need to present their credit card when picking up the merchandise because the transaction has already been approved. Make sure the customer signs the <b>continuous feed invoice</b>.</p></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th><strong class="Strong">If</strong>
+                                    </th>
+                                    <th><strong class="Strong">Then</strong>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <p><b>SW Charge Account</b>
+                                        </p>
+                                    </td>
+                                    <td>
+                                        <p>Process a <strong class="Strong">Sales Transaction</strong> once you have confirmation that the customer has received their merchandise.</p>
+                                        <table>
+                                            <thead>
+                                                <tr>
+                                                    <th><strong class="Strong">Step</strong>
+                                                    </th>
+                                                    <th><strong class="Strong">Action</strong>
+                                                    </th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td>
+                                                        <p>1</p>
+                                                    </td>
+                                                    <td>
+                                                        <p>Press <strong class="Strong">RECALL</strong> [Shift +<strong class="Strong">F10</strong>].</p>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <p>2</p>
+                                                    </td>
+                                                    <td>
+                                                        <p>Select <strong class="Strong">SWAT Transactions Shipped to Store</strong>.</p>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <p>3</p>
+                                                    </td>
+                                                    <td>
+                                                        <p>Press <strong class="Strong">ENTER</strong> on the <strong class="Strong">SWAT Transaction</strong> to process.</p>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <p>4</p>
+                                                    </td>
+                                                    <td>
+                                                        <p>Press <strong class="Strong">ACCEPT</strong> [<strong class="Strong">F1</strong>] to finalize the transaction.</p>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p><b>Credit/Debit Card</b>
+                                        </p>
+                                    </td>
+                                    <td>
+                                        <table>
+                                            <thead>
+                                                <tr>
+                                                    <th>
+                                                        <p>Step</p>
+                                                    </th>
+                                                    <th>
+                                                        <p>Action</p>
+                                                    </th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td>
+                                                        <p>1</p>
+                                                    </td>
+                                                    <td>
+                                                        <p>From <b>POS desktop</b>, select <b>Store</b> -&gt; <strong class="Strong">Customer Order Entry</strong> -&gt; <strong class="Strong">Update/Review Orders</strong> -&gt; Type <strong class="Strong">Y </strong>to <strong class="Strong">Review New Orders </strong>-&gt; Confirm <strong class="Strong">Customer Header Information</strong> -&gt; Select <strong class="Strong">OK </strong>if prompted to update the <strong class="Strong">Blend ID</strong> -&gt; Confirm<strong class="Strong"> Line Item </strong>screen.</p>
+                                                        <p>Note: <b>SWAT order numbers</b> begin with the prefix <strong class="Strong">AT</strong>. <b>SWAT orders</b> must first be processed in <b>COE</b> to ensure complete order information on invoice.</p>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <p>2</p>
+                                                    </td>
+                                                    <td>
+                                                        <p>Complete the transaction in <strong class="Strong">Point of Sale</strong>.</p>
+                                                        <p>Note: For more information on sale transactions, see <MadCap:xref href="../../08 Point of Sale Transactions/08-01 Sales Policy/Sales Policy.htm">Sale Payment Menu Policy</MadCap:xref>.</p>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>2</p>
+                    </td>
+                    <td>
+                        <p><b>Order Shipped Direct to Customer ONLY</b>: Mail the customer their copy of the invoice. Include information about additional services provided at your store and directions to your location.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>Note:&#160;Changes cannot be made to any <b>SWAT Transaction</b>. Process a <b>Correction Transaction</b> to correct a <b>SWAT Transaction</b>. For example, if a customer were to decide that they only want a portion of the merchandise, process the sale for the <b>SWAT Order</b>. Then, process a <b>Correction Transaction</b> to credit the customer and account for any <b>restocking or return charges</b>, if applicable.</p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Revision Details</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="revision-details">
+                    <table class="revision">
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Revision Type</th>
+                                <th>Description</th>
+                                <th>Requester - admin only</th>
+                                <th>initial - admin only</th>
+                                <th>misc - admin only</th>
+                                <th>include in year end - admin only</th>
+                                <th>Doc Title, hidden</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="revdate">07/18</td>
+                                <td class="revtype">Revised</td>
+                                <td class="revdescrip">&#160;</td>
+                                <td class="revrequester">&#160;</td>
+                                <td class="revinitial">Incorporated info from SWAT Order Shipped Direct to Customer Procedure and SWAT Order Shipped to Store Procedure topics into one updated chart.</td>
+                                <td class="revmisc">&#160;</td>
+                                <td class="revyear-end">&#160;</td>
+                                <td class="revdoc-title">&#160;</td>
+                            </tr>
+                            <tr>
+                                <td class="revdate">06/18</td>
+                                <td class="revtype">Revised</td>
+                                <td class="revdescrip">Procedures for SWAT Order Shipped to Store and SWAT Order Shipped Direct to Customer have been updated.</td>
+                                <td class="revrequester">&#160;</td>
+                                <td class="revinitial">&#160;</td>
+                                <td class="revmisc">&#160;</td>
+                                <td class="revyear-end">&#160;</td>
+                                <td class="revdoc-title"><MadCap:variable name="System.Title" />
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

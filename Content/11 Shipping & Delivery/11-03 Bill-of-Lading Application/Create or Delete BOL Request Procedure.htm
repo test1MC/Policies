@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPageShippingDelivery.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>Create or Delete BOL Request Procedure</h1>
+        <p>The <strong class="Strong">Create Bill-of-Lading Request</strong> can be used to submit information to create a <strong class="Strong">Bill-of-Lading </strong>for <strong class="Strong">Customer Delivery Orders</strong>, <strong class="Strong">Transfer Orders</strong>, <strong class="Strong">Demonstration Orders</strong>, <strong class="Strong">Customer Returns</strong>, and<strong class="Strong"> Customer Will Call Requests</strong>.&#160;Print a<strong class="Strong"> Pick Ticket</strong> copy of the customer order.&#160;Have the person picking and preparing the order manually note how the items have been packed on the pick ticket.&#160;Provide this pick ticket to the person creating the <strong class="Strong">Bill-of-Lading</strong> for use in creating <strong class="Strong">Repack Cartons</strong>.</p>
+        <p>The <strong class="Strong">Delete Bill of Lading Request </strong>on the <strong class="Strong">Bill of Lading Menu</strong> in <strong class="Strong">SOURCE</strong> allows users to cancel a <strong class="Strong">BOL</strong> request.&#160; You may want to delete a <strong class="Strong">BOL</strong> request if you have already submitted the information and need to add or remove products from the delivery.&#160; Only requests, which are in <strong class="Strong">Confirmed </strong>or<strong class="Strong"> Editing</strong> status in <strong class="Strong">BOLDOC</strong>, may be deleted via <strong class="Strong">SOURCE</strong>.&#160;Once a request is deleted, re-submit the data from <strong class="Strong">SOURCE</strong>.&#160;A new <strong class="Strong">HEARS ID</strong> will be created and you will need to begin the editing process in <strong class="Strong">BOLDOC</strong></p>
+        <table>
+            <thead>
+                <tr>
+                    <th><strong class="Strong">Step</strong>
+                    </th>
+                    <th><strong class="Strong">Action</strong>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <p>From <b>POS desktop</b>, select <b>Store</b> -&gt; <b>Customer Order Entry</b> -&gt; <b>Delivery Menu</b> -&gt; <b>Open BOLDOC</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>
+                        <table style="width: 100%;">
+                            <col />
+                            <col />
+                            <thead>
+                                <tr>
+                                    <th>If</th>
+                                    <th>Then</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td style="font-weight: bold;">Creating</td>
+                                    <td>
+                                        <p>Select <b>Create Bill-of-Lading</b> -&gt; Proceed to <b>Step 3</b>.</p>
+                                        <p>Note: The <strong class="Strong">Order Line Browse</strong> defaults to only display <strong class="Strong">Customer Delivery Order Lines </strong>in <strong class="Strong">Ready for Delivery Status</strong>.&#160;Use this to find <strong class="Strong">Order Lines</strong> for <strong class="Strong">Customer Delivery Orders</strong>,<strong class="Strong"> Store Expenses</strong>, and <strong class="Strong">Transfer Orders</strong>.&#160; </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="font-weight: bold;">Deleting</td>
+                                    <td>
+                                        <p>Select <b>Delete Bill-of-Lading Request</b> -&gt; Search for the request by entering <strong class="Strong">Customer Account Number</strong>, <strong class="Strong">Customer Order Number, Customer Order Control Number</strong>, or <strong class="Strong">HEARS ID</strong> or use <strong class="Strong">LOOKUP</strong> [<strong class="Strong">F3</strong>] -&gt; Select the <strong class="Strong">BOLDOC </strong>request and <strong class="Strong">Yes</strong> when prompted -&gt; Procedure is complete. <img src="../../Resources/Images/06-04D Employee Problem Resolution/General Complaints Concerns Procedure.png" style="z-index: 11;visibility: visible;mso-position-horizontal-relative: char;mso-position-vertical-relative: line;margin-left: 0;width: 55px;height: 55px;" /></p>
+                                        <p>Note: You cannot resubmit a <strong class="Strong">BOL</strong> request for an <strong class="Strong">IBAR</strong>.</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>3</p>
+                    </td>
+                    <td>
+                        <p>Press <strong class="Strong">Lookup</strong> [<strong class="Strong">F3</strong>] to access the<strong class="Strong"> Lookup Options</strong> to browse for<strong class="Strong"> Order Lines</strong> for any order line not existing on a customer order marked for delivery.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>4</p>
+                    </td>
+                    <td>
+                        <p>Enter the customer account number or press<strong class="Strong"> Lookup</strong> [<strong class="Strong">F3</strong>].</p>
+                        <p>Note: If searching by <strong class="Strong">Customer</strong> <strong class="Strong">Account</strong>, query against the default browse, which will narrow the default browse display of <strong class="Strong">Ready for Delivery</strong> orders.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>5</p>
+                    </td>
+                    <td>
+                        <p>Use the<strong class="Strong"> Up</strong> and<strong class="Strong"> Down</strong> keys to navigate and press <strong class="Strong">Enter</strong> to include <strong class="Strong">Order Lines</strong> on the <strong class="Strong">BOL.</strong></p>
+                        <p>Note: An<strong class="Strong"> X</strong> displays in the<strong class="Strong"> S</strong> (<strong class="Strong">Select</strong>) <strong class="Strong">Column</strong>. Lines may be selected from several orders for a <b>BOL</b> but all orders must be associated with a <b>Customer Account.</b> </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>6</p>
+                    </td>
+                    <td>
+                        <p>Press <strong class="Strong">ACCEPT </strong>[<strong class="Strong">F1</strong>] to save <strong class="Strong">BOL</strong>.</p>
+                        <p>Note: The <strong class="Strong">Customer Order Control #</strong> displays in the most left column. Refer to this column to ensure that all required <strong class="Strong">Order Lines</strong> for the request are selected.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>7</p>
+                    </td>
+                    <td>
+                        <p>Verify the <strong class="Strong">ShipTo</strong><strong class="Strong"> Address</strong>.</p>
+                        <p>Note: If the address needs to be corrected, change the address for the <strong class="Strong">Bill-of-Lading</strong>.&#160; This will not change the address on the <strong class="Strong">Customer Order</strong>, or transaction.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>8</p>
+                    </td>
+                    <td>
+                        <p>Press<strong class="Strong"> LOOKUP</strong> [<strong class="Strong">F3</strong>] to search for the carrier.</p>
+                        <p>Note: Only <b>active carriers</b> will display in this lookup and preferred carriers will display at the top of the listing.&#160; If the <b>Carrier</b> has a default <strong class="Strong">Shipping Terms</strong> value, that will automatically default in the <strong class="Strong">BOL </strong>information screen.&#160;Otherwise, this will default to <strong class="Strong">UNKNOWN</strong> and you will be required to edit the value in <strong class="Strong">BOLDOC</strong>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>9</p>
+                    </td>
+                    <td>
+                        <p>Verify that the <strong class="Strong">Ship Date </strong>is correct.</p>
+                        <p>Note: The <strong class="Strong">Ship Date</strong> will always default to today's date, but, if the order is not being shipped or picked up today, it may be changed.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>10</p>
+                    </td>
+                    <td>
+                        <p>Press <strong class="Strong">ACCEPT</strong> [<strong class="Strong">F1</strong>] and select <strong class="Strong">Y</strong> when prompted to send <strong class="Strong">BOL Request </strong>to <strong class="Strong">BOLDOC</strong>.</p>
+                        <p>Note: If all the required information has been completed,<strong class="Strong"> BOLDOC</strong> will assign a<strong class="Strong"> HEARS ID</strong> for the information submitted.&#160; The<strong class="Strong"> HEARS ID</strong> is similar to the order <strong class="Strong">Control Number</strong> and can be used to locate the <strong class="Strong">BOL</strong> in <strong class="Strong">BOLDOC</strong> or to delete the request in <strong class="Strong">BOLDOC</strong> from <strong class="Strong">SOURCE</strong>, if required.&#160; </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Revision Details</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="revision-details">
+                    <table class="revision">
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Revision Type</th>
+                                <th>Description</th>
+                                <th>Requester - admin only</th>
+                                <th>initial - admin only</th>
+                                <th>misc - admin only</th>
+                                <th>include in year end - admin only</th>
+                                <th>Doc Title, hidden</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="revdate">6/18</td>
+                                <td class="revtype">&#160;</td>
+                                <td class="revdescrip">&#160;</td>
+                                <td class="revrequester">&#160;</td>
+                                <td class="revinitial">Incorporated info from Delete BOL Requests Procedure topic</td>
+                                <td class="revmisc">&#160;</td>
+                                <td class="revyear-end">&#160;</td>
+                                <td class="revdoc-title">&#160;</td>
+                            </tr>
+                            <tr>
+                                <td class="revdate">07/10</td>
+                                <td class="revtype">Revised</td>
+                                <td class="revdescrip">&#160;</td>
+                                <td class="revrequester">&#160;</td>
+                                <td class="revinitial">&#160;</td>
+                                <td class="revmisc">&#160;</td>
+                                <td class="revyear-end">&#160;</td>
+                                <td class="revdoc-title"><MadCap:variable name="System.Title" />
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

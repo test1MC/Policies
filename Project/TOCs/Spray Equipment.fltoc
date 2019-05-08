@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/16 Spray Equipment/Spray Equipment.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="16-01 Rental Equipment">
+    <TocEntry
+      Title="Automotive Rental Equipment Sales Number Overview"
+      Link="/Content/16 Spray Equipment/16-01 Rental Equipment/Automotive Rental Equipment Sales Number Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Customer Order Entry Rental Agreement Procedure"
+      Link="/Content/16 Spray Equipment/16-01 Rental Equipment/Customer Order Entry Rental Agreement Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Print Rental Equipment Barcode Labels Procedure"
+      Link="/Content/16 Spray Equipment/16-01 Rental Equipment/Print Rental Equipment Barcode Labels Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Rental Equipment Expense Procedure"
+      Link="/Content/16 Spray Equipment/16-01 Rental Equipment/Rental Equipment Expense Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Rental Equipment History Overview"
+      Link="/Content/16 Spray Equipment/16-01 Rental Equipment/Rental Equipment History Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Rental Equipment Overview"
+      Link="/Content/16 Spray Equipment/16-01 Rental Equipment/Rental Equipment Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Rental Equipment Policy"
+      Link="/Content/16 Spray Equipment/16-01 Rental Equipment/Rental Equipment Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Rental Equipment Repair Overview"
+      Link="/Content/16 Spray Equipment/16-01 Rental Equipment/Rental Equipment Repair Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Rental Equipment Repair Policy"
+      Link="/Content/16 Spray Equipment/16-01 Rental Equipment/Rental Equipment Repair Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Rental Equipment Return Procedure"
+      Link="/Content/16 Spray Equipment/16-01 Rental Equipment/Rental Equipment Return Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Trade In Rental Equipment Procedure"
+      Link="/Content/16 Spray Equipment/16-01 Rental Equipment/Trade In Rental Equipment Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Update Terminal or Transaction Number for Rentals Procedure"
+      Link="/Content/16 Spray Equipment/16-01 Rental Equipment/Update Terminal or Transaction Number for Rentals Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="16-02 Spray Equipment">
+    <TocEntry
+      Title="Non-Serialized Spray Equipment  Order Procedure"
+      Link="/Content/16 Spray Equipment/16-02 Spray Equipment/Non-Serialized Spray Equipment Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Rental Spray Equipment Sale Overview"
+      Link="/Content/16 Spray Equipment/16-02 Spray Equipment/Rental Spray Equipment Sale Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Repossessed Spray Equipment Procedure"
+      Link="/Content/16 Spray Equipment/16-02 Spray Equipment/Repossessed Spray Equipment Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Reverse Spray Equipment Rental Conversion Procedure"
+      Link="/Content/16 Spray Equipment/16-02 Spray Equipment/Reverse Spray Equipment Rental Conversion Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Serialized Spray Equipment Log Procedure"
+      Link="/Content/16 Spray Equipment/16-02 Spray Equipment/Serialized Spray Equipment Log Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Serialized Spray Equipment Order Procedure"
+      Link="/Content/16 Spray Equipment/16-02 Spray Equipment/Serialized Spray Equipment Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Spray Equipment Demonstration Policy"
+      Link="/Content/16 Spray Equipment/16-02 Spray Equipment/Spray Equipment Demonstration Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Spray Equipment Demonstration Procedure"
+      Link="/Content/16 Spray Equipment/16-02 Spray Equipment/Spray Equipment Demonstration Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Spray Equipment Overview"
+      Link="/Content/16 Spray Equipment/16-02 Spray Equipment/Spray Equipment Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Spray Equipment Policy"
+      Link="/Content/16 Spray Equipment/16-02 Spray Equipment/Spray Equipment Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Spray Equipment Rental Conversion Procedure"
+      Link="/Content/16 Spray Equipment/16-02 Spray Equipment/Spray Equipment Rental Conversion Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Spray Tip and Accessory Security Policy"
+      Link="/Content/16 Spray Equipment/16-02 Spray Equipment/Spray Tip and Accessory Security Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="16-03 Pressure Washer Equipment">
+    <TocEntry
+      Title="Pressure Washer Equipment Overview"
+      Link="/Content/16 Spray Equipment/16-03 Pressure Washer Equipment/Pressure Washer Equipment Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Pressure Washer Equipment Policy"
+      Link="/Content/16 Spray Equipment/16-03 Pressure Washer Equipment/Pressure Washer Equipment Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Pressure Washer Equipment Procedure"
+      Link="/Content/16 Spray Equipment/16-03 Pressure Washer Equipment/Pressure Washer Equipment Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Pressure Washer Maintenance Procedure"
+      Link="/Content/16 Spray Equipment/16-03 Pressure Washer Equipment/Pressure Washer Maintenance Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="16-04 Gross Profit Worksheet">
+    <TocEntry
+      Title="Gross Profit Worksheet for Rentals Overview"
+      Link="/Content/16 Spray Equipment/16-04 Gross Profit Worksheet/Gross Profit Worksheet for Rentals Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Gross Profit Worksheet for Rentals Procedure"
+      Link="/Content/16 Spray Equipment/16-04 Gross Profit Worksheet/Gross Profit Worksheet for Rentals Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="16-05 Spray Equipment Repair">
+    <TocEntry
+      Title="Deposit on Spray Source Repair at Originating Store Overview"
+      Link="/Content/16 Spray Equipment/16-05 Spray Equipment Repair/Deposit on Spray Source Repair at Originating Store Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Deposit on Spray Source Repair at Spray Source Center Overview"
+      Link="/Content/16 Spray Equipment/16-05 Spray Equipment Repair/Deposit on Spray Source Repair at Spray Source Center Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Modify Spray Source Repair Order Procedure"
+      Link="/Content/16 Spray Equipment/16-05 Spray Equipment Repair/Modify Spray Source Repair Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="No Deposit on Spray Source Repair Overview"
+      Link="/Content/16 Spray Equipment/16-05 Spray Equipment Repair/No Deposit on Spray Source Repair Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Order &amp; Display Signage Procedure"
+      Link="/Content/16 Spray Equipment/16-05 Spray Equipment Repair/Order &amp; Display Signage Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Process Spray Source Transfer Repair Procedure"
+      Link="/Content/16 Spray Equipment/16-05 Spray Equipment Repair/Process Spray Source Transfer Repair Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Sell Repaired Equipment Policy"
+      Link="/Content/16 Spray Equipment/16-05 Spray Equipment Repair/Sell Repaired Equipment Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Sell Repaired Equipment Procedure"
+      Link="/Content/16 Spray Equipment/16-05 Spray Equipment Repair/Sell Repaired Equipment Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Spray Equipment Rental &amp; Repair Policy"
+      Link="/Content/16 Spray Equipment/16-05 Spray Equipment Repair/Spray Equipment Rental Repair Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Spray Equipment Repair Overview"
+      Link="/Content/16 Spray Equipment/16-05 Spray Equipment Repair/Spray Equipment Repair Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Spray Source Correction Transaction Procedure"
+      Link="/Content/16 Spray Equipment/16-05 Spray Equipment Repair/Spray Source Correction Transaction Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Spray Source Repair Order Billing Overview"
+      Link="/Content/16 Spray Equipment/16-05 Spray Equipment Repair/Spray Source Repair Order Billing Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Spray Source Repair Order Procedure"
+      Link="/Content/16 Spray Equipment/16-05 Spray Equipment Repair/Spray Source Repair Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Spray Source Repair Policy"
+      Link="/Content/16 Spray Equipment/16-05 Spray Equipment Repair/Spray Source Repair Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Spray Source Repair Transfer Order Policy"
+      Link="/Content/16 Spray Equipment/16-05 Spray Equipment Repair/Spray Source Repair Transfer Order Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Spray Source Safety Policy"
+      Link="/Content/16 Spray Equipment/16-05 Spray Equipment Repair/Spray Source Safety Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Spray Source Signage Policy"
+      Link="/Content/16 Spray Equipment/16-05 Spray Equipment Repair/Spray Source Signage Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Spray Source Standard Practices Policy"
+      Link="/Content/16 Spray Equipment/16-05 Spray Equipment Repair/Spray Source Standard Practices Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Spray Source Uniform Order Procedure"
+      Link="/Content/16 Spray Equipment/16-05 Spray Equipment Repair/Spray Source Uniform Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Spray Source Uniform Policy"
+      Link="/Content/16 Spray Equipment/16-05 Spray Equipment Repair/Spray Source Uniform Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Transfer Spray Source Repair Order Procedure"
+      Link="/Content/16 Spray Equipment/16-05 Spray Equipment Repair/Transfer Spray Source Repair Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Transfer Store Maintenance to Spray Source Center Procedure"
+      Link="/Content/16 Spray Equipment/16-05 Spray Equipment Repair/Transfer Store Maintenance to Spray Source Center Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Update Spray Source Repair Details  Procedure"
+      Link="/Content/16 Spray Equipment/16-05 Spray Equipment Repair/Update Spray Source Repair Details Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="16-06 Large Spray Equipment Program (LSEP)">
+    <TocEntry
+      Title="Finishing Systems Equipment Quote Procedure"
+      Link="/Content/16 Spray Equipment/16-06 Large Spray Equipment Program (LSEP)/Finishing Systems Equipment Quote Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Installer Payment Procedure"
+      Link="/Content/16 Spray Equipment/16-06 Large Spray Equipment Program (LSEP)/Installer Payment Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Invoice the Customer per the Equipment Sales Summary Procedure"
+      Link="/Content/16 Spray Equipment/16-06 Large Spray Equipment Program (LSEP)/Invoice the Customer per the Equipment Sales Summary Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Large Spray Equipment Program (LSEP) Help"
+      Link="/Content/16 Spray Equipment/16-06 Large Spray Equipment Program (LSEP)/Large Spray Equipment Program (LSEP) Help.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Large Spray Equipment Program (LSEP) Overview"
+      Link="/Content/16 Spray Equipment/16-06 Large Spray Equipment Program (LSEP)/Large Spray Equipment Program (LSEP) Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Large Spray Equipment Program (LSEP) Policy"
+      Link="/Content/16 Spray Equipment/16-06 Large Spray Equipment Program (LSEP)/Large Spray Equipment Program (LSEP) Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Large Spray Equipment Purchase Order Procedure"
+      Link="/Content/16 Spray Equipment/16-06 Large Spray Equipment Program (LSEP)/Large Spray Equipment Purchase Order Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="LSEP Down Payment Procedure"
+      Link="/Content/16 Spray Equipment/16-06 Large Spray Equipment Program (LSEP)/LSEP Down Payment Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Payment to Merchandise Vendor Procedure"
+      Link="/Content/16 Spray Equipment/16-06 Large Spray Equipment Program (LSEP)/Payment to Merchandise Vendor Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Update Installer in SWeep Procedure"
+      Link="/Content/16 Spray Equipment/16-06 Large Spray Equipment Program (LSEP)/Update Installer in SWeep Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="16-07 Spray Equipment Incentives">
+    <TocEntry
+      Title="Spray Equipment Incentive Approval Process Overview"
+      Link="/Content/16 Spray Equipment/16-07 Spray Equipment Incentives/Spray Equipment Incentive Approval Process Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Spray Equipment Incentive Overview"
+      Link="/Content/16 Spray Equipment/16-07 Spray Equipment Incentives/Spray Equipment Incentive Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Spray Equipment Incentive Policy"
+      Link="/Content/16 Spray Equipment/16-07 Spray Equipment Incentives/Spray Equipment Incentive Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Spray Equipment Incentive Procedure"
+      Link="/Content/16 Spray Equipment/16-07 Spray Equipment Incentives/Spray Equipment Incentive Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

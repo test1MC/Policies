@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPageInventory.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>Costed Physical Inventory Playback Overview</h1>
+        <p>This report will show you a playback of your "<b>costed inventory</b>" - Store Merchandise Inventory and is sorted by department. Within the department it is sorted by <b>vendor</b> and then <b>part number</b>. </p>
+        <p><i>Note:</i> Pages run sequentially for departments 11, 18 and 21 and then start over for the remaining departments. Refer to the example of this report for an explanation of the fields. The key fields to be reviewed for accuracy are:</p>
+        <ul>
+            <li>Sales Number </li>
+            <li>Units</li>
+            <li>Unit Cost</li>
+        </ul>
+        <p>If a <b>sales number</b> was entered at inventory that was invalid on the <b>Headquarters product database</b> on the <b>physical inventory date</b>, it will appear as all ones (1111-11111) at the beginning of each category on the <b>Costed Inventory Playback</b>. Since it is invalid, it is “costed” at a penny. The unit counts came from your <b>physical inventory counts</b> on the <b>physical inventory date</b>. The unit cost was determined based on <b>FIFO</b> costing.</p>
+        <p>If the [sales number], [units] or [unit cost] are incorrect as reported, the page/line number assigned to the sales number is required for any corrections.</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p>Part</p>
+                    </th>
+                    <th>
+                        <p>Function</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>Sales Number</p>
+                    </td>
+                    <td>
+                        <p>Nine-digit number identifying a product.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>PR TP</p>
+                    </td>
+                    <td>
+                        <p>This number corresponds to the last two numbers in the <b>P &amp; L Analysis report prime-sub account numbers</b> identifying the product type.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>DP</p>
+                    </td>
+                    <td>
+                        <p>Department the <b>sales number</b> is assigned to.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Part No</p>
+                    </td>
+                    <td>
+                        <p>This is the <b>manufacturer’s part number</b>. On paint the last two digits are the size code.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Manufacturers Name</p>
+                    </td>
+                    <td>
+                        <p>Manufacturer associated to the product.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Description</p>
+                    </td>
+                    <td>
+                        <p>Product description.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Size</p>
+                    </td>
+                    <td>
+                        <p>Size description.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Units</p>
+                    </td>
+                    <td>
+                        <p>Quantity counted on the <b>physical inventory date</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Unit Cost</p>
+                    </td>
+                    <td>
+                        <p>The unit cost used to value your inventory.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Page Line</p>
+                    </td>
+                    <td>
+                        <p>Required to make adjustments to "<b>costed inventory</b>".</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Gross Value</p>
+                    </td>
+                    <td>
+                        <p>This is the <b>extended value of the inventory</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Obsolete Value</p>
+                    </td>
+                    <td>
+                        <p>The extended value of the number of units for a sales number that were flagged as obsolete.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Revision Details</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="revision-details">
+                    <table class="revision">
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Revision Type</th>
+                                <th>Description</th>
+                                <th>Requester - admin only</th>
+                                <th>initial - admin only</th>
+                                <th>misc - admin only</th>
+                                <th>include in year end - admin only</th>
+                                <th>Doc Title, hidden</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="revdate">07/18</td>
+                                <td class="revtype">Revised</td>
+                                <td class="revdescrip">Incorporated information from Costed Inventory Playback Explained Overview into this chapter.</td>
+                                <td class="revrequester">&#160;</td>
+                                <td class="revinitial">MC</td>
+                                <td class="revmisc">&#160;</td>
+                                <td class="revyear-end">&#160;</td>
+                                <td class="revdoc-title"><MadCap:variable name="System.Title" />
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

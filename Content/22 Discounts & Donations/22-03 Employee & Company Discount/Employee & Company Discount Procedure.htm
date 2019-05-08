@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPageDiscountsDonations.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>Employee &amp; Company Discount Procedure</h1>
+        <p>Company discounts can only be applied on either a <b>Type 9 Employee Transaction</b> or a <b>Customer Type 9 (employee) cash or retail charge account</b> with either a <b>CAC of 9999 (Paint Stores) or 5999 (Automotive Branches)</b>.&#160;The processing employee must scan the discount card barcode to generate the appropriate company discount pricing.&#160;Until the discount card barcode is scanned, the transaction will price at <b>List Price</b> or <b>Sale Price</b>. Follow the below procedure to process a company discount while in a <b>Customer Order</b> or a <b>Sale Transaction</b>: </p>
+        <table>
+            <thead>
+                <tr>
+                    <th><strong>Step</strong>
+                    </th>
+                    <th><strong>Action</strong>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <p>Does the customer have their own Sherwin-Williams cash or retail charge account?</p>
+                        <table style="width: 100%;">
+                            <col />
+                            <col />
+                            <thead>
+                                <tr>
+                                    <th>If</th>
+                                    <th>Then</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Yes</td>
+                                    <td>Enter the <b>Account Number</b> or press <b>LOOKUP [F3]</b> to look up the employee.&#160;</td>
+                                </tr>
+                                <tr>
+                                    <td>No</td>
+                                    <td>They must set up a <b>Customer Type 9 (employee) account</b> in their name to receive the company discount.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p>Note: If the customer does not have their discount card, proof of current employment at Sherwin-Williams, or is not known to you as an individual eligible for the discount, the company discount cannot be applied to the sale.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>2</p>
+                    </td>
+                    <td>
+                        <p>At <b>Order Detail,</b> check that all prices were returned:</p>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th><strong>If</strong>
+                                    </th>
+                                    <th><strong>Then</strong>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <p>List price for <b>Spray Equipment, Floorcovering or Window Treatments</b> is not returned</p>
+                                    </td>
+                                    <td>
+                                        <p>Manually enter the <b>employee discount price</b> of the product.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>List price for <b>Wallcovering</b> is not returned</p>
+                                    </td>
+                                    <td>
+                                        <p>Enter the <b>manufacturer’s list price</b> and the system will automatically calculate the discounted price.&#160; </p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p>Note: <b>Wallcovering</b> should automatically be calculated at 25% off list price by the system.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>3</p>
+                    </td>
+                    <td>
+                        <p>Once all products have been scanned, scan the barcode on the discount card. The <b>POS</b> will apply the discount.</p>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th><strong>If</strong>
+                                    </th>
+                                    <th><strong>Then</strong>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <p>They do not have their card</p>
+                                    </td>
+                                    <td>
+                                        <p>Use the barcodes on the <b>Price Remedy Scan Sheet</b>. </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>The customer provides their barcode via <b>Smartphone</b></p>
+                                    </td>
+                                    <td>
+                                        <ul>
+                                            <li>Press <b>DISCOUNT [F11]</b> at the line item. </li>
+                                            <li>Select <b>Coupon</b>.</li>
+                                            <li>Enter the 12-digit discount number in the line item.</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p><b>Extended Family Member Discount Card</b> used</p>
+                                    </td>
+                                    <td>
+                                        <p><b>Employee Name </b>and<b> Relationship to Employee</b> will be required.</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Revision Details</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="revision-details">
+                    <table class="revision">
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Revision Type</th>
+                                <th>Description</th>
+                                <th>Requester - admin only</th>
+                                <th>initial - admin only</th>
+                                <th>misc - admin only</th>
+                                <th>include in year end - admin only</th>
+                                <th>Doc Title, hidden</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="revdate">10/14</td>
+                                <td class="revtype">Revised</td>
+                                <td class="revdescrip">&#160;</td>
+                                <td class="revrequester">&#160;</td>
+                                <td class="revinitial">&#160;</td>
+                                <td class="revmisc">&#160;</td>
+                                <td class="revyear-end">&#160;</td>
+                                <td class="revdoc-title"><MadCap:variable name="System.Title" />
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+        <p>&#160;</p>
+    </body>
+</html>

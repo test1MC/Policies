@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/05 Credit/Credit.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="05-01 Cash Account">
+    <TocEntry
+      Title="Cash Account Number Overview"
+      Link="/Content/05 Credit/05-01 Cash Account/Cash Account Number Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Cash Account Policy"
+      Link="/Content/05 Credit/05-01 Cash Account/Cash Account Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Create Cash Account Procedure"
+      Link="/Content/05 Credit/05-01 Cash Account/Create Cash Account Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Opportunity Accounts Procedure"
+      Link="/Content/05 Credit/05-01 Cash Account/Opportunity Accounts Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="05-02 Commercial Credit">
+    <TocEntry
+      Title="Commercial Account Approval &amp; Denial Policy"
+      Link="/Content/05 Credit/05-02 Commercial Credit/Commercial Account Approval &amp; Denial Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Commercial Account Filing Policy"
+      Link="/Content/05 Credit/05-02 Commercial Credit/Commercial Account Filing Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Commercial Credit Account Overview"
+      Link="/Content/05 Credit/05-02 Commercial Credit/Commercial Credit Account Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Commercial Credit Account Policy"
+      Link="/Content/05 Credit/05-02 Commercial Credit/Commercial Credit Account Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Commercial Credit Application Procedure"
+      Link="/Content/05 Credit/05-02 Commercial Credit/Commercial Credit Application Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Credit Reference Inquiry Procedure"
+      Link="/Content/05 Credit/05-02 Commercial Credit/Credit Reference Inquiry Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Customer Account Classification Overview"
+      Link="/Content/05 Credit/05-02 Commercial Credit/Customer Account Classification Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Floorcovering Sales to Commercial Paint Account Policy"
+      Link="/Content/05 Credit/05-02 Commercial Credit/Floorcovering Sales to Commercial Paint Account Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Floorcovering Sales to Commercial Paint Account Procedure"
+      Link="/Content/05 Credit/05-02 Commercial Credit/Floorcovering Sales to Commercial Paint Account Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Reopen Commercial Account Policy"
+      Link="/Content/05 Credit/05-02 Commercial Credit/Reopen Commercial Account Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="05-02A Job Accounts">
+    <TocEntry
+      Title="Automotive Equipment Sales Policy"
+      Link="/Content/05 Credit/05-02A Job Accounts/Automotive Equipment Sales Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Automotive Equipment Sales Procedure"
+      Link="/Content/05 Credit/05-02A Job Accounts/Automotive Equipment Sales Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Booth Lease Policy"
+      Link="/Content/05 Credit/05-02A Job Accounts/Booth Lease Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Booth Lease Procedure"
+      Link="/Content/05 Credit/05-02A Job Accounts/Booth Lease Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Commercial Job Accounts Overview"
+      Link="/Content/05 Credit/05-02A Job Accounts/Commercial Job Accounts Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Commerical Job Accounts Policy"
+      Link="/Content/05 Credit/05-02A Job Accounts/Commerical Job Accounts Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Create Contractor Accounts Procedure"
+      Link="/Content/05 Credit/05-02A Job Accounts/Create Contractor Accounts Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Create Hard Equipment Job Accounts Procedure"
+      Link="/Content/05 Credit/05-02A Job Accounts/Create Hard Equipment Job Accounts Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Hard Equipment Job Accounts Policy"
+      Link="/Content/05 Credit/05-02A Job Accounts/Hard Equipment Job Accounts Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Hard Equipment Lease Overview"
+      Link="/Content/05 Credit/05-02A Job Accounts/Hard Equipment Lease Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Hard Equipment Plans - Automotive Overview"
+      Link="/Content/05 Credit/05-02A Job Accounts/Hard Equipment Plans - Automotive Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Hard Equipment Plans Overview"
+      Link="/Content/05 Credit/05-02A Job Accounts/Hard Equipment Plans Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Job Account Transfer Overview"
+      Link="/Content/05 Credit/05-02A Job Accounts/Job Account Transfer Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Joint Check Agreement Policy"
+      Link="/Content/05 Credit/05-02A Job Accounts/Joint Check Agreement Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Joint Check Agreements Procedure"
+      Link="/Content/05 Credit/05-02A Job Accounts/Joint Check Agreements Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Order &amp; Receive Automotive Equipment from Vendor Procedure"
+      Link="/Content/05 Credit/05-02A Job Accounts/Order &amp; Receive Automotive Equipment from Vendor Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Process Joint Check and Overpayment Procedure"
+      Link="/Content/05 Credit/05-02A Job Accounts/Process Joint Check and Overpayment Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Receiving Deposits for Automotive Equipment Sales Policy"
+      Link="/Content/05 Credit/05-02A Job Accounts/Receiving Deposits for Automotive Equipment Sales Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="05-03 DIY Credit">
+    <TocEntry
+      Title="Create DIY Credit Account Procedure"
+      Link="/Content/05 Credit/05-03 DIY Credit/Create DIY Credit Account Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="DIY Account Approval &amp; Denial Policy"
+      Link="/Content/05 Credit/05-03 DIY Credit/DIY Account Approval &amp; Denial Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="DIY Account Payment Terms Policy"
+      Link="/Content/05 Credit/05-03 DIY Credit/DIY Account Payment Terms Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="DIY Credit Account Policy"
+      Link="/Content/05 Credit/05-03 DIY Credit/DIY Credit Account Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Employee/Immediate Family Member Charge Card Policy"
+      Link="/Content/05 Credit/05-03 DIY Credit/Employee Immediate Family Member Charge Card Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Order DIY Credit Applications Procedure"
+      Link="/Content/05 Credit/05-03 DIY Credit/Order DIY Credit Applications Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="05-04 Visiting Customer">
+    <TocEntry
+      Title="Standard Customer Visit Operating Procedure"
+      Link="/Content/05 Credit/05-04 Visiting Customer/Standard Customer Visit Operating Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Visiting Customer Downtime Procedure"
+      Link="/Content/05 Credit/05-04 Visiting Customer/Visiting Customer Downtime Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Visiting Customer Overview"
+      Link="/Content/05 Credit/05-04 Visiting Customer/Visiting Customer Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Visiting Customer Transaction Policy"
+      Link="/Content/05 Credit/05-04 Visiting Customer/Visiting Customer Transaction Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="05-05 National Accounts">
+    <TocEntry
+      Title="National Accounts Client Management System Overview"
+      Link="/Content/05 Credit/05-05 National Accounts/National Accounts Client Management System Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="National Accounts Client Management System Procedure"
+      Link="/Content/05 Credit/05-05 National Accounts/National Accounts Client Management System Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="National Accounts Customer Lookup Procedure"
+      Link="/Content/05 Credit/05-05 National Accounts/National Accounts Customer Lookup Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="National Billed Accounts Overview"
+      Link="/Content/05 Credit/05-05 National Accounts/National Billed Accounts Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="National Billed Accounts Policy"
+      Link="/Content/05 Credit/05-05 National Accounts/National Billed Accounts Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store-Billed National Accounts  Policy"
+      Link="/Content/05 Credit/05-05 National Accounts/Store-Billed National Accounts Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="05-06 Credit Approval">
+    <TocEntry
+      Title="Account Credit Warning Overview"
+      Link="/Content/05 Credit/05-06 Credit Approval/Account Credit Warning Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Automotive Credit Approval Policy"
+      Link="/Content/05 Credit/05-06 Credit Approval/Automotive Credit Approval Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Credit Approval Parent Policy"
+      Link="/Content/05 Credit/05-06 Credit Approval/Credit Approval Parent Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Credit Overlimit or Past Due Policy"
+      Link="/Content/05 Credit/05-06 Credit Approval/Credit Overlimit or Past Due Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Credit Overlimit or Past Due Procedure"
+      Link="/Content/05 Credit/05-06 Credit Approval/Credit Overlimit or Past Due Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Credit Warning 1 Policy"
+      Link="/Content/05 Credit/05-06 Credit Approval/Credit Warning 1 Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Credit Warning 2 Policy"
+      Link="/Content/05 Credit/05-06 Credit Approval/Credit Warning 2 Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Credit Warning 4 Policy"
+      Link="/Content/05 Credit/05-06 Credit Approval/Credit Warning 4 Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Credit Warning 7 Policy"
+      Link="/Content/05 Credit/05-06 Credit Approval/Credit Warning 7 Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Credit Warning 9 Policy"
+      Link="/Content/05 Credit/05-06 Credit Approval/Credit Warning 9 Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Monitoring Customer Credit Status Policy"
+      Link="/Content/05 Credit/05-06 Credit Approval/Monitoring Customer Credit Status Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Visiting Customer Credit Approval Overview"
+      Link="/Content/05 Credit/05-06 Credit Approval/Visiting Customer Credit Approval Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="05-06B Customer Privacy">
+    <TocEntry
+      Title="Customer Credit Applications Procedure"
+      Link="/Content/05 Credit/05-06B Customer Privacy/Customer Credit Applications Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Customer Privacy Overview"
+      Link="/Content/05 Credit/05-06B Customer Privacy/Customer Privacy Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Fair Credit Reporting Act (FCRA) Policy"
+      Link="/Content/05 Credit/05-06B Customer Privacy/Fair Credit Reporting Act (FCRA) Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Identity Theft Overview"
+      Link="/Content/05 Credit/05-06B Customer Privacy/Identity Theft Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Red Flag Rule Overview"
+      Link="/Content/05 Credit/05-06B Customer Privacy/Red Flag Rule Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="05-07 Collections">
+    <TocEntry
+      Title="Charge Offs &amp; Bad Debt Policy"
+      Link="/Content/05 Credit/05-07 Collections/Charge Offs &amp; Bad Debt Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Commercial Collections Policy"
+      Link="/Content/05 Credit/05-07 Collections/Commercial Collections Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="DIY Credit and Collections  Policy"
+      Link="/Content/05 Credit/05-07 Collections/DIY Credit &amp; Collections Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Fraudulent Charges Affidavit Procedure"
+      Link="/Content/05 Credit/05-07 Collections/Fraudulent Charges Affidavit Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Fraudulent Charges Policy"
+      Link="/Content/05 Credit/05-07 Collections/Fraudulent Charges Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Process a Direct Payment from a Bad Debt Account Procedure"
+      Link="/Content/05 Credit/05-07 Collections/Process a Direct Payment from a Bad Debt Account Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Review Commercial Charge Account Balances Procedure"
+      Link="/Content/05 Credit/05-07 Collections/Review Commercial Charge Account Balances Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Trial Balance Policy"
+      Link="/Content/05 Credit/05-07 Collections/Trial Balance Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="05-09 Update Customer Information">
+    <TocEntry
+      Title="Delete Customer Record Overview"
+      Link="/Content/05 Credit/05-09 Update Customer Information/Delete Customer Record Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Do Not Call - Customer Preference Policy"
+      Link="/Content/05 Credit/05-09 Update Customer Information/Do Not Call - Customer Preference Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Update Customer Email Preferences Using SOURCE Procedure"
+      Link="/Content/05 Credit/05-09 Update Customer Information/Update Customer Email Preferences Using SOURCE Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Update Customer Information Overview"
+      Link="/Content/05 Credit/05-09 Update Customer Information/Update Customer Information Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Update Customer Information Procedure"
+      Link="/Content/05 Credit/05-09 Update Customer Information/Update Customer Information Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="05-10 Canadian Penny Rounding">
+    <TocEntry
+      Title="Canadian Penny Rounding Overview"
+      Link="/Content/05 Credit/05-10 Canadian Penny Rounding/Canadian Penny Rounding Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Canadian Penny Rounding Policy"
+      Link="/Content/05 Credit/05-10 Canadian Penny Rounding/Canadian Penny Rounding Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Cash Rounded Field Overview"
+      Link="/Content/05 Credit/05-10 Canadian Penny Rounding/Cash Rounded Field Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="05-11 Credit Reporting">
+    <TocEntry
+      Title="Store Bad Debt Allocation Report Overview"
+      Link="/Content/05 Credit/05-11 Credit Reporting/Store Bad Debt Allocation Report Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Bad Debt Allocation Report Procedure"
+      Link="/Content/05 Credit/05-11 Credit Reporting/Store Bad Debt Allocation Report Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="05-12 Customer Credit Information">
+    <TocEntry
+      Title="Customer Credit Information Procedure"
+      Link="/Content/05 Credit/05-12 Customer Credit Information/Customer Credit Information Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

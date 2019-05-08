@@ -1,0 +1,704 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/19 Store Computer (POS) Basics/Store Computer (POS) Basics.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="19-01 COE &amp; POS Menu Screen">
+    <TocEntry
+      Title="Header Screen Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01 COE &amp; POS Menu Screen/Header Screen Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Line Item Detail Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01 COE &amp; POS Menu Screen/Line Item Detail Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Product Lookup Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01 COE &amp; POS Menu Screen/Product Lookup Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Search Capabilities Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01 COE &amp; POS Menu Screen/Search Capabilities Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Status Reminder Box Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01 COE &amp; POS Menu Screen/Status Reminder Box Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="19-01A1 Store Computer">
+    <TocEntry
+      Title="Log in to SOURCE Computer System Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A1 Store Computer/Log in to SOURCE Computer System Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Operation Keys Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A1 Store Computer/Operation Keys Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="POS Toolbar Date &amp; Time Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A1 Store Computer/POS Toolbar Date &amp; Time Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="SOURCE Application Shortcuts Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A1 Store Computer/SOURCE Application Shortcuts Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Computer Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A1 Store Computer/Store Computer Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Computer Policy"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A1 Store Computer/Store Computer Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="19-01A2 SOURCE Desktop Buttons">
+    <TocEntry
+      Title="Acrobat Button Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A2 SOURCE Desktop Buttons/Acrobat Button Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Browser Button Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A2 SOURCE Desktop Buttons/Browser Button Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Inquiry Button Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A2 SOURCE Desktop Buttons/Inquiry Button Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Media Button Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A2 SOURCE Desktop Buttons/Media Button Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Office Button Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A2 SOURCE Desktop Buttons/Office Button Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Quick Order Button Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A2 SOURCE Desktop Buttons/Quick Order Button Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="SOURCE Button Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A2 SOURCE Desktop Buttons/SOURCE Button Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="SOURCE Shared Store E-mail Design Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A2 SOURCE Desktop Buttons/SOURCE Shared Store E-mail Design Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="SOURCE Task Bar Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A2 SOURCE Desktop Buttons/SOURCE Task Bar Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Button Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A2 SOURCE Desktop Buttons/Store Button Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="19-01A3 Email Policy &amp; Etiquette">
+    <TocEntry
+      Title="Email Etiquette Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A3 Email Policy &amp; Etiquette/Email Etiquette Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Email Use Policy"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A3 Email Policy &amp; Etiquette/Email Use Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Send &amp; Receive Restrictions Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A3 Email Policy &amp; Etiquette/Send &amp; Receive Restrictions Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Send an Email Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A3 Email Policy &amp; Etiquette/Send an Email Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="19-01A4 Inquiry Menu">
+    <TocEntry
+      Title="Access Inquiry During Downtime Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A4 Inquiry Menu/Access Inquiry During Downtime Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Bin Location Inquiry Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A4 Inquiry Menu/Bin Location Inquiry Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Book Plan Wallcovering Books Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A4 Inquiry Menu/Book Plan Wallcovering Books Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Color Menu Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A4 Inquiry Menu/Color Menu Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Customers &amp; Pricing Menu Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A4 Inquiry Menu/Customers &amp; Pricing Menu Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Daily Store Information Menu Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A4 Inquiry Menu/Daily Store Information Menu Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Daily Store Information Menu Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A4 Inquiry Menu/Daily Store Information Menu Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Inquiry Menu Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A4 Inquiry Menu/Inquiry Menu Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Inquiry [F4] Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A4 Inquiry Menu/Inquiry [F4] Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Inventory Menu Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A4 Inquiry Menu/Inventory Menu Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Invoices Menu Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A4 Inquiry Menu/Invoices Menu Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Manual Forms Inquiry Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A4 Inquiry Menu/Manual Forms Inquiry Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Miscellaneous Menu Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A4 Inquiry Menu/Miscellaneous Menu Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Sales History Menu Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A4 Inquiry Menu/Sales History Menu Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Accountability Menu Reports Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A4 Inquiry Menu/Store Accountability Menu Reports Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Accountability Reports Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A4 Inquiry Menu/Store Accountability Reports Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Suspend Inquiry &amp; Installer Inquiry Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A4 Inquiry Menu/Suspend Inquiry &amp; Installer Inquiry Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Unit Movement Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A4 Inquiry Menu/Unit Movement Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="View Price Record Cards on Inquiry Menu Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A4 Inquiry Menu/View Price Record Cards on Inquiry Menu Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="19-01A5 End User Quarantine">
+    <TocEntry
+      Title="End User Quarantine Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A5 End User Quarantine/End User Quarantine Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Review &amp; Process the Store Email Quarantine Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A5 End User Quarantine/Review &amp; Process the Store Email Quarantine Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="19-01A6 Passwords">
+    <TocEntry
+      Title="Change Employee Password on POS Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A6 Passwords/Change Employee Password on POS Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Create New Employee Password on POS Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A6 Passwords/Create New Employee Password on POS Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="POS Employee Passwords Policy"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A6 Passwords/POS Employee Passwords Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="SOURCE Intranet Passwords Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A6 Passwords/SOURCE Intranet Passwords Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="19-01A7 AirPrint">
+    <TocEntry
+      Title="Connect or Disconnect to MX310 via iPhone or iPad Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A7 AirPrint/Connect or Disconnect to MX310 via iPhone or iPad Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Print on MX310 via iPhone or iPad Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A7 AirPrint/Print on MX310 via iPhone or iPad Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="19-01A8 Suspend or Recall Function">
+    <TocEntry
+      Title="Suspend or Recall Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A8 Suspend or Recall Function/Suspend or Recall Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Suspend or Recall Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01A8 Suspend or Recall Function/Suspend or Recall Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="19-01B1 SOURCE Intranet &amp; Web Browsing">
+    <TocEntry
+      Title="HEARS on the Web Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01B1 SOURCE Intranet &amp; Web Browsing/HEARS on the Web Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Home Tab Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01B1 SOURCE Intranet &amp; Web Browsing/Home Tab Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Materials Safety Data Sheets (SDS) &amp; Product Data Pages  Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01B1 SOURCE Intranet &amp; Web Browsing/Materials Safety Data Sheets &amp; Product Data Pages Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Sales Tools Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01B1 SOURCE Intranet &amp; Web Browsing/Sales Tools Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Search Information Library Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01B1 SOURCE Intranet &amp; Web Browsing/Search Information Library Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="SOURCE Intranet &amp; Web Browsing Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01B1 SOURCE Intranet &amp; Web Browsing/SOURCE Intranet &amp; Web Browsing Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="SOURCE Intranet Banner Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01B1 SOURCE Intranet &amp; Web Browsing/SOURCE Intranet Banner Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="SOURCE Intranet Tabs Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01B1 SOURCE Intranet &amp; Web Browsing/SOURCE Intranet Tabs Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="SOURCE Messages Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01B1 SOURCE Intranet &amp; Web Browsing/SOURCE Messages Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="SOURCE Operations Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01B1 SOURCE Intranet &amp; Web Browsing/SOURCE Operations Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="19-01B2 SherLink Sales Tool">
+    <TocEntry
+      Title="Access SherLink from Non-Store Computer System Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01B2 SherLink Sales Tool/Access SherLink from Non Store Computer System Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Other SherLink Users Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01B2 SherLink Sales Tool/Other SherLink Users Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="SherLink Password Update Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01B2 SherLink Sales Tool/SherLink Password Update Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="SherLink Sales Tools Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01B2 SherLink Sales Tool/SherLink Sales Tools Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="SherLink Set Up for New Employees Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01B2 SherLink Sales Tool/SherLink Set Up for New Employees Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="19-01B3 SherLink Applications">
+    <TocEntry
+      Title="Create a SherPlan Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01B3 SherLink Applications/Create a SherPlan Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Create SherSpec Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01B3 SherLink Applications/Create SherSpec Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Edit or View SherSpec Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01B3 SherLink Applications/Edit or View SherSpec Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Search for a SherPlan Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-01B3 SherLink Applications/Search for a SherPlan Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="SherPlan Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01B3 SherLink Applications/SherPlan Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="SherSpec Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-01B3 SherLink Applications/SherSpec Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="19-02A POS Open &amp; Start of Day">
+    <TocEntry
+      Title="Morning Drawer Count Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-02A POS Open &amp; Start of Day/Morning Drawer Count Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="POS Login Overiew"
+      Link="/Content/19 Store Computer (POS) Basics/19-02A POS Open &amp; Start of Day/POS Login Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="POS Operating Fund Policy"
+      Link="/Content/19 Store Computer (POS) Basics/19-02A POS Open &amp; Start of Day/POS Operating Fund Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="19-02B Operating &amp; Target Fund">
+    <TocEntry
+      Title="Decrease Operating Fund Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-02B Operating &amp; Target Fund/Decrease Operating Fund Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Increase Operating Fund Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-02B Operating &amp; Target Fund/Increase Operating Fund Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Operating Fund &amp; Target Fund Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-02B Operating &amp; Target Fund/Operating Fund &amp; Target Fund Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Operating Fund &amp; Target Fund Policy"
+      Link="/Content/19 Store Computer (POS) Basics/19-02B Operating &amp; Target Fund/Operating Fund &amp; Target Fund Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Set the Target Fund Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-02B Operating &amp; Target Fund/Set the Target Fund Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Target Fund Replenishment by Donor Store Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-02B Operating &amp; Target Fund/Target Fund Replenishment by Donor Store Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Target Fund Replenishment by Donor Terminal Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-02B Operating &amp; Target Fund/Target Fund Replenishment by Donor Terminal Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Target Fund Replenishment by Draft Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-02B Operating &amp; Target Fund/Target Fund Replenishment by Draft Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Target Fund Replenishment Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-02B Operating &amp; Target Fund/Target Fund Replenishment Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Target Fund Replenishment Verification Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-02B Operating &amp; Target Fund/Target Fund Replenishment Verification Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="19-02C Bank Deposits">
+    <TocEntry
+      Title="Access Interim Deposit Reports Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-02C Bank Deposits/Access Interim Deposit Reports Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="After Hours Bank Deposit Safety Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-02C Bank Deposits/After Hours Bank Deposit Safety Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Bank Deposit Policy"
+      Link="/Content/19 Store Computer (POS) Basics/19-02C Bank Deposits/Bank Deposit Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Bank Deposit Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-02C Bank Deposits/Bank Deposit Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Bank Questions Help"
+      Link="/Content/19 Store Computer (POS) Basics/19-02C Bank Deposits/Bank Questions Help.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Credit Card Deposit Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-02C Bank Deposits/Credit Card Deposit Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Interim Deposit Policy"
+      Link="/Content/19 Store Computer (POS) Basics/19-02C Bank Deposits/Interim Deposit Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Make an Interim Deposit Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-02C Bank Deposits/Interim Deposit Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Reorder Deposit Slips and Bags Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-02C Bank Deposits/Reorder Deposit Slips and Bags Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="19-02D POS Close &amp; End of Day">
+    <TocEntry
+      Title="After Hours Sales  Policy"
+      Link="/Content/19 Store Computer (POS) Basics/19-02D POS Close &amp; End of Day/After Hours Sales Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="After Hours Sales Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-02D POS Close &amp; End of Day/After Hours Sales Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Chase Terminal Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-02D POS Close &amp; End of Day/Chase Terminal Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Close Policy"
+      Link="/Content/19 Store Computer (POS) Basics/19-02D POS Close &amp; End of Day/Close Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Close Transaction from Main POS Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-02D POS Close &amp; End of Day/Close Transaction from Main POS Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Computer-Generated Close Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-02D POS Close &amp; End of Day/Computer-Generated Close Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Drawer Count  Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-02D POS Close &amp; End of Day/Drawer Count Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Interim Deposits Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-02D POS Close &amp; End of Day/Interim Deposits Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Manual Close Policy"
+      Link="/Content/19 Store Computer (POS) Basics/19-02D POS Close &amp; End of Day/Manual Close Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Manual Close Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-02D POS Close &amp; End of Day/Manual Close Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Over/Short at Close Policy"
+      Link="/Content/19 Store Computer (POS) Basics/19-02D POS Close &amp; End of Day/Over Short at Close Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Over/Short at Close Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-02D POS Close &amp; End of Day/Over Short at Close Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Remote Close Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-02D POS Close &amp; End of Day/Remote Close Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="19-03 Help Desk Menu">
+    <TocEntry
+      Title="Access Help Desk Menu Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-03 Help Desk Menu/Access Help Desk Menu Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Help Desk Menu Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-03 Help Desk Menu/Help Desk Menu Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="19-04 Information Security">
+    <TocEntry
+      Title="Information Security &amp; Resources Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-04 Information Security/Information Security &amp; Resources Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="19-05 Downtime Processing">
+    <TocEntry
+      Title="Downtime Processing Forms Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-05 Downtime Processing/Downtime Processing Forms Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Downtime Processing Instructions Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-05 Downtime Processing/Downtime Processing Instructions Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="19-09 Manager Functions">
+    <TocEntry
+      Title="Access Price Record Cards Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-09 Manager Functions/Access Price Record Cards Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Adjust File Listings Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-09 Manager Functions/Adjust File Listings Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Adjust Store Specials Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-09 Manager Functions/Adjust Store Specials Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Look Up Price Record Card Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-09 Manager Functions/Look Up Price Record Card Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Manager Functions - Attendance &amp; Time Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-09 Manager Functions/Manager Functions - Attendance &amp; Time Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Manager Functions - DM Approval Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-09 Manager Functions/Manager Functions - DM Approval Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Manager Functions - Downloaded Reports Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-09 Manager Functions/Manager Functions - Downloaded Reports Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Manager Functions - Employee Maintenance Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-09 Manager Functions/Manager Functions - Employee Maintenance Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Manager Functions - Holidays Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-09 Manager Functions/Manager Functions - Holidays Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Manager Functions - Store Staffing Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-09 Manager Functions/Manager Functions - Store Staffing Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Manager Functions - System Control Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-09 Manager Functions/Manager Functions - System Control Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Manager Functions Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-09 Manager Functions/Manager Functions Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Manager Functions Policy"
+      Link="/Content/19 Store Computer (POS) Basics/19-09 Manager Functions/Manager Functions Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Print Current Price Schedules Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-09 Manager Functions/Print Current Price Schedules Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Print Price Schedules Policy"
+      Link="/Content/19 Store Computer (POS) Basics/19-09 Manager Functions/Print Price Schedules Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Review Price Remedy Reports Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-09 Manager Functions/Review Price Remedy Reports Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Review Store Specials Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-09 Manager Functions/Review Store Specials Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Transaction Type Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-09 Manager Functions/Transaction Type Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Unlink a Customer Labor Charge Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-09 Manager Functions/Unlink a Customer Labor Charge Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Use Word Processing Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-09 Manager Functions/Use Word Processing Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="19-10 Ordering POS Manual Forms &amp; Supplies">
+    <TocEntry
+      Title="All Stores - Keyboard &amp; Mouse &amp; Air Dusters Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-10 Ordering POS Manual Forms &amp; Supplies/All Stores - Keyboard &amp; Mouse &amp; Air Dusters Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="All Stores – Reorder Labels Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-10 Ordering POS Manual Forms &amp; Supplies/All Stores - Reorder Labels Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="All Stores – Reorder Printer Cartridges Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-10 Ordering POS Manual Forms &amp; Supplies/All Stores - Reorder Printer Cartridges Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Order POS Manual Forms &amp; Supplies Policy"
+      Link="/Content/19 Store Computer (POS) Basics/19-10 Ordering POS Manual Forms &amp; Supplies/Order POS Manual Forms &amp; Supplies Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Order POS Manual Forms &amp; Supplies Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-10 Ordering POS Manual Forms &amp; Supplies/Order POS Manual Forms &amp; Supplies Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="19-11 Store Hours">
+    <TocEntry
+      Title="Change Store Hours in POS Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-11 Store Hours/Change Store Hours in POS Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Change Store Hours in SOURCE Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-11 Store Hours/Change Store Hours in SOURCE Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Change Store Hours Policy"
+      Link="/Content/19 Store Computer (POS) Basics/19-11 Store Hours/Change Store Hours Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Holiday Schedule - Auto Branches CDN Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-11 Store Hours/Holiday Schedule - Auto Branches CDN Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Holiday Schedule - Auto Branches US Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-11 Store Hours/Holiday Schedule - Auto Branches US Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Holiday Schedule - PFG Facilities CDN Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-11 Store Hours/Holiday Schedule - PFG Facilities CDN Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Holiday Schedule - PFG Facilities US Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-11 Store Hours/Holiday Schedule - PFG Facilities US Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Holiday Schedule - TAG Canada Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-11 Store Hours/Holiday Schedule - TAG Canada Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Holiday Schedule – TAG US Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-11 Store Hours/Holiday Schedule - TAG US Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Hours on Comex Brands Website Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-11 Store Hours/Store Hours on Comex Brands Website Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Hours on MAB Website Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-11 Store Hours/Store Hours on MAB Website Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Hours Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-11 Store Hours/Store Hours Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="19-13 Emergency POS Shutdown">
+    <TocEntry
+      Title="Emergency POS Shutdown Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-13 Emergency POS Shutdown/Emergency POS Shutdown Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Emergency POS Shutdown Policy"
+      Link="/Content/19 Store Computer (POS) Basics/19-13 Emergency POS Shutdown/Emergency POS Shutdown Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Emergency POS Shutdown Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-13 Emergency POS Shutdown/Emergency POS Shutdown Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Emergency Situation Preparation Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-13 Emergency POS Shutdown/Emergency Situation Preparation Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Evacuation POS Shutdown Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-13 Emergency POS Shutdown/Evacuation POS Shutdown Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

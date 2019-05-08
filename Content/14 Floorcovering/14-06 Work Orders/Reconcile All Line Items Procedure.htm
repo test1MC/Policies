@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPageFloorcovering.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>Reconcile All Line Items Procedure</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p>Step</p>
+                    </th>
+                    <th>
+                        <p>Action</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <p> Is the installer who completed the work different from the original <b>work order</b>?</p>
+                        <table style="width: 100%;">
+                         
+                            <thead>
+                                <tr>
+                                    <th>If</th>
+                                    <th>Then</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Yes</td>
+                                    <td>Select <b>Y</b> to update the header information.</td>
+                                </tr>
+                                <tr>
+                                    <td>No</td>
+                                    <td>Select <b>N</b> to continue.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p>Note: Changing <b>the installer account number</b> on the order header will backfill the <b>work order</b> and ensure the correct installer is paid through disbursement.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>2</p>
+                    </td>
+                    <td>
+                        <p>When selecting <b>Reconcile All Line Items</b>, items that have not been reconciled will display as <b>N (new)</b>. </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>3</p>
+                        <p>&#160;</p>
+                    </td>
+                    <td>
+                        <p><b>Typing A (approve)</b> in the <b>Status Column</b> will allow you to reconcile the item. </p>
+                        <p>
+                            <img src="../../Resources/Images/14-06 Work Orders/Reconcile All Line Items Procedure.jpg" alt="1406_figz" /> </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>4</p>
+                        <p>&#160;</p>
+                    </td>
+                    <td>
+                        <p>Are you returning any material?</p>
+                        <p>
+                            <img src="../../Resources/Images/14-06 Work Orders/Reconcile All Line Items Procedure_1.jpg" alt="1406_figaa" />
+                        </p>
+                        <table style="width: 100%;">
+                         
+                            <thead>
+                                <tr>
+                                    <th>If</th>
+                                    <th>Then</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Yes</td>
+                                    <td>Proceed to <b>Step 6</b>.</td>
+                                </tr>
+                                <tr>
+                                    <td>No</td>
+                                    <td>Type 0.00 as the <b>Length</b>. Press <b>enter</b> to continue.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p>Note: To reconcile a roll good, you will note any material being returned from the job that will either be returned to inventory or expensed by typing the returned length in the <b>Length Field</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>5</p>
+                        <p>&#160;</p>
+                    </td>
+                    <td>
+                        <p>Select <b>Approved</b> to complete the transaction and press <b>[F1] Accept</b> to return to the previous screen.</p>
+                        <p>Note: Select <b>No Action</b> to cancel and return to the previous screen.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>6</p>
+                    </td>
+                    <td>
+                        <p>Enter the <b>Return Length</b>.</p>
+                        <p>Note: Returning any amount in <b>Reconciliation</b> will require the same adjustment for that product through <b>Customer Order Entry</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>7</p>
+                    </td>
+                    <td>
+                        <p>Identify the type of return:</p>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>
+                                        <p>If</p>
+                                    </th>
+                                    <th>
+                                        <p>Then</p>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td style="font-weight: bold;">
+                                        <p>Expense Disposal</p>
+                                    </td>
+                                    <td>
+                                        <p>Amount disposed will be staged for <b>Store Expense</b> under <b>CY INV SHRINK 3710-125</b>. You must complete a <b>Store Expense Transaction</b> for the reconciled material. </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="font-weight: bold;">
+                                        <p>Expense to Asset Value</p>
+                                    </td>
+                                    <td>
+                                        <p>You will be prompted to print a <b>Stock Tag</b>. </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="font-weight: bold;">
+                                        <p>Return to Inventory</p>
+                                    </td>
+                                    <td>
+                                        <p>You will be prompted to a <b>Stock Tag</b>.</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p>Note: If you select <b>Return to Inventory or Approved</b>, your product will now show a status of <b>C (closed)</b>.&#160;Products selected for <b>Expense Disposal</b> will show a status of <b>A (approved)</b>.&#160;Once the <b>Store Expense Transaction</b> has been completed, the status will automatically change to <b>C (closed)</b>. When approving labor, you will have a final chance to make adjustments to <b>Labor Class Codes</b>, <b>Customer Price</b>, and <b>Installer Cost</b>.&#160;Changes made in <b>Reconciliation</b> will back fill both the <b>Work Order</b> and <b>Customer Order</b>. If your <b>Return Quantity</b> does not match your <b>Reserved/Assigned Quantity</b>, you will receive an error message asking to re-enter the length being returned.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>8</p>
+                    </td>
+                    <td>
+                        <p>Press <b>[F1] Accept</b> to complete the transaction and return to the previous screen.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>9</p>
+                    </td>
+                    <td>
+                        <p>Do you want to enter/change any <b>special instructions</b>?</p>
+                        <table style="width: 100%;">
+                         
+                            <thead>
+                                <tr>
+                                    <th>If</th>
+                                    <th>Then</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Yes</td>
+                                    <td>Enter <b>special instructions</b> and press <b>[F1] Accept</b> to continue.</td>
+                                </tr>
+                                <tr>
+                                    <td>No</td>
+                                    <td>Select <b>N</b> and press <b>[F1] Accept</b> to continue.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p>Note: If any material has been returned through <b>Reconciliation</b>, the system will warn you that the reconciled quantity no longer matches the quantity in the <b>customer order</b>.&#160;You MUST make changes to the <b>customer order</b> BEFORE you can bill the customer for this product.&#160; If line item will not be sold to the customer (entire amount returned), you can opt to perform <b>Order Disposition</b> instead of adjusting the order.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin Version="3" SkinType="Component" Comment="HTML5 Search Bar skin" ComponentType="SearchBar" EnableResponsiveOutput="True">
+    <Stylesheet>
+        <Styles>
+            <Style Name="Search Bar">
+                <Properties>
+                    <Property Name="BorderTopLeftRadius">5px</Property>
+                    <Property Name="BorderTopRightRadius">5px</Property>
+                    <Property Name="BorderBottomRightRadius">5px</Property>
+                    <Property Name="BorderBottomLeftRadius">5px</Property>
+                    <Property Name="Width">500px</Property>
+                    <Property Name="Height">32px</Property>
+                    <Property Name="MarginLeft">0px</Property>
+                    <Property Name="MarginTop">0px</Property>
+                </Properties>
+            </Style>
+            <Style Name="Search Submit Button">
+                <Properties>
+                    <Property Name="BackgroundImage">url('24px-search-white.png')</Property>
+                    <Property Name="BackgroundGradient">vertical #555 #999</Property>
+                    <Property Name="BackgroundColor">#666</Property>
+                    <Property Name="Width">3em</Property>
+                </Properties>
+            </Style>
+            <Style Name="Search Filter Drop-down">
+                <Properties>
+                    <Property Name="Color">#696969</Property>
+                    <Property Name="BackgroundGradient">vertical #ffffff #ffffff</Property>
+                    <Property Name="BackgroundColor">#000000</Property>
+                </Properties>
+            </Style>
+            <Style Name="Search Filter (selected)">
+                <Properties>
+                    <Property Name="BackgroundColor">#000000</Property>
+                    <Property Name="BackgroundGradient">vertical #afddfb #afddfb</Property>
+                </Properties>
+            </Style>
+            <Style Name="Search Filter Drop-down (hover)">
+                <Properties>
+                    <Property Name="BackgroundGradient">vertical #2199e8 #2199e8</Property>
+                    <Property Name="Color">#ffffff</Property>
+                </Properties>
+            </Style>
+            <Style Name="Search Filter">
+                <Properties>
+                    <Property Name="BackgroundGradient">vertical transparent transparent</Property>
+                    <Property Name="BorderLeft">solid 0px #ffffff</Property>
+                    <Property Name="BorderRight">solid 0px #ffffff</Property>
+                </Properties>
+            </Style>
+            <Medium Name="Mobile">
+                <Style Name="Search Bar">
+                    <Properties>
+                        <Property Name="Width">90%</Property>
+                    </Properties>
+                </Style>
+            </Medium>
+            <Style Name="Search Submit Button (hover)">
+                <Properties>
+                    <Property Name="BackgroundGradient">vertical #999 #555</Property>
+                    <Property Name="BackgroundColor">#999</Property>
+                    <Property Name="BackgroundImage">url('24px-search-white.png')</Property>
+                </Properties>
+            </Style>
+            <Style Name="Search Input">
+                <Properties>
+                    <Property Name="BackgroundColor">transparent</Property>
+                    <Property Name="BackgroundGradient">vertical #f5f5f5 #ffffff</Property>
+                    <Property Name="PaddingLeft">15px</Property>
+                    <Property Name="FontSize">17px</Property>
+                </Properties>
+            </Style>
+        </Styles>
+        <Resources>
+            <Resource Name="24px-search-white.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0hIgzMEGJB+U2/4AUozFQe5ODOvOybwEcljSHX0dGRg29nP/SWQF8jkLPCKLGRi4hUCY8dLduj9AQbYkb3cXhv8guGDv8slAEfYST19X9vus0rwm+hXpbJ5AU+d5ujiGeHgfnXxe2yVQos391BWdGVJdR3Wm8mr/b5q0VOPkITZub7FpXrN67Q8eSro2adOmzdM2fNWO1BATU1F6/PNc5Xq95+f2GktWvlo5833t/uJl1sY765eGrZ5awLe9QP57QfDmSVlnDxcxmn+QfJ04s5QrKptH7FRFV2/S3U3XLi+MOGJ8u6uww9tC7e3Ws49u+AUev9IedPWqrb5Ff27X/g0zjV67hIiqOydy2MdcNV66Qu/ax9D2t3xaXIprdsxKd3/ss+Z1uIxorzNHf81xw0WFaiXuf7seRzwWOFR9v7Akaw5n7O/1LjaZMk4S/w/dMj3XkndvvUWcKZ/ing+y7vuPzbwg+0G7Txqou7z2+MY1QN3hf7qSo4G6I+8X3knqX7Qrgv19juMZDS7FLemVb7PmMb8JkkmYaSX4rcNaRN35YF3R+2ti20w6K0MX8SdtLu7ZvMrLSkTc8F+/mdxHl1uvVe4VOB1f4lwoI5+z2nPWriXS1z9y1Rd1Zu9o+OieZVLnycJda6FTbVr2oU6qvt5TSmZaReejawcaD6p2RbGn1+12ebxfZfpvFs5fUWW3vt5JAUYeg6ern8s6p4QmAB0kGcEuAgAA</Resource>
+        </Resources>
+        <Stylesheet>
+        </Stylesheet>
+    </Stylesheet>
+    <Strings>
+        <Stylesheet lang="en-us">
+            <Stylesheet>
+                <Styles>
+                    <Style Name="Search Bar">
+                        <Properties>
+                            <Property Name="Width">80%</Property>
+                            <Property Name="BorderTopLeftRadius">0px</Property>
+                            <Property Name="BorderTopRightRadius">0px</Property>
+                            <Property Name="BorderBottomRightRadius">0px</Property>
+                            <Property Name="BorderBottomLeftRadius">0px</Property>
+                        </Properties>
+                    </Style>
+                    <Style Name="Search Submit Button">
+                        <Properties>
+                            <Property Name="Width">4em</Property>
+                            <Property Name="BackgroundImage">url('24px-search-white.png')</Property>
+                            <Property Name="BackgroundGradient">vertical #808080 #a9a9a9</Property>
+                            <Property Name="BackgroundColor">#808080</Property>
+                        </Properties>
+                    </Style>
+                    <Style Name="Search Filter Drop-down">
+                        <Properties>
+                            <Property Name="Color">#696969</Property>
+                            <Property Name="BackgroundGradient">vertical #ffffff #ffffff</Property>
+                            <Property Name="BackgroundColor">#000000</Property>
+                        </Properties>
+                    </Style>
+                    <Style Name="Search Filter (selected)">
+                        <Properties>
+                            <Property Name="BackgroundColor">#000000</Property>
+                            <Property Name="BackgroundGradient">vertical #afddfb #afddfb</Property>
+                        </Properties>
+                    </Style>
+                    <Style Name="Search Filter Drop-down (hover)">
+                        <Properties>
+                            <Property Name="BackgroundGradient">vertical #2199e8 #2199e8</Property>
+                            <Property Name="Color">#ffffff</Property>
+                        </Properties>
+                    </Style>
+                    <Style Name="Search Filter">
+                        <Properties>
+                            <Property Name="BackgroundGradient">vertical transparent transparent</Property>
+                            <Property Name="BorderLeft">solid 0px #ffffff</Property>
+                            <Property Name="BorderRight">solid 0px #ffffff</Property>
+                        </Properties>
+                    </Style>
+                    <Medium Name="Mobile">
+                        <Style Name="Search Bar">
+                            <Properties>
+                                <Property Name="Width">90%</Property>
+                            </Properties>
+                        </Style>
+                    </Medium>
+                    <Style Name="Search Input">
+                        <Properties>
+                            <Property Name="Placeholder">Use search to find a topic</Property>
+                        </Properties>
+                    </Style>
+                </Styles>
+                <Resources>
+                    <Resource Name="24px-search-white.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0hIgzMEGJB+U2/4AUozFQe5ODOvOybwEcljSHX0dGRg29nP/SWQF8jkLPCKLGRi4hUCY8dLduj9AQbYkb3cXhv8guGDv8slAEfYST19X9vus0rwm+hXpbJ5AU+d5ujiGeHgfnXxe2yVQos391BWdGVJdR3Wm8mr/b5q0VOPkITZub7FpXrN67Q8eSro2adOmzdM2fNWO1BATU1F6/PNc5Xq95+f2GktWvlo5833t/uJl1sY765eGrZ5awLe9QP57QfDmSVlnDxcxmn+QfJ04s5QrKptH7FRFV2/S3U3XLi+MOGJ8u6uww9tC7e3Ws49u+AUev9IedPWqrb5Ff27X/g0zjV67hIiqOydy2MdcNV66Qu/ax9D2t3xaXIprdsxKd3/ss+Z1uIxorzNHf81xw0WFaiXuf7seRzwWOFR9v7Akaw5n7O/1LjaZMk4S/w/dMj3XkndvvUWcKZ/ing+y7vuPzbwg+0G7Txqou7z2+MY1QN3hf7qSo4G6I+8X3knqX7Qrgv19juMZDS7FLemVb7PmMb8JkkmYaSX4rcNaRN35YF3R+2ti20w6K0MX8SdtLu7ZvMrLSkTc8F+/mdxHl1uvVe4VOB1f4lwoI5+z2nPWriXS1z9y1Rd1Zu9o+OieZVLnycJda6FTbVr2oU6qvt5TSmZaReejawcaD6p2RbGn1+12ebxfZfpvFs5fUWW3vt5JAUYeg6ern8s6p4QmAB0kGcEuAgAA</Resource>
+                </Resources>
+                <Stylesheet>
+                </Stylesheet>
+            </Stylesheet>
+        </Stylesheet>
+    </Strings>
+</CatapultSkin>

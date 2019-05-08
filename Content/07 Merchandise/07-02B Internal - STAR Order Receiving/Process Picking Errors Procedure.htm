@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPageMerch.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>Process Picking Errors Procedure</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p>Step</p>
+                    </th>
+                    <th>
+                        <p>Action</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <p>Add the product that was picked in error to the order. Receive "0" quantity for the product that was not received.</p>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>
+                                        <p>If</p>
+                                    </th>
+                                    <th>
+                                        <p>Then</p>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <p>Picking Error results in extra product</p>
+                                    </td>
+                                    <td>
+                                        <p>Add the product to the order by moving to a <b>blank line</b> and entering the <b>appropriate sales number</b> and the quantity received.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>Receive a Dealer product</p>
+                                    </td>
+                                    <td>
+                                        <p>Enter the <b>Dealer product</b> on the purchase order using number <b>9901-12484 PICKING ERROR</b> and enter the quantity received. The order quantity and cost will be zero. Press the <b>COMMENTS key</b> to add the <b>product name</b> and <b>REX number</b>. <b>Headquarters</b> will generate an <b>IBAR</b> for the store.</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>2</p>
+                    </td>
+                    <td>
+                        <p><a href="file:///S:/METHSHAR/intranetpublishedsites/policy/MADCAP/Content/Mackenzie/Updated/07-02B Internal - STAR Order Receiving.doc#customerservice">Contact Customer Service</a> to determine the procedures for returning or keeping the merchandise. If the merchandise is returned, perform a <b>Reason Code 2 IBAR.</b></p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

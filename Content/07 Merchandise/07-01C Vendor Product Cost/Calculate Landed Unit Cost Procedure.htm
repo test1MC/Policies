@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPageMerch.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>Calculate Landed Unit Cost Procedure</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p>Step</p>
+                    </th>
+                    <th>
+                        <p>Action</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <p>Calculate the <b>received line items percent</b> of the <b>total extended cost.</b></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>2</p>
+                    </td>
+                    <td>
+                        <p>Calculate the <b>received line items amount of total received freight</b> by multiplying the <b>received line items percent of total extended cost.</b></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>3</p>
+                    </td>
+                    <td>
+                        <p>Divide the <b>received line items amount of received freight</b> by <b>quantity received.</b></p>
+                        <p>Note: This process will provide a <b>true landed cost</b> for all products except <b>book wallcovering</b> where the freight is sold as a separate line item and not included in <b>Landed Unit Cost.</b></p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>In the following example, several different products were ordered on the same Purchase Order:</p>
+        <p>Estimated Freight = $8.00</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p>Quantity Ordered</p>
+                    </th>
+                    <th>
+                        <p>Quantity Received</p>
+                    </th>
+                    <th>
+                        <p>Unit Store Cost</p>
+                    </th>
+                    <th>
+                        <p>Extended Store Cost</p>
+                    </th>
+                    <th>
+                        <p>Percent of Total Extended Cost</p>
+                    </th>
+                    <th>
+                        <p>Received freight charge by line item</p>
+                    </th>
+                    <th>
+                        <p>Received freight charge per unit</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>10</p>
+                    </td>
+                    <td>
+                        <p>10</p>
+                    </td>
+                    <td>
+                        <p>2.00</p>
+                    </td>
+                    <td>
+                        <p>20.00</p>
+                    </td>
+                    <td>
+                        <p>20%</p>
+                    </td>
+                    <td>
+                        <p>1.50</p>
+                    </td>
+                    <td>
+                        <p>.15</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>5</p>
+                    </td>
+                    <td>
+                        <p>5</p>
+                    </td>
+                    <td>
+                        <p>10.00</p>
+                    </td>
+                    <td>
+                        <p>50.00</p>
+                    </td>
+                    <td>
+                        <p>50%</p>
+                    </td>
+                    <td>
+                        <p>3.75</p>
+                    </td>
+                    <td>
+                        <p>.75</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <p>30.00</p>
+                    </td>
+                    <td>
+                        <p>30.00</p>
+                    </td>
+                    <td>
+                        <p>30%</p>
+                    </td>
+                    <td>
+                        <p>2.25</p>
+                    </td>
+                    <td>
+                        <p>2.25</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>&#160;</p>
+                    </td>
+                    <td>
+                        <p>&#160;</p>
+                    </td>
+                    <td>
+                        <p>Total</p>
+                    </td>
+                    <td>
+                        <p>100.00</p>
+                    </td>
+                    <td>
+                        <p>Received Freight</p>
+                    </td>
+                    <td>
+                        <p>7.50</p>
+                    </td>
+                    <td>
+                        <p>&#160;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>Estimated Freight = $8.00</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p>Quantity Ordered</p>
+                    </th>
+                    <th>
+                        <p>Quantity Received</p>
+                    </th>
+                    <th>
+                        <p>Unit Store Cost</p>
+                    </th>
+                    <th>
+                        <p>Extended Store Cost</p>
+                    </th>
+                    <th>
+                        <p>Percent of Total Extended Cost</p>
+                    </th>
+                    <th>
+                        <p>Received freight charge by line item</p>
+                    </th>
+                    <th>
+                        <p>Received freight charge per unit</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>10</p>
+                    </td>
+                    <td>
+                        <p>10</p>
+                    </td>
+                    <td>
+                        <p>2.00</p>
+                    </td>
+                    <td>
+                        <p>20.00</p>
+                    </td>
+                    <td>
+                        <p>40%</p>
+                    </td>
+                    <td>
+                        <p>1.50</p>
+                    </td>
+                    <td>
+                        <p>.15</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>5</p>
+                    </td>
+                    <td>
+                        <p>0</p>
+                    </td>
+                    <td>
+                        <p>10.00</p>
+                    </td>
+                    <td>
+                        <p>&#160;</p>
+                    </td>
+                    <td>&#160;</td>
+                    <td>
+                        <p>&#160;</p>
+                    </td>
+                    <td>
+                        <p>&#160;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <p>30.00</p>
+                    </td>
+                    <td>
+                        <p>30.00</p>
+                    </td>
+                    <td>
+                        <p>60%</p>
+                    </td>
+                    <td>
+                        <p>2.25</p>
+                    </td>
+                    <td>
+                        <p>2.25</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>&#160;</p>
+                    </td>
+                    <td>
+                        <p>&#160;</p>
+                    </td>
+                    <td>
+                        <p>Total</p>
+                    </td>
+                    <td>
+                        <p>50.00</p>
+                    </td>
+                    <td>
+                        <p>Received Freight</p>
+                    </td>
+                    <td>
+                        <p>3.75</p>
+                    </td>
+                    <td>
+                        <p>&#160;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Revision Details</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="revision-details">
+                    <table class="revision">
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Revision Type</th>
+                                <th>Description</th>
+                                <th>Requester - admin only</th>
+                                <th>Initial - admin only</th>
+                                <th>Misc - admin only</th>
+                                <th>Include in year end - admin only</th>
+                                <th>Doc Title, hidden</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="revdate">03/01</td>
+                                <td class="revtype">Revised</td>
+                                <td class="revdescrip">&#160;</td>
+                                <td class="revrequester">&#160;</td>
+                                <td class="revinitial">&#160;</td>
+                                <td class="revmisc">&#160;</td>
+                                <td class="revyear-end">&#160;</td>
+                                <td class="revdoc-title"><MadCap:variable name="System.Title" />
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

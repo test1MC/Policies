@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    Comment=""
+    Name="Audience A"
+    BackgroundColor="#90ee90" />
+  <ConditionTag
+    Comment=""
+    Name="Audience B"
+    BackgroundColor="Red" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="PolicyNProcedure"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="PNPBuckets"
+    Comment="" />
+</CatapultConditionTagSet>

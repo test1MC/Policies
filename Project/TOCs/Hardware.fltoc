@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/03 Hardware/Hardware.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="03-01 Secondary POS Station Installation">
+    <TocEntry
+      Title="Install Secondary POS Hardware Procedure"
+      Link="/Content/03 Hardware/03-01 Secondary POS Station Installation/Install Secondary POS Hardware Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Secondary POS Station Installation Kit Contents"
+      Link="/Content/03 Hardware/03-01 Secondary POS Station Installation/Secondary POS Station Installation Kit Contents.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Secondary POS Station Installation Overview"
+      Link="/Content/03 Hardware/03-01 Secondary POS Station Installation/Secondary POS Station Installation Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="03-02 PC Connections Guide">
+    <TocEntry
+      Title="PC Connections Overview"
+      Link="/Content/03 Hardware/03-02 PC Connections Guide/PC Connections Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="03-03 Motorola Access Point Installation">
+    <TocEntry
+      Title="Install New Motorola Access Point Procedure"
+      Link="/Content/03 Hardware/03-03 Motorola Access Point Installation/Install New Motorola Access Point Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Replace Cisco Router with Motorola Access Point Procedure"
+      Link="/Content/03 Hardware/03-03 Motorola Access Point Installation/Replace Cisco Router with Motorola Access Point Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="03-04 USB Scanner Set Up Guide">
+    <TocEntry
+      Title="Set Up Symbol LS2208 USB Scanner Procedure"
+      Link="/Content/03 Hardware/03-04 USB Scanner Set Up Guide/Set Up Symbol LS2208 USB Scanner Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="03-05 Printer Installation">
+    <TocEntry
+      Title="Install Lexmark MFP Printer Procedure"
+      Link="/Content/03 Hardware/03-05 Printer Installation/Install Lexmark MFP Printer Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Lexmark MX310 Printer User Guide Overview"
+      Link="/Content/03 Hardware/03-05 Printer Installation/Lexmark MX310 Printer User Guide Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="03-06 Automatic Tinter Installation">
+    <TocEntry
+      Title="Automatic Tinter - Installation Kit Contents"
+      Link="/Content/03 Hardware/03-06 Automatic Tinter Installation/Automatic Tinter - Installation Kit Contents.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Automatic Tinter Installation Overview"
+      Link="/Content/03 Hardware/03-06 Automatic Tinter Installation/Automatic Tinter Installation Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Install Tint Station Client Hardware Procedure"
+      Link="/Content/03 Hardware/03-06 Automatic Tinter Installation/Install Tint Station Client Hardware Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="03-07 Sher-Color Color Matching Color Eye Ci52">
+    <TocEntry
+      Title="Install Ci52 Sher-Color Color Matching Color Eye Procedure"
+      Link="/Content/03 Hardware/03-07 Sher-Color Color Matching Color Eye Ci52/Install Ci52 Sher-Color Color Matching Color Eye Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="03-08 Hughes Modem Network">
+    <TocEntry
+      Title="Connect Hughes HR4700 HAN Modem to Network Overview"
+      Link="/Content/03 Hardware/03-08 Hughes Modem Network/Connect Hughes HR4700 HAN Modem to Network Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Connect Hughes HR4700 HAN Modem to Network Overview"
+      Link="/Content/03 Hardware/03-08 Hughes Modem Network/Connect Hughes HR7700 HAN Modem to Network Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="03-09 POS Installation">
+    <TocEntry
+      Title="Install Manager Computer Hardware Procedure"
+      Link="/Content/03 Hardware/03-09 POS Installation/Install Manager Computer Hardware Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Install Motorola Access Point Procedure"
+      Link="/Content/03 Hardware/03-09 POS Installation/Install Motorola Access Point Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Install POS Hardware Procedure"
+      Link="/Content/03 Hardware/03-09 POS Installation/Install POS Hardware Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Main POS &amp; Main Manager Station Installation Overview"
+      Link="/Content/03 Hardware/03-09 POS Installation/Main POS &amp; Main Manager Station Installation Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="POS Installation Kit Contents Overview"
+      Link="/Content/03 Hardware/03-09 POS Installation/POS Installation Kit Contents Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="03-10 Additional Manager Station">
+    <TocEntry
+      Title="Additional Manager Station Installation Kit Contents Overview"
+      Link="/Content/03 Hardware/03-10 Additional Manager Station/Additional Manager Station Installation Kit Contents Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Install Additional Manager Station Hardware"
+      Link="/Content/03 Hardware/03-10 Additional Manager Station/Install Additional Manager Station Hardware.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="03-11 Printer Maintenance">
+    <TocEntry
+      Title="Change Epson Thermal Printer Ribbon Procedure"
+      Link="/Content/03 Hardware/03-11 Printer Maintenance/Change Epson Thermal Printer Ribbon Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Change Toner Cartridge  Procedure"
+      Link="/Content/03 Hardware/03-11 Printer Maintenance/Change Toner Cartridge Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Load Paper or Envelopes Procedure"
+      Link="/Content/03 Hardware/03-11 Printer Maintenance/Load Paper or Envelopes Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

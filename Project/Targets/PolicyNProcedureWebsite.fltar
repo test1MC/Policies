@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="all"
+  DefaultUrl="/Content/HomePage.htm"
+  MasterStylesheetOverride="true"
+  GetLatestBeforeCompile="true"
+  DisableAutoSync="true"
+  Skin="(none)"
+  MenuSkin="/Project/Skins/Menu.flskn"
+  SearchBarSkin="/Project/Skins/SearchBar.flskn"
+  SearchResultsSkin="/Project/Skins/SearchResults.flskn"
+  MasterPage="/Content/Resources/MasterPages/FullWidth.flmsp"
+  ConditionTagExpression="include[General.PolicyNProcedure] exclude[General.PNPBuckets] ">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+</CatapultTarget>

@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+	
+	  <link href="../Fonts/fontawesome/css/all.css" rel="stylesheet"> 
+		<link href="../foundation/css/foundation.css" rel="stylesheet" type="text/css" />
+        <link href="../Stylesheets/TopicStyles.css" rel="stylesheet" type="text/css" />
+        <link href="../Stylesheets/ChristinaStyles.css" rel="stylesheet" type="text/css" />
+		       
+    </head>
+    <body>
+        <div class="off-canvas-wrapper">
+            <div class="off-canvas-wrapper-inner" data-off-canvas-wrapper="">
+                <!-- All the visible content of the page is in this 'off-canvas-content' container -->
+                <div class="off-canvas-content" data-off-canvas-content="">
+                    <!-- Page content -->
+                    <section id="page-content">
+                        <!-- header and search box -->
+                        <div class="grid-x" data-equalizer="" id="header-area">
+                            <!-- header area for medium and large devices -->
+                            <div class="show-for-medium medium-2 large-2 cell">
+                                <a href="../../HomePage.htm" target="_self">
+                                    <img src="../Images/logo.png" class="header-image" />
+                                </a>
+                            </div>
+                            <div class="show-for-medium medium-8 large-8 cell" id="no-padding">
+                                <div id="header-search">
+                                    <MadCap:searchBarProxy />
+                                </div>
+                            </div>
+                            <div class="show-for-medium medium-2 large-2 cell" id="no-padding">
+                                <div class="grid-x">
+                                    <button type="button" class="primary show-button button float-right">Show Categories</button>
+                                </div>
+                                <div class="hidden-overlay">
+                                    <div class="grid-x grid-padding-x align-center">
+                                        <div class="cell-container">
+                                            <div class="home cell large-auto">COE &amp; POS <i class="fi-credit-card"></i></div>
+                                        </div>
+                                        <div class="cell-container">
+                                            <div class="home cell large-auto">Human Resources &amp;&#160;Kronos <i class="fi-calendar"></i></div>
+                                        </div>
+                                        <div class="cell-container">
+                                            <div class="home cell large-auto">Merchandise &amp;&#160;Inventory <i class="fi-pricetag-multiple"></i></div>
+                                        </div>
+                                        <div class="cell-container">
+                                            <div class="home cell large-auto">Store Maintenance &amp;&#160;Loss Prevention <i class="fi-dollar"></i></div>
+                                        </div>
+                                    </div>
+                                    <div class="grid-x grid-padding-x align-center">
+                                        <div class="cell-container">
+                                            <div class="home cell large-auto">
+                                                <MadCap:xref href="COE &amp; POS.htm">COE &amp; POS <i class="fi-credit-card"></i></MadCap:xref>
+                                            </div>
+                                        </div>
+                                        <div class="cell-container">
+                                            <div class="home cell large-auto">
+                                                <MadCap:xref href="Human Resources &amp; Kronos.htm">Human Resources &amp;&#160;Kronos <i class="fi-calendar"></i></MadCap:xref>
+                                            </div>
+                                        </div>
+                                        <div class="cell-container">
+                                            <div class="home cell large-auto">
+                                                <MadCap:xref href="Merchandise &amp; Inventory.htm">Merchandise &amp;&#160;Inventory <i class="fi-pricetag-multiple"></i></MadCap:xref>
+                                            </div>
+                                        </div>
+                                        <div class="cell-container">
+                                            <div class="home cell large-auto">
+                                                <MadCap:xref href="Store Maintenance &amp; Loss Prevention.htm">Store Maintenance &amp;&#160;Loss Prevention <i class="fi-dollar"></i></MadCap:xref>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Container for accordion menu and topic body -->
+                        <div class="grid-x">
+                            <!-- Container for accordion menu on left -->
+                            <div class="show-for-medium medium-4 large-3 cell" id="nav-accordion-visible">
+                                <MadCap:menuProxy data-mc-skin="/Project/Skins/Menu.flskn" style="mc-toc-depth: -1;mc-context-sensitive: False;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" />
+                            </div>
+                            <!-- Container for topic content on right -->
+                            <div class="small-12 medium-8 large-9 cell" id="topic-content">
+                                <MadCap:breadcrumbsProxy />
+                                <MadCap:bodyProxy />
+                            </div>
+                        </div>
+                        <!-- END Container for accordion menu and topic body -->
+                        <!-- footer -->
+                        <MadCap:snippetBlock src="../Snippets/Footer.flsnp" />
+                    </section>
+                    <!-- END page content -->
+                </div>
+                <!-- END off canvas content -->
+            </div>
+            <!-- END off canvas wrapper inner -->
+        </div>
+        <!-- END off canvas wrapper -->
+        <!-- scripts -->
+        <script type="text/javascript" src="../foundation/js/vendor/what-input.js">
+        </script>
+        <script type="text/javascript" src="../foundation/js/vendor/foundation.js">
+        </script>
+        <script type="text/javascript" src="../Scripts/foundation-menu-off-canvas-initialisation.js">
+        </script>
+        <script type="text/javascript" src="../Scripts/common.js">
+        </script>
+        <script type="text/javascript" src="../Scripts/css.js">
+        </script>
+        
+        <script type="text/javascript" src="../Scripts/ChristinaScripts.js">
+        </script>
+    </body>
+</html>

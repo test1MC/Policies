@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin Version="3" SkinType="Component" Comment="HTML5 Search Bar skin" ComponentType="SearchBar" EnableResponsiveOutput="True">
+    <Stylesheet>
+        <Styles>
+            <Style Name="Search Bar">
+                <Properties>
+                    <Property Name="MarginTop">0px</Property>
+                    <Property Name="BorderTopLeftRadius">1px</Property>
+                    <Property Name="BorderTopRightRadius">1px</Property>
+                    <Property Name="BorderBottomRightRadius">1px</Property>
+                    <Property Name="BorderBottomLeftRadius">1px</Property>
+                </Properties>
+            </Style>
+            <Style Name="Search Input">
+                <Properties>
+                    <Property Name="FontSize">14px</Property>
+                    <Property Name="Color">#333</Property>
+                </Properties>
+            </Style>
+            <Style Name="Search Submit Button">
+                <Properties>
+                    <Property Name="BackgroundColor">#666</Property>
+                    <Property Name="BackgroundImage">url('24px-search-white.png')</Property>
+                    <Property Name="BackgroundGradient">vertical #555 #999</Property>
+                </Properties>
+            </Style>
+            <Style Name="Search Submit Button (hover)">
+                <Properties>
+                    <Property Name="BackgroundGradient">vertical #999 #555</Property>
+                    <Property Name="BackgroundColor">#999</Property>
+                </Properties>
+            </Style>
+        </Styles>
+        <Resources>
+            <Resource Name="24px-search-white.png">H4sIAAAAAAAEAAEPAvD9iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALEQAACxEBf2RfkQAAAAd0SU1FB98FGw00L3hnBkkAAAGeSURBVEhLxZPPK0RRGIZHytQsmBqKxSyVDSv/gpKlKMnCBgtLFpZKmo0/wcJi1pKysrOWsPUrWSgWFiQi4/nOea8u5869Mxl56qmZ732/c6Y7M7l/pVarlXAOt3Af93BTs5JqzcNyATfwGethmXUKWmsMFsp4io1i3bLW06FYxDPbinGISzgm7bXN4thOUcfUh1LV1T0vOI9tir+wmTLrRFQVJ0NhCD9c1TOlqC7W8VWH7Q4qCiGsuJpnR+NMrOtXHBWNQwiPfMcxonEmdEf9iuNY4xDCe99xdGqcCV37r0Q8aRxCGP/C2jXOhG7erzheNQ4hvPAdR7/GmdAd8CuOG41DCHd9x7GscSZ0V/yKY1vjEMJZ33HcYo+iulgH72xBzCgKIbRnee1qngPsUhxgmToR9og7FCdDwX5y79YWtjSJeVWiD2Kzc4yzqko6FBcx/o82HvFE2usk3nBCx6RDcRwfbKtJmrqkG9fxCn9yiWu4gPFHajR+SQQLfTgsezV28H4af39JGhyWeIni1sCBwSWKWgdnfrtE478kl/sECfpadtr13GQAAAAASUVORK5CYILqSTxbDwIAAA==</Resource>
+        </Resources>
+    </Stylesheet>
+    <Strings />
+</CatapultSkin>

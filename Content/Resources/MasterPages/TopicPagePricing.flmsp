@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+   <head>
+	 <link href="../Fonts/fontawesome/css/all.css" rel="stylesheet"> 
+		<link href="../foundation/css/foundation.css" rel="stylesheet" type="text/css" />
+        <link href="../Stylesheets/TopicStyles.css" rel="stylesheet" type="text/css" />
+        <link href="../Stylesheets/ChristinaStyles.css" rel="stylesheet" type="text/css" />
+	 
+		       
+    </head>
+    <body>
+        <MadCap:snippetBlock src="../Snippets/PageHeader.flsnp" MadCap:conditions="General.PolicyNProcedure" />
+        <MadCap:snippetBlock src="../Snippets/PageHeaderBuckets.flsnp" MadCap:conditions="General.PNPBuckets" />
+        <!-- Page content -->
+        <section id="page-content">
+            <!-- Container for accordion menu and topic body -->
+            <div class="grid-x grid-container">
+                <!-- Container for accordion menu on left -->
+                <div class="show-for-medium medium-3 large-3 cell" id="sidebar-nav">
+                    <MadCap:menuProxy data-mc-skin="/Project/Skins/SidebarMenu.flskn" style="mc-toc-depth: -1;mc-context-sensitive: False;mc-include-parent: True;mc-include-siblings: True;mc-include-children: True;" mc-linked-toc="/Project/TOCs/Pricing.fltoc" />
+                </div>
+                <!-- Container for topic content on right -->
+                <div class="small-12 medium-9 large-9 cell" id="topic-content">
+					<MadCap:breadcrumbsProxy />
+					<MadCap:bodyProxy />
+                </div>
+            </div>
+            <!-- END Container for accordion menu and topic body -->
+            <!-- footer -->
+            <MadCap:snippetBlock src="../Snippets/Footer.flsnp" />
+        </section>
+        <!-- END page content -->
+        <!-- scripts -->
+        <script type="text/javascript" src="../foundation/js/vendor/what-input.js">
+        </script>
+        <script type="text/javascript" src="../foundation/js/vendor/foundation.js">
+        </script>
+        <script type="text/javascript" src="../Scripts/foundation-menu-off-canvas-initialisation.js">
+        </script>
+        <script type="text/javascript" src="../Scripts/common.js">
+        </script>
+        <script type="text/javascript" src="../Scripts/css.js">
+        </script>
+       	<script type="text/javascript" src="../Scripts/js.cookie.min.js">
+		</script>
+        <script type="text/javascript" src="../Scripts/ChristinaScripts.js">
+        </script>
+    </body>
+</html>

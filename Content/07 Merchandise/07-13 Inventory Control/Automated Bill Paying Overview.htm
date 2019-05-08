@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPageMerch.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>Automated Bill Paying Overview</h1>
+        <p><b>Purchase Orders</b> that reflect received merchandise are compared to the <b>vendors open invoice file</b> at <b>Headquarters</b>. The comparison will first take the <b>Purchase Order number</b> from the invoice and compare it to the <b>Purchase Order file</b> to find a match:</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p>If</p>
+                    </th>
+                    <th>
+                        <p>Then</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>No match is found</p>
+                    </td>
+                    <td>
+                        <p>The invoice is returned to the <b>invoice file</b>. If the invoice remains unmatched, the invoice will be returned to the vendor requesting them to follow-up with the store to validate the <b>Purchase Order number</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Match is found</p>
+                    </td>
+                    <td>
+                        <p>The merchandise amount on the invoice is matched to the merchandise amount on the <b>Purchase Order</b>. </p>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>
+                                        <p>If</p>
+                                    </th>
+                                    <th>
+                                        <p>Then</p>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <p>No discrepancy</p>
+                                    </td>
+                                    <td>
+                                        <p>The invoice is sent to <b>Accounts Payable</b>.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>Pricing or quantity discrepancies</p>
+                                    </td>
+                                    <td>
+                                        <p><b>Chargeback</b> is automatically prepared. Both the <b>invoice</b> and <b>Chargeback</b> are sent to <b>Accounts Payable</b>.</p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p><b>Expense invoices</b> are not automatically processed. Follow the current procedures for <b>processing / paying expense invoices</b>. For more information on these processes, please refer to the <MadCap:xref href="../../01 Accounting &amp; Filing/01-03A SWeep Expense Transmittals/Expense Invoice Submission Procedure.htm">Expense Invoice Submission Procedure.</MadCap:xref></p>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Revision Details</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="revision-details">
+                    <table class="revision">
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Revision Type</th>
+                                <th>Description</th>
+                                <th>Requester - admin only</th>
+                                <th>initial - admin only</th>
+                                <th>misc - admin only</th>
+                                <th>include in year end - admin only</th>
+                                <th>Doc Title, hidden</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="revdate">05/05</td>
+                                <td class="revtype">Revised</td>
+                                <td class="revdescrip">&#160;</td>
+                                <td class="revrequester">&#160;</td>
+                                <td class="revinitial">&#160;</td>
+                                <td class="revmisc">&#160;</td>
+                                <td class="revyear-end">&#160;</td>
+                                <td class="revdoc-title"><MadCap:variable name="System.Title" />
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

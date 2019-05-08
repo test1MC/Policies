@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPagePOSBasics.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>Line Item Detail Overview</h1>
+        <p>
+            <img src="../../Resources/Images/09-01C Point of Sale/09-01C Point of Sale.png" />
+        </p>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p>Area</p>
+                    </th>
+                    <th>
+                        <p>Description</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>1</p>
+                    </td>
+                    <td>
+                        <p>Indicates keys that can be used for transaction in progress.</p>
+                        <p>Note: Press <b>COMMENTS [F9]</b> to add comments to the line item entry, which, when printed, will appear on the line below the related retail item.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>2</p>
+                    </td>
+                    <td>
+                        <p>Up to a fifteen digit sales number that identifies the type of merchandise purchased. The 1<b>2-digit Universal Product Code (UPC/Bar Code)</b> number can also be entered.</p>
+                        <p><i>Note:</i>: Press <b>LOOKUP [F3]</b> to search for products </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>3</p>
+                    </td>
+                    <td>
+                        <p>A two-digit size abbreviation of the item being purchased (ex. 14 - Quarts, 16 - Gallons, 20 - 5's).</p>
+                        <p><i>Note:</i> Size codes will be used during entry, but the size of item being purchased will print on the customers invoice. Press <b>LOOKUP [F3]</b> to launch the <b>Size List Menu</b> or access size codes via <b>INQUIRY [F4]</b> -&gt; <b>Size Codes</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>4</p>
+                    </td>
+                    <td>
+                        <p>Up to a twenty-character description of the product being purchased</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>5</p>
+                    </td>
+                    <td>
+                        <p>Number of items being purchased.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>6</p>
+                    </td>
+                    <td>
+                        <p>Unit selling price of each item being purchased. To review the pricing method for a product, arrow up to the appropriate line item and press <b>Shift</b> + <b>PRC Method [F9]</b>. The system will retrieve the price’s source and display in the following fields:</p>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>
+                                        <p>Codes</p>
+                                    </th>
+                                    <th>
+                                        <p>Definition</p>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        <p>Version</p>
+                                    </td>
+                                    <td>
+                                        <p>The system assigned number to a schedule that returned the price.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>*</p>
+                                    </td>
+                                    <td>
+                                        <p>Not priced from a schedule. Method will explain where price came from.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2">
+                                        <p><b>Examples</b>
+                                        </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>DX060ABC</p>
+                                    </td>
+                                    <td>
+                                        <p>A Market Segment Residential Repaint</p>
+                                        <p>Level A from the RR Market Segment Schedule</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>Br060MV1</p>
+                                    </td>
+                                    <td>
+                                        <p>LP-15.0%</p>
+                                        <p>ProDiscounts</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <p>*</p>
+                                    </td>
+                                    <td>
+                                        <p>Exception</p>
+                                        <p>Price pulled from customer’s <b>PRC</b></p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>7</p>
+                    </td>
+                    <td>
+                        <p>Extended price of items being purchased. (Quantity X Net Selling = Extended Price)</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>8</p>
+                    </td>
+                    <td>
+                        <p>Individual flag for tax rule on each line item.</p>
+                        <p>Note: For more information on tax—including exceptions and exemptions—see section 13.0 in the Policy and Procedure Manual.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>9</p>
+                    </td>
+                    <td>
+                        <p>Continuous before tax amount of purchase.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>10</p>
+                    </td>
+                    <td>
+                        <p>Standard sales tax applied to the <b>Sale</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>11</p>
+                    </td>
+                    <td>
+                        <p>Amount owed by customer, including any discounts and sales tax, for the transaction being processed.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>Note: For information on Form of Payment, see <a href="http://prodweb.sherwin.com/stores/policy/08.0/html_files/my08-01C.htm">08-01C Form of Payment</a>.</p>
+    </body>
+</html>

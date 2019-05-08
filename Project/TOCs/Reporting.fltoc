@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/18 Reporting/Reporting.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="18-02 Store Reports">
+    <TocEntry
+      Title="Automotive Store Reports Overview"
+      Link="/Content/18 Reporting/18-02 Store Reports/Automotive Store Reports Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Printed Reports Disposal Policy"
+      Link="/Content/18 Reporting/18-02 Store Reports/Printed Reports Disposal Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Reports Help"
+      Link="/Content/18 Reporting/18-02 Store Reports/Store Reports Help.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Reports Overview"
+      Link="/Content/18 Reporting/18-02 Store Reports/Store Reports Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Reports Policy"
+      Link="/Content/18 Reporting/18-02 Store Reports/Store Reports Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Reports Procedure"
+      Link="/Content/18 Reporting/18-02 Store Reports/Store Reports Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="18-03 MicroStrategy Web">
+    <TocEntry
+      Title="MicroStrategy Web Procedure"
+      Link="/Content/18 Reporting/18-03 MicroStrategy Web/MicroStrategy Web Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="18-04 FACTFinder - System Features, Access, &amp; Help">
+    <TocEntry
+      Title="FACTFinder Data Overview"
+      Link="/Content/18 Reporting/18-04 FACTFinder - System Features, Access, &amp; Help/FACTFinder Data Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="FACTFinder Help"
+      Link="/Content/18 Reporting/18-04 FACTFinder - System Features, Access, &amp; Help/FACTFinder Help.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="FACTFinder Home Screen Overview"
+      Link="/Content/18 Reporting/18-04 FACTFinder - System Features, Access, &amp; Help/FACTFinder Home Screen Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="FACTFinder Overview"
+      Link="/Content/18 Reporting/18-04 FACTFinder - System Features, Access, &amp; Help/FACTFinder Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="FACTFinder Policy"
+      Link="/Content/18 Reporting/18-04 FACTFinder - System Features, Access, &amp; Help/FACTFinder Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="FACTFinder System Access Procedure"
+      Link="/Content/18 Reporting/18-04 FACTFinder - System Features, Access, &amp; Help/FACTFinder System Access Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="FACTFinder Updates Overview"
+      Link="/Content/18 Reporting/18-04 FACTFinder - System Features, Access, &amp; Help/FACTFinder Updates Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="18-05 FACTFinder - Available Reports">
+    <TocEntry
+      Title="Discrepancy Report Overview"
+      Link="/Content/18 Reporting/18-05 FACTFinder - Available Reports/Discrepancy Report Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Fixed Assets Report Procedure"
+      Link="/Content/18 Reporting/18-05 FACTFinder - Available Reports/Fixed Assets Report Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Invoice Search Report Procedure"
+      Link="/Content/18 Reporting/18-05 FACTFinder - Available Reports/Invoice Search Report Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Request Correction on Invoice Procedure"
+      Link="/Content/18 Reporting/18-05 FACTFinder - Available Reports/Request Correction on Invoice Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Billing Report Procedure"
+      Link="/Content/18 Reporting/18-05 FACTFinder - Available Reports/Store Billing Report Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store P&amp;L Report Procedure"
+      Link="/Content/18 Reporting/18-05 FACTFinder - Available Reports/Store P&amp;L Report Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Stores Purchases Report (SPR) Policy"
+      Link="/Content/18 Reporting/18-05 FACTFinder - Available Reports/Stores Purchases Report SPR Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Stores Purchases Report (SPR) Procedure"
+      Link="/Content/18 Reporting/18-05 FACTFinder - Available Reports/Stores Purchases Report SPR Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="18-06 FACTFinder - Report Functions">
+    <TocEntry
+      Title="FACTFinder A/R Drilldown Function Procedure"
+      Link="/Content/18 Reporting/18-06 FACTFinder - Report Functions/FACTFinder AR Drilldown Function Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="FACTFinder Find Function Procedure"
+      Link="/Content/18 Reporting/18-06 FACTFinder - Report Functions/FACTFinder Find Function Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="FACTFinder Notes Function Procedure"
+      Link="/Content/18 Reporting/18-06 FACTFinder - Report Functions/FACTFinder Notes Function Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="FACTFinder Search Screen (Cost Center) Function Overview"
+      Link="/Content/18 Reporting/18-06 FACTFinder - Report Functions/FACTFinder Search Screen (Cost Center) Function Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="FACTFinder Search Screen (Division) Function Overview"
+      Link="/Content/18 Reporting/18-06 FACTFinder - Report Functions/FACTFinder Search Screen (Division) Function Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="18-07 FACTFinder - Inventory Report">
+    <TocEntry
+      Title="Access FACTFinder Inventory Report Procedure"
+      Link="/Content/18 Reporting/18-07 FACTFinder - Inventory Report/Access FACTFinder Inventory Report Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="FACTFinder Inventory Report Filters Overview"
+      Link="/Content/18 Reporting/18-07 FACTFinder - Inventory Report/FACTFinder Inventory Report Filters Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="FACTFinder Inventory Report Full Overview"
+      Link="/Content/18 Reporting/18-07 FACTFinder - Inventory Report/FACTFinder Inventory Report Full Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="FACTFinder Inventory Report Help"
+      Link="/Content/18 Reporting/18-07 FACTFinder - Inventory Report/FACTFinder Inventory Report Help.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="FACTFinder Inventory Report Overview"
+      Link="/Content/18 Reporting/18-07 FACTFinder - Inventory Report/FACTFinder Inventory Report Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="FACTFinder Inventory Report Summary Overview"
+      Link="/Content/18 Reporting/18-07 FACTFinder - Inventory Report/FACTFinder Inventory Report Summary Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Generate FACTFinder Inventory Report Procedure"
+      Link="/Content/18 Reporting/18-07 FACTFinder - Inventory Report/Generate FACTFinder Inventory Report Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

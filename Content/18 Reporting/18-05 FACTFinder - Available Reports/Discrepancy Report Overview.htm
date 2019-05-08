@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPageReporting.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>Discrepancy Report Overview</h1>
+        <p>The <b>Discrepancy Report</b> is being replaced by the <b>Notes/Questions feature</b> in <b>FACTFinder</b> where stores can send a question or comment to the appropriate group in order to correct <b>expense errors</b> on the <b>Stores Purchases Report</b>. The <b>Notes/Questions feature</b> permits questions for both <b>External and Internal Purchases</b>. The <b>expense errors</b> could be:</p>
+        <ul>
+            <li>The store was charged for an <b>expense invoice</b> in error.</li>
+            <li>An <b>expense invoice</b> is charged to the wrong <b>Prime-Sub Account</b>.</li>
+            <li>The wrong amount was charged.</li>
+            <li>The store was charged for the same <b>expense merchandise</b> twice.</li>
+        </ul>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p>Source</p>
+                    </th>
+                    <th>
+                        <p>PurchaseType</p>
+                    </th>
+                    <th>
+                        <p>General Mailbox</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <p>SWP, External Invoices without a PO#</p>
+                    </td>
+                    <td>
+                        <p>External</p>
+                    </td>
+                    <td>
+                        <p>AP Expense</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>MMS, External Invoices with a PO#</p>
+                    </td>
+                    <td>
+                        <p>External</p>
+                    </td>
+                    <td>
+                        <p>AP Merchandise</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, VI</p>
+                    </td>
+                    <td>
+                        <p>Internal</p>
+                    </td>
+                    <td>
+                        <p>Store Billing</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>Note: <b>IST transactions</b> billed for an incorrect quantity, amount, etc. should be corrected with an <b>IST cancel transaction</b>, followed by a subsequent <b>IST transaction</b> to bill the items correctly. <b>Expense transactions</b> that were processed for an incorrect quantity or to an incorrect prime sub should be corrected with an <b>Expense Cancel transaction</b>, followed by a subsequent <b>Expense transaction</b> to expense the items correctly. For more information, see <MadCap:xref href="../../08 Point of Sale Transactions/08-19 Store Expense Cancel/Cancel Store Expense Procedure.htm">Cancel Store Expense Procedure</MadCap:xref>.</p>
+    </body>
+</html>

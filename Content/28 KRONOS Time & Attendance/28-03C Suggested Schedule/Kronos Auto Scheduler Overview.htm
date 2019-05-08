@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="en-us" style="mc-master-page: url('..\..\Resources\MasterPages\TopicPageKronos.flmsp');">
+    <head><title></title>
+    </head>
+    <body>
+        <h1>Kronos Auto Scheduler Overview </h1>
+        <p>The <b>Kronos auto scheduler</b> runs every Wednesday at 12:00AM and generates a schedule two weeks out. Factors influencing the suggested schedule include:</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>
+                        <p>Factor</p>
+                    </th>
+                    <th>
+                        <p>Influencers</p>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td rowspan="4">
+                        <p>Store Hours</p>
+                    </td>
+                    <td>
+                        <p>Store open/close times are fed to <b>Kronos</b> based on what is maintained in <b>Source</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p><b>Kronos</b> is aware of extended hours for national events.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p><b>Kronos</b> is aware of truncated hours for certain holidays (ex.&#160;Christmas Eve).</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p><b>Kronos</b> is aware of <b>target hours</b> and will not create a <b>schedule</b> that goes above these hours.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td rowspan="5">
+                        <p>Employee Information</p>
+                    </td>
+                    <td>
+                        <p><b>Kronos</b> knows employees’ job titles and status and the hours associated to each role. <b>Kronos</b> will not schedule an employee above their base hours (ex.&#160;Store Manager = 48 HRS, Part-Time = 28HRS).</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p><b>Kronos</b> will only schedule <b>keyholders</b> to open or close the store.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>For employees with <b>availability</b>, <b>Kronos</b> will only schedule employees during times in which they are <b>available</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>For employees with <b>patterns</b>, <b>Kronos</b> will schedule the <b>assigned pattern</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p><b>Kronos</b> will honor an approved <b>time-off requests</b> and not schedule employees during their <b>requests time-off</b>.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td rowspan="2">
+                        <p>Labor Demand</p>
+                    </td>
+                    <td>
+                        <p><b>Kronos</b> forecasts time and resources needed to accommodate sales and <b>tinting</b>.&#160;<b>Kronos</b> will schedule to these <b>forecasted hours</b>; the <b>forecasted hours</b> will be less than your <b>target hours</b>.</p>
+                        <ul>
+                            <li><b>Kronos</b> has <b>historical tinting data</b> by day/hour.</li>
+                            <li>The <b>sales forecast</b> is informed by <b>historical volume of sales</b> by day/hour to both <b>DIY and wholesale customers</b>.&#160; </li>
+                            <li><b>Kronos</b> is also aware of <b>national store events</b> occurring during the <b>schedule</b> and anticipates extra volume for these events.&#160; </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p><b>Kronos</b> knows when a <b>STAR Order</b> should arrive and will schedule a resource to be on-hand for receipt.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <MadCap:dropDown>
+            <MadCap:dropDownHead>
+                <MadCap:dropDownHotspot>Revision Details</MadCap:dropDownHotspot>
+            </MadCap:dropDownHead>
+            <MadCap:dropDownBody>
+                <div class="revision-details">
+                    <table class="revision">
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <col />
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Revision Type</th>
+                                <th>Description</th>
+                                <th>Requester - admin only</th>
+                                <th>initial - admin only</th>
+                                <th>misc - admin only</th>
+                                <th>include in year end - admin only</th>
+                                <th>Doc Title, hidden</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="revdate">10/17</td>
+                                <td class="revtype">Revised</td>
+                                <td class="revdescrip">Information on Kronos store staffing and scheduling has been added including details on the following topics: availability, patterns, generated schedules, manager schedule edits, schedule posting, and employee shift swaps.
+
+</td>
+                                <td class="revrequester">&#160;</td>
+                                <td class="revinitial">&#160;</td>
+                                <td class="revmisc">&#160;</td>
+                                <td class="revyear-end">&#160;</td>
+                                <td class="revdoc-title"><MadCap:variable name="System.Title" />
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </MadCap:dropDownBody>
+        </MadCap:dropDown>
+    </body>
+</html>

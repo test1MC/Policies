@@ -1,0 +1,880 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/08 Point of Sale Transactions/Point of Sale Transactions.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="08-01 Sales Policy">
+    <TocEntry
+      Title="Dealer or Distributor Sales Policy"
+      Link="/Content/08 Point of Sale Transactions/08-01 Sales Policy/Dealer or Distributor Sales Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Resale Policy"
+      Link="/Content/08 Point of Sale Transactions/08-01 Sales Policy/Resale Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Sales Policy"
+      Link="/Content/08 Point of Sale Transactions/08-01 Sales Policy/Sales Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-01B Gift Cards">
+    <TocEntry
+      Title="General Paints Gift Card Redemption Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-01B Gift Cards/General Paints Gift Card Redemption Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="General Paints Gift Card Sale  Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-01B Gift Cards/General Paints Gift Card Sale Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Gift Card Help"
+      Link="/Content/08 Point of Sale Transactions/08-01B Gift Cards/Gift Card Help.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Gift Card Ordering &amp; Inventory Policy"
+      Link="/Content/08 Point of Sale Transactions/08-01B Gift Cards/Gift Card Ordering &amp; Inventory Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Gift Card Overview"
+      Link="/Content/08 Point of Sale Transactions/08-01B Gift Cards/Gift Card Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Gift Card Policy"
+      Link="/Content/08 Point of Sale Transactions/08-01B Gift Cards/Gift Card Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Gift Card Return Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-01B Gift Cards/Gift Card Return Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Gift Card Sale Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-01B Gift Cards/Gift Card Sale Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Inactive Gift Card  Policy"
+      Link="/Content/08 Point of Sale Transactions/08-01B Gift Cards/Inactive Gift Card Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Lost, Stolen, or Damaged Gift Card Policy"
+      Link="/Content/08 Point of Sale Transactions/08-01B Gift Cards/Lost, Stolen, or Damaged Gift Card Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Process &amp; Validate Gift Card During Downtime Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-01B Gift Cards/Process &amp; Validate Gift Card During Downtime Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Return Merchandise Purchased with Gift Cards Policy"
+      Link="/Content/08 Point of Sale Transactions/08-01B Gift Cards/Return Merchandise Purchased with Gift Cards Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-01C Form of Payment">
+    <TocEntry
+      Title="Amex Authorization Overview"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Amex Authorization Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Authorization Form Overview"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Authorization Form Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Canadian Check Verification Overview"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Canadian Check Verification Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Canadian Debit Card  Policy"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Canadian Debit Card Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Card on File with Customer Not Present Sales Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Card on File with Customer Not Present Sales Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Charge Account Transaction Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Charge Account Transaction Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Charge Transactions Overview"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Charge Transactions Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Charge Transactions Policy"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Charge Transactions Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Chase Payment Terminal Overview"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Chase Payment Terminal Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Check Log Overview"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Check Log Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Check Payment Policy"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Check Payment Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Check Payment Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Check Payment Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Comchek Payment Policy"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Comchek Payment Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Comchek Payment Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Comchek Payment Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Corporate Purchasing or Procurement Card Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Corporate Purchasing or Procurement Card Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Correct a Debit Transaction Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Correct a Debit Transaction Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Credit Card Authorization Numbers Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Credit Card Authorization Numbers Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Credit Card Error Message Overview"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Credit Card Error Message Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Credit Card Incident Reporting Overview"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Credit Card Incident Reporting Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Credit Card Information Overview"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Credit Card Information Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Credit Card Information Retention and Disposal Policy"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Credit Card Information Retention and Disposal Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Credit Card Transaction Security Policy"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Credit Card Transaction Security Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Credit or Debit Card Payment Policy"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Credit or Debit Card Payment Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Credit or Debit Card Transaction with Customer Present Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Credit or Debit Card Transaction with Customer Present Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Daily Close Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Daily Close Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Debit Transaction Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Debit Transaction Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Declined Credit Card Transaction Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Declined Credit Card Transaction Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Downtime Sales Transactions Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Downtime Sales Transactions Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Embossed Credit Card  Downtime Policy"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Embossed Credit Card Downtime Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Employee PCI Compliance  Overview"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Employee PCI Compliance Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Form of Payment Overview"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Form of Payment Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Partial Credit Approval Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Partial Credit Approval Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Payment Card Industry Compliance Overview"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Payment Card Industry Compliance Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Reprint Debit Transaction Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-01C Form of Payment/Reprint Debit Transaction Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-01D Community Discount Program">
+    <TocEntry
+      Title="Community Discount Postcards Procedure"
+      Link="/Content/22 Discounts &amp; Donations/22-02 Community Discount Program/Community Discount Postcards Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Community Discount Program Overview"
+      Link="/Content/22 Discounts &amp; Donations/22-02 Community Discount Program/Community Discount Program Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Community Discount Program Policy"
+      Link="/Content/22 Discounts &amp; Donations/22-02 Community Discount Program/Community Discount Program Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-01E Preferred Customer Program">
+    <TocEntry
+      Title="Preferred Customer Program Enrollment Overview"
+      Link="/Content/02 Advertising &amp; Visual Merchandising/02-05 Preferred Customer Program/Preferred Customer Program Enrollment Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Preferred Customer Program Overview"
+      Link="/Content/02 Advertising &amp; Visual Merchandising/02-05 Preferred Customer Program/Preferred Customer Program Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Preferred Customer Program Policy"
+      Link="/Content/02 Advertising &amp; Visual Merchandising/02-05 Preferred Customer Program/Preferred Customer Program Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Preferred Customer Redemption Procedure"
+      Link="/Content/02 Advertising &amp; Visual Merchandising/02-05 Preferred Customer Program/Preferred Customer Redemption Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-01G Employee &amp; Company Discount">
+    <TocEntry
+      Title="Automotive Employee Account Override Procedure"
+      Link="/Content/22 Discounts &amp; Donations/22-03 Employee &amp; Company Discount/Automotive Employee Account Override Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Automotive Employee Account Overview"
+      Link="/Content/22 Discounts &amp; Donations/22-03 Employee &amp; Company Discount/Automotive Employee Account Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Convert  Employee Accounts to Preferred Customer Accounts Procedure"
+      Link="/Content/22 Discounts &amp; Donations/22-03 Employee &amp; Company Discount/Convert Employee Accounts to Preferred Customer Accounts Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Employee &amp; Company Discount Overview"
+      Link="/Content/22 Discounts &amp; Donations/22-03 Employee &amp; Company Discount/Employee &amp; Company Discount Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Employee &amp; Company Discount Policy"
+      Link="/Content/22 Discounts &amp; Donations/22-03 Employee &amp; Company Discount/Employee &amp; Company Discount Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Employee &amp; Company Discount Procedure"
+      Link="/Content/22 Discounts &amp; Donations/22-03 Employee &amp; Company Discount/Employee &amp; Company Discount Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-01H Groupon Discount Processing">
+    <TocEntry
+      Title="Groupon Discount Processing Help"
+      Link="/Content/22 Discounts &amp; Donations/22-04 Groupon Discount Processing/Groupon Discount Processing Help.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Groupon Discount Processing Procedure"
+      Link="/Content/22 Discounts &amp; Donations/22-04 Groupon Discount Processing/Groupon Discount Processing Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-01I Military Discount">
+    <TocEntry
+      Title="Military Discount Overview"
+      Link="/Content/22 Discounts &amp; Donations/22-05 Military Discount/Military Discount Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Military Discount Policy"
+      Link="/Content/22 Discounts &amp; Donations/22-05 Military Discount/Military Discount Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Military Discount Procedure"
+      Link="/Content/22 Discounts &amp; Donations/22-05 Military Discount/Military Discount Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-01J Coupons &amp; Discount">
+    <TocEntry
+      Title="Coupon Printing Overview"
+      Link="/Content/22 Discounts &amp; Donations/22-01 Coupons &amp; Discount/Coupon Printing Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Coupon Usage Report Procedure"
+      Link="/Content/22 Discounts &amp; Donations/22-01 Coupons &amp; Discount/Coupon Usage Report Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Coupons Overview"
+      Link="/Content/22 Discounts &amp; Donations/22-01 Coupons &amp; Discount/Coupons Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Discount Key &amp; Overrides Overview"
+      Link="/Content/22 Discounts &amp; Donations/22-01 Coupons &amp; Discount/Discount Key &amp; Overrides Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-02 Return Transaction">
+    <TocEntry
+      Title="Automotive Cash Returns Over $100 Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-02 Return Transaction/Automotive Cash Returns Over $100 Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Automotive  Customer Rebate Program Overview"
+      Link="/Content/08 Point of Sale Transactions/08-02 Return Transaction/Automotive Customer Rebate Program Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Automotive  Customer Rebate Program Policy"
+      Link="/Content/08 Point of Sale Transactions/08-02 Return Transaction/Automotive Customer Rebate Program Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Cash Refund Verification Policy"
+      Link="/Content/08 Point of Sale Transactions/08-02 Return Transaction/Cash Refund Verification Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Cash Refund Verification Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-02 Return Transaction/Cash Refund Verification Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Charge Returns Policy"
+      Link="/Content/08 Point of Sale Transactions/08-02 Return Transaction/Charge Returns Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Charge Returns Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-02 Return Transaction/Charge Returns Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Create eExpense Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-02 Return Transaction/Create eExpense Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Credit Card Returns Policy"
+      Link="/Content/08 Point of Sale Transactions/08-02 Return Transaction/Credit Card Returns Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Credit Card Returns Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-02 Return Transaction/Credit Card Returns Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Deposit Refund Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-02 Return Transaction/Deposit Refund Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Miscellaneous Return Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-02 Return Transaction/Miscellaneous Return Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="No Drafts – Cash Refund Over $100 Policy"
+      Link="/Content/08 Point of Sale Transactions/08-02 Return Transaction/No Drafts - Cash Refund Over $100 Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="No Drafts – Cash Refund Over $100 Policy"
+      Link="/Content/08 Point of Sale Transactions/08-02 Return Transaction/No Drafts Cash Refund Over $100 Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Rebate Request Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-02 Return Transaction/Rebate Request Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Return Transaction Policy"
+      Link="/Content/08 Point of Sale Transactions/08-02 Return Transaction/Return Transaction Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Return Transaction Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-02 Return Transaction/Return Transaction Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Return Transaction Security Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-02 Return Transaction/Return Transaction Security Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Returned Merchandise Originally Purchased at Another S-W Store Policy"
+      Link="/Content/08 Point of Sale Transactions/08-02 Return Transaction/Returned Merchandise Originally Purchased at Another S-W Store Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Special Order  Return Policy"
+      Link="/Content/08 Point of Sale Transactions/08-02 Return Transaction/Special Order Return Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Draft for Refund Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-02 Return Transaction/Store Draft for Refund Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Wallcovering Return Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-02 Return Transaction/Wallcovering Return Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-03 Payment on Account">
+    <TocEntry
+      Title="Customer Payment Information Overview"
+      Link="/Content/08 Point of Sale Transactions/08-03 Payment on Account/Customer Payment Information Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Customer Payment Information Policy"
+      Link="/Content/08 Point of Sale Transactions/08-03 Payment on Account/Customer Payment Information Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Customer Payment Information Retention Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-03 Payment on Account/Customer Payment Information Retention Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Electronic Funds Transfer (EFT) Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-03 Payment on Account/Electronic Funds Transfer (EFT) Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="National Credit Center Contact Information Help"
+      Link="/Content/08 Point of Sale Transactions/08-03 Payment on Account/National Credit Center Contact Information Help.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Payment on Account at a Shipping Store Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-03 Payment on Account/Payment on Account at a Shipping Store Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Payment on Account Discount Policy"
+      Link="/Content/08 Point of Sale Transactions/08-03 Payment on Account/Payment on Account Discount Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Payment on Account Policy"
+      Link="/Content/08 Point of Sale Transactions/08-03 Payment on Account/Payment on Account Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Payment on Account Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-03 Payment on Account/Payment on Account Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Payment on Account with More than 50 Invoices Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-03 Payment on Account/Payment on Account with More than 50 Invoices Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Special Payment Term Discount Overview"
+      Link="/Content/08 Point of Sale Transactions/08-03 Payment on Account/Special Payment Term Discount Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-04A Account Adjustment">
+    <TocEntry
+      Title="Account Adjustment Overview"
+      Link="/Content/08 Point of Sale Transactions/08-04A Account Adjustment/Account Adjustment Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Account Adjustment Policy"
+      Link="/Content/08 Point of Sale Transactions/08-04A Account Adjustment/Account Adjustment Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Joint Check  Agreement  Overview"
+      Link="/Content/08 Point of Sale Transactions/08-04A Account Adjustment/Joint Check Agreement Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Joint Check  Refund Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-04A Account Adjustment/Joint Check Refund Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="NSF Check Security Overview"
+      Link="/Content/08 Point of Sale Transactions/08-04A Account Adjustment/NSF Check Security Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="NSF or Returned Check Overview"
+      Link="/Content/08 Point of Sale Transactions/08-04A Account Adjustment/NSF or Returned Check Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Payment or Credit Balance Refund Policy"
+      Link="/Content/08 Point of Sale Transactions/08-04A Account Adjustment/Payment or Credit Balance Refund Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Payment or Credit Balance Refund Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-04A Account Adjustment/Payment or Credit Balance Refund Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Refund Installer Retainage Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-04A Account Adjustment/Refund Installer Retainage Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-04B Payment Return">
+    <TocEntry
+      Title="Payment Return Policy"
+      Link="/Content/08 Point of Sale Transactions/08-04B Payment Return/Payment Return Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Payment Return Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-04B Payment Return/Payment Return Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-05 No Sale">
+    <TocEntry
+      Title="No Sale Policy"
+      Link="/Content/08 Point of Sale Transactions/08-05 No Sale/No Sale Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="No Sale Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-05 No Sale/No Sale Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-09 Validate Manual Form">
+    <TocEntry
+      Title="Validate Manual POST Form Policy"
+      Link="/Content/08 Point of Sale Transactions/08-09 Validate Manual Form/Validate Manual POST Form Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Validate Manual POST Form Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-09 Validate Manual Form/Validate Manual POST Form Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-10 Training Mode">
+    <TocEntry
+      Title="Access Training Mode Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-08 Training Mode/Access Training Mode Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Review Training Mode Transactions Procedure"
+      Link="/Content/19 Store Computer (POS) Basics/19-08 Training Mode/Review Training Mode Transactions Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Training Mode Overview"
+      Link="/Content/19 Store Computer (POS) Basics/19-08 Training Mode/Training Mode Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Training Mode Policy"
+      Link="/Content/19 Store Computer (POS) Basics/19-08 Training Mode/Training Mode Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-11 Return Dispostion">
+    <TocEntry
+      Title="Return Disposition Mode Overview"
+      Link="/Content/08 Point of Sale Transactions/08-11 Return Dispostion/Return Disposition Mode Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Return Disposition Mode Policy"
+      Link="/Content/08 Point of Sale Transactions/08-11 Return Dispostion/Return Disposition Mode Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Return Disposition Mode Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-11 Return Dispostion/Return Disposition Mode Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-12 Customer Complaint &amp; Product Quality Reporting (PQR)">
+    <TocEntry
+      Title="Batch Date Overview"
+      Link="/Content/08 Point of Sale Transactions/08-12 Customer Complaint &amp; Product Quality Reporting (PQR)/Batch Date Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Customer Complaint &amp; PQR Policy"
+      Link="/Content/08 Point of Sale Transactions/08-12 Customer Complaint &amp; Product Quality Reporting (PQR)/Customer Complaint &amp; PQR Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Customer Situations in PQR Overview"
+      Link="/Content/08 Point of Sale Transactions/08-12 Customer Complaint &amp; Product Quality Reporting (PQR)/Customer Situations in PQR Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="PQR Details on SWeep Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-12 Customer Complaint &amp; Product Quality Reporting (PQR)/PQR Details on SWeep Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="PQR Help Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-12 Customer Complaint &amp; Product Quality Reporting (PQR)/PQR Help Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="PQR Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-12 Customer Complaint &amp; Product Quality Reporting (PQR)/PQR Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="PQR Type of Help Overview"
+      Link="/Content/08 Point of Sale Transactions/08-12 Customer Complaint &amp; Product Quality Reporting (PQR)/PQR Type of Help Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="PQR Settlement Type Overview"
+      Link="/Content/08 Point of Sale Transactions/08-12 Customer Complaint &amp; Product Quality Reporting (PQR)/PQR Settlement Type Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Print or Search PQR Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-12 Customer Complaint &amp; Product Quality Reporting (PQR)/Print or Search PQR Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Product Quality Reporting (PQR)  Overview"
+      Link="/Content/08 Point of Sale Transactions/08-12 Customer Complaint &amp; Product Quality Reporting (PQR)/Product Quality Reporting (PQR) Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-13 Correction Transaction">
+    <TocEntry
+      Title="Correction Transaction Overview"
+      Link="/Content/08 Point of Sale Transactions/08-13 Correction Transaction/Correction Transaction Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Correction Transaction Policy"
+      Link="/Content/08 Point of Sale Transactions/08-13 Correction Transaction/Correction Transaction Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Correction Transaction Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-13 Correction Transaction/Correction Transaction Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Lump Sum Sales Correction Policy"
+      Link="/Content/08 Point of Sale Transactions/08-13 Correction Transaction/Lump Sum Sales Correction Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-13A Invoice Correction">
+    <TocEntry
+      Title="Invoice Correction Help"
+      Link="/Content/08 Point of Sale Transactions/08-13A Invoice Correction/Invoice Correction Help.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Invoice Correction Overview"
+      Link="/Content/08 Point of Sale Transactions/08-13A Invoice Correction/Invoice Correction Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Invoice Correction Policy"
+      Link="/Content/08 Point of Sale Transactions/08-13A Invoice Correction/Invoice Correction Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Invoice Correction Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-13A Invoice Correction/Invoice Correction Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-14 Inter Store Transfer (IST)">
+    <TocEntry
+      Title="Correcting an IST Policy"
+      Link="/Content/08 Point of Sale Transactions/08-14 Inter Store Transfer (IST)/Correcting an IST Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Create Inter Store Request (ISR) Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-14 Inter Store Transfer (IST)/Create Inter Store Request (ISR) Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Create IST Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-14 Inter Store Transfer (IST)/Create IST Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Inter Store Transfer (IST) Overview"
+      Link="/Content/08 Point of Sale Transactions/08-14 Inter Store Transfer (IST)/Inter Store Transfer (IST) Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Inter Store Transfer Policy"
+      Link="/Content/08 Point of Sale Transactions/08-14 Inter Store Transfer (IST)/Inter Store Transfer Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Point of Purchase (POP) Overview"
+      Link="/Content/08 Point of Sale Transactions/08-14 Inter Store Transfer (IST)/Point of Purchase (POP) Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Transfers to Non-Store Locations Overview"
+      Link="/Content/08 Point of Sale Transactions/08-14 Inter Store Transfer (IST)/Transfers to Non-Store Locations Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-15 Inter Store Transfer Cancel">
+    <TocEntry
+      Title="Cancel Inter Store Transfer Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-15 Inter Store Transfer Cancel/Cancel Inter Store Transfer Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Inter Store Transfer Cancel Overview"
+      Link="/Content/08 Point of Sale Transactions/08-15 Inter Store Transfer Cancel/Inter Store Transfer Cancel Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Inter Store Transfer Cancel Policy"
+      Link="/Content/08 Point of Sale Transactions/08-15 Inter Store Transfer Cancel/Inter Store Transfer Cancel Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-16 Miscellaneous Cash Receipt">
+    <TocEntry
+      Title="Miscellaneous Cash Receipt Policy"
+      Link="/Content/08 Point of Sale Transactions/08-16 Miscellaneous Cash Receipt/Miscellaneous Cash Receipt Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Miscellaneous Cash Receipt Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-16 Miscellaneous Cash Receipt/Miscellaneous Cash Receipt Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Transaction Type Overview"
+      Link="/Content/08 Point of Sale Transactions/08-16 Miscellaneous Cash Receipt/Transaction Type Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-17 Store Draft &amp; Cash Disbursement">
+    <TocEntry
+      Title="Cash Disbursement Overview"
+      Link="/Content/08 Point of Sale Transactions/08-17 Store Draft &amp; Cash Disbursement/Cash Disbursement Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Cash Disbursement Policy"
+      Link="/Content/08 Point of Sale Transactions/08-17 Store Draft &amp; Cash Disbursement/Cash Disbursement Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Cash Disbursement Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-17 Store Draft &amp; Cash Disbursement/Cash Disbursement Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Draft Disbursement Policy"
+      Link="/Content/08 Point of Sale Transactions/08-17 Store Draft &amp; Cash Disbursement/Store Draft Disbursement Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Draft Disbursement Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-17 Store Draft &amp; Cash Disbursement/Store Draft Disbursement Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-18 Store Expense">
+    <TocEntry
+      Title="Automotive Store Expense Overview"
+      Link="/Content/08 Point of Sale Transactions/08-18 Store Expense/Automotive Store Expense Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Automotive Store Expense Policy"
+      Link="/Content/08 Point of Sale Transactions/08-18 Store Expense/Automotive Store Expense Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Expensed Merchandise Sale Policy"
+      Link="/Content/08 Point of Sale Transactions/08-18 Store Expense/Expensed Merchandise Sale Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Expense Overview"
+      Link="/Content/08 Point of Sale Transactions/08-18 Store Expense/Store Expense Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Expense Policy"
+      Link="/Content/08 Point of Sale Transactions/08-18 Store Expense/Store Expense Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Expense Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-18 Store Expense/Store Expense Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-19 Store Expense Cancel">
+    <TocEntry
+      Title="Cancel Store Expense Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-19 Store Expense Cancel/Cancel Store Expense Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Cancel Store Expense Overview"
+      Link="/Content/08 Point of Sale Transactions/08-19 Store Expense Cancel/Store Expense Cancel Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Store Expense Cancel Policy"
+      Link="/Content/08 Point of Sale Transactions/08-19 Store Expense Cancel/Store Expense Cancel Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-20 Donations &amp; Charitable Contributions">
+    <TocEntry
+      Title="Charitable Contribution Policy"
+      Link="/Content/22 Discounts &amp; Donations/22-07 Donations &amp; Charitable Contributions/Charitable Contribution Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Customer Donations Policy"
+      Link="/Content/22 Discounts &amp; Donations/22-07 Donations &amp; Charitable Contributions/Customer Donations Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Customer Donations Procedure"
+      Link="/Content/22 Discounts &amp; Donations/22-07 Donations &amp; Charitable Contributions/Customer Donations Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Homes for Our Troops Contribution Procedure"
+      Link="/Content/22 Discounts &amp; Donations/22-07 Donations &amp; Charitable Contributions/Homes for Our Troops Contribution Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Homes for Our Troops Overview"
+      Link="/Content/22 Discounts &amp; Donations/22-07 Donations &amp; Charitable Contributions/Homes for Our Troops Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Homes for Our Troops Policy"
+      Link="/Content/22 Discounts &amp; Donations/22-07 Donations &amp; Charitable Contributions/Homes for Our Troops Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="United Way Contribution Procedure"
+      Link="/Content/22 Discounts &amp; Donations/22-07 Donations &amp; Charitable Contributions/United Way Contribution Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-21B Obtaining Change from Bank">
+    <TocEntry
+      Title="Obtain Change from Bank Overview"
+      Link="/Content/08 Point of Sale Transactions/08-05 No Sale/Obtain Change from Bank Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Obtain Change from Bank Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-05 No Sale/Obtain Change from Bank Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-22 Recovery Mode">
+    <TocEntry
+      Title="Recovery Mode Policy"
+      Link="/Content/08 Point of Sale Transactions/08-22 Recovery Mode/Recovery Mode Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Recovery Mode Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-22 Recovery Mode/Recovery Mode Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-23A Decorative Product Specialist (DPS) In-Home Consultations">
+    <TocEntry
+      Title="Decorative Product Specialist Consultation  Policy"
+      Link="/Content/02 Advertising &amp; Visual Merchandising/02-06A Decorative Product Specialist (DPS) In-Home Consultations/Decorative Product Specialist Consultation Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Decorative Product Specialist Consultation Procedure"
+      Link="/Content/02 Advertising &amp; Visual Merchandising/02-06A Decorative Product Specialist (DPS) In-Home Consultations/Decorative Product Specialist Consultation Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="DPS In-Home Consultations Program Overview"
+      Link="/Content/02 Advertising &amp; Visual Merchandising/02-06A Decorative Product Specialist (DPS) In-Home Consultations/DPS In-Home Consultations Program Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-23B ColorSnap In-Home Consultations">
+    <TocEntry
+      Title="ColorSnap In-Home Consultations  Overview"
+      Link="/Content/02 Advertising &amp; Visual Merchandising/02-06B ColorSnap In-Home Consultations/ColorSnap In-Home Consultations Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="ColorSnap In-Home Consultations Policy"
+      Link="/Content/02 Advertising &amp; Visual Merchandising/02-06B ColorSnap In-Home Consultations/ColorSnap In-Home Consultations Policy.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="ColorSnap In-Home Consultations Procedure"
+      Link="/Content/02 Advertising &amp; Visual Merchandising/02-06B ColorSnap In-Home Consultations/ColorSnap In-Home Consultations Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-24 Email Receipts">
+    <TocEntry
+      Title="Email Receipts Overview"
+      Link="/Content/08 Point of Sale Transactions/08-25 Customer Invoices/Email Receipts Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Email Receipts Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-25 Customer Invoices/Email Receipts Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="08-25 Customer Invoices">
+    <TocEntry
+      Title="Customer Invoice Overview"
+      Link="/Content/08 Point of Sale Transactions/08-25 Customer Invoices/Customer Invoice Overview.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Invoice Receipt &amp; Printing Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-25 Customer Invoices/Invoice Receipt &amp; Printing Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Reprint Invoice Procedure"
+      Link="/Content/08 Point of Sale Transactions/08-25 Customer Invoices/Reprint Invoice Procedure.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/08 Point of Sale Transactions/Materials Acceptance Agreement Purchase Procedure.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+</html>
